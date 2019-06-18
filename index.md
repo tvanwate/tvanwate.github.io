@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: false
 entries_layout: list
 image:
-  path: /images/lab_wide_1600_552_text.png
+  path: /images/Untitled.pdf
 ---
 
 The KU Leuven Audio Engineering Lab engages in signal processing research for audio, speech, music, and acoustics applications. The Lab currently hosts 14 international PhD and postdoc researchers and participates in several nationally and internationally funded research projects, ranging from fundamental research to industry-funded applied research. The Lab is headed by Toon van Waterschoot is affiliated to two research labs at the KU Leuven Department of Electrical Engineering (ESAT): the Stadius Centre for Dynamical Systems, Signal Processing and Data Analytics, and the e-Media Research Lab.
