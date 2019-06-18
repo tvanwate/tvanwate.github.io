@@ -2,7 +2,7 @@
 layout: post
 limit: 10
 show_excerpts: false
-entries_layout: list
+entries_layout: grid
 image:
   path: /images/Untitled.pdf
 ---
