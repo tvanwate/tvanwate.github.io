@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: collection
+collection: recipes
 limit: 10
 show_excerpts: false
 entries_layout: grid
