@@ -1,3 +1,4 @@
+# Site settings
 remote_theme: "mmistakes/so-simple-theme"
 logo: "/images/icon.png"
 locale: "en-us"
@@ -9,3 +10,20 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+
+# Site Author
+author:
+  name: Toon van Waterschoot
+  picture: /images/michael-rose-photo.jpg
+  email: toon.vanwaterschoot@esat.kuleuven.be
+  twitter: ToonvW
+  links:
+    - title: Twitter
+      url: https://twitter.com/ToonvW
+      icon: fab fa-twitter-square
+    - title: LinkedIn
+      url: https://linkedin.com/in/toonvanwaterschoot
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/tvanwate
+      icon: fab fa-github-square
