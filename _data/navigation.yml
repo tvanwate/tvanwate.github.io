@@ -2,7 +2,11 @@
 
 - title: Home
   url: /
+- title: Team
+  url: /team/
 - title: Publications
   url: /publications/
-- title: Software
-  url: /software/
+- title: Projects
+  url: /projects/
+- title: Resources
+  url: /resources/
