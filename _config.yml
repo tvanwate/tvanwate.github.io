@@ -1,8 +1,8 @@
 remote_theme: "mmistakes/so-simple-theme"
 logo: "/images/icon.png"
 locale: "en-us"
-title: "SONORA"
-description: "The Spatial Dynamics of Room Acoustics"
+title: "KU Leuven Audio Engineering Lab"
+description: "Toon van Waterschoot"
 mathjax: true
 google_fonts:
   - name: "Source Sans Pro"
