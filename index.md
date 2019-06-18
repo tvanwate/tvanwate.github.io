@@ -1,8 +1,7 @@
 ---
 layout: post
-title:
 limit: 10
-show_excerpts: true
+show_excerpts: false
 entries_layout: list
 image:
   path: /images/lab_wide_1600_552.jpg
