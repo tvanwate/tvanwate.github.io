@@ -81,6 +81,9 @@ author:
   email: toon.vanwaterschoot@esat.kuleuven.be
   twitter: ToonvW
   links:
+    - title: Email
+      url: mailto:toon.vanwaterschoot@esat.kuleuven.be
+      icon: fab fa-envelope    
     - title: Twitter
       url: https://twitter.com/ToonvW
       icon: fab fa-twitter-square
