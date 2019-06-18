@@ -83,7 +83,7 @@ author:
   links:
     - title: Email
       url: mailto:toon.vanwaterschoot@esat.kuleuven.be
-      icon: fab fa-envelope    
+      icon: fab fa-at    
     - title: Twitter
       url: https://twitter.com/ToonvW
       icon: fab fa-twitter-square
