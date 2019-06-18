@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+$accent-color: rgb(10, 130, 224);
+$background-color: rgb(206, 230, 249);
+$base-color: rgb(36, 142, 228);
+$border-color: rgb(103, 103, 103);
+$text-color: rgb(103, 103, 103);
+$nav-background-color: rgb(36, 142, 228);
+
+/*
+$base-color: #000 !default;
+$text-color: #000 !default;
+$accent-color: #34374C !default;
+$nav-color: #fff !default;
+$background-color: #fff !default;
+$nav-background-color: #000 !default;
+$code-background-color: tint($base-color, 95%) !default;
+$border-color: tint($base-color, 80%) !default;
+*/
+
+@charset "utf-8";
+
+@import "so-simple";
