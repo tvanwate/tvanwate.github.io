@@ -1,6 +1,6 @@
 ---
 title: Recipes
-layout: collection_post
+layout: post
 permalink: /recipes/
 collection: recipes
 entries_layout: grid
