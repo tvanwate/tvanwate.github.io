@@ -1,5 +1,4 @@
 ---
-title: Recipes
 layout: collection_post
 permalink: /recipes/
 collection: recipes
