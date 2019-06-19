@@ -1,5 +1,5 @@
 ---
-date: 1000-01-01
+category: PI
 title: "Toon van Waterschoot"
 image: 
   path: /images/empty_banner.png
