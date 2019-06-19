@@ -73,7 +73,7 @@ defaults:
       path: "_team"
       type: team
     values:
-      layout: page
+      layout: post
       comments: false
       share: false
   # Topics defaults
