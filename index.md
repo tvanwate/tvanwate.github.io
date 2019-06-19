@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: collection_post
 collection: recipes
+entries_layout: grid
 image:
   path: /images/Untitled.pdf
 ---
