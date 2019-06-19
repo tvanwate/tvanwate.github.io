@@ -1,5 +1,5 @@
 ---
-date: "1000-01-02"
+category: PM
 title: "Aldona Niemiro-Sznajder"
 image: 
   path: /images/empty_banner.png
