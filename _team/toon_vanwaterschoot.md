@@ -1,5 +1,4 @@
 ---
-layout: post_sorted
 date: 1000-01-01
 title: "Toon van Waterschoot"
 image: 
