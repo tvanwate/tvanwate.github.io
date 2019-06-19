@@ -1,5 +1,5 @@
 ---
-date: 2000-01-01
+category: PD
 title: "Giuliano Bernardi"
 image: 
   path: /images/empty_banner.png
