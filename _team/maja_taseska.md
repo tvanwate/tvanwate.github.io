@@ -1,6 +1,7 @@
 ---
-nummer: 4
-title: "Maja Taseska"
+layout: post_sorted
+title: 4
+realtitle: "Maja Taseska"
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/maja_circle.png
