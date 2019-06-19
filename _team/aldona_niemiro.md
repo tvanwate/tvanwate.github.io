@@ -1,5 +1,5 @@
 ---
-nummer: 2
+layout: post_sorted
 title: "Aldona Niemiro-Sznajder"
 image: 
   path: /images/empty_banner.png
