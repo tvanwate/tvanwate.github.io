@@ -1,7 +1,7 @@
 ---
 title: "Toon van Waterschoot"
 image: 
-  path: 
+  path: /images/empty_banner.png
   thumbnail: /images/toon_circle.png
 ---
 
