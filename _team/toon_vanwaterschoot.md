@@ -1,5 +1,4 @@
 ---
-layout: collection_nummer
 nummer: 1
 title: "Toon van Waterschoot"
 image: 
