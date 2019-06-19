@@ -1,5 +1,4 @@
 ---
-layout: collection_nummer
 nummer: 3
 title: "Giuliano Bernardi"
 image: 
