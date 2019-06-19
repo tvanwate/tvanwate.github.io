@@ -1,5 +1,6 @@
 ---
 layout: post_sorted
+date: 2000-01-01
 title: "Giuliano Bernardi"
 image: 
   path: /images/empty_banner.png
