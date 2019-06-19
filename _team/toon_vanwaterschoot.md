@@ -6,7 +6,7 @@ image:
   thumbnail: /images/toon_circle.png
 ---
 
-Toon Jos van Waterschoot is the **Principal Investigator** of the KU Leuven Audio Engineering Lab. He is currently an Associate Professor and Consolidator Grantee of the European Research Council (ERC) at KU Leuven.
+Toon van Waterschoot is the **Principal Investigator** of the KU Leuven Audio Engineering Lab. He is currently an Associate Professor and Consolidator Grantee of the European Research Council (ERC) at KU Leuven.
 
 ## Biography
 As of 2018, I am an Associate Professor at  [KU Leuven](http://www.kuleuven.be/) , Belgium. I am affiliated to the Stadius Center for Dynamical Systems, Signal Processing, and Data Analytics ( [STADIUS](http://www.esat.kuleuven.be/stadius) ) as well as to the  [e-Media Research Lab](https://iiw.kuleuven.be/onderzoek/emedia)  of the Department of Electrical Engineering ( [ESAT](http://www.esat.kuleuven.be/) ).
