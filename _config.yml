@@ -29,7 +29,7 @@ paginate_path: /page:num/
 search_full_content: false
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
+category_archive_path: "/team/#"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.
