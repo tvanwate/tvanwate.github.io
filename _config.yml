@@ -76,7 +76,6 @@ defaults:
       layout: post
       comments: false
       share: false
-      date: false
   # Topics defaults
   - scope:
       path: "_topics"
