@@ -1,7 +1,6 @@
 ---
-layout: collection
+layout: categories
 permalink: /team/
-collection: team
 entries_layout: grid
 ---
 
