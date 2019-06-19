@@ -51,7 +51,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  topics:
     output: true
     permalink: /:collection/:path/
 
@@ -67,8 +67,8 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_topics"
+      type: topics
     values:
       layout: post
       comments: true
@@ -83,7 +83,7 @@ author:
   links:
     - title: Email
       url: mailto:toon.vanwaterschoot@esat.kuleuven.be
-      icon: fab fa-at    
+      icon: fas fa-at    
     - title: Twitter
       url: https://twitter.com/ToonvW
       icon: fab fa-twitter-square
