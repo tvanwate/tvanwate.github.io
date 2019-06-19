@@ -1,5 +1,6 @@
 ---
 layout: post_sorted
+date: 1000-01-02
 title: "Aldona Niemiro-Sznajder"
 image: 
   path: /images/empty_banner.png
