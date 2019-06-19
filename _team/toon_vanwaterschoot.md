@@ -8,57 +8,61 @@ Toon van Waterschoot is the **Principal Investigator** of the KU Leuven Audio En
 
 ## Biography
 As of 2018, I am an Associate Professor at  [KU Leuven](http://www.kuleuven.be/) , Belgium. I am affiliated to the Stadius Center for Dynamical Systems, Signal Processing, and Data Analytics ( [STADIUS](http://www.esat.kuleuven.be/stadius) ) as well as to the  [e-Media Research Lab](https://iiw.kuleuven.be/onderzoek/emedia)  of the Department of Electrical Engineering ( [ESAT](http://www.esat.kuleuven.be/) ).
+
 In 2001, I graduated as a Master in Electrical Engineering at KU Leuven, after which I spent a year as a teaching assistant with the  [Hogere Zeevaartschool Antwerpen](http://www.hzs.be/) , Belgium. One year later, in 2002, I returned to KU Leuven to start a PhD research project on signal processing applied to audio and acoustics, funded by the Institute for the Promotion of Innovation through Science and Technology in Flanders ( [IWT-Vlaanderen](http://www.iwt.be/) ), which I succesfully terminated in 2009 under the supervision of Prof.  [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?view=0&persid=2) . In 2010, I moved to  [Delft University of Technology](http://www.tudelft.nl/) , The Netherlands, where I was a Postdoctoral Research Fellow with Prof.  [Geert Leus](http://cas.et.tudelft.nl/~leus/) , working on distributed signal processing for wireless sensor networks. In 2011, I received a Postdoctoral Fellowship from the Research Foundation Flanders ( [FWO-Vlaanderen](http://www.fwo.be/) ), which enabled me to return again to KU Leuven for initiating a 3-year research program on acoustic signal enhancement in cooperation with Prof. Marc Moonen and Prof.  [Moritz Diehl](http://homes.esat.kuleuven.be/~mdiehl/) . In 2013, I was appointed as an Assistant Professor at KU Leuven, Belgium, where I am currently supervising a team of researchers working in the field of audio engineering and signal processing. From 2013 to 2016, I have also been serving as a Scientific Coordinator for the FP7-PEOPLE Marie Curie Initial Training Network “Dereverberation and Reverberation of Audio, Music, and Speech ( [DREAMS](http://www.dreams-itn.eu/) )” funded by the  [European Commission](http://ec.europa.eu/euraxess/) . In 2017, I have been awarded a Consolidator Grant by the European Research Council (ERC), which allows me and my research team to explore the analysis and synthesis of complex dynamic sound scenes in the ERC project “The Spatial Dynamics of Room Acoustics (SONORA)”, 2018-2023. I have been teaching digital signal processing (with Prof. Marc Moonen and Prof.  [Søren Holdt Jensen](http://kom.aau.dk/~shj/) ) at the Advanced Learning and Research Institute ( [ALaRI](http://www.alari.ch/) ) of the University of Lugano, Switzerland, optimization in the  [Faculty of Engineering Science](http://eng.kuleuven.be/)  at KU Leuven, and digital signal processing, control theory, signals & systems, multimedia, and linear algebra & geometry in the  [Faculty of Engineering Techology](http://iiw.kuleuven.be/)  at the KU Leuven  [Campus Geel](http://iiw.kuleuven.be/geel)  and  [Campus Group T](http://iiw.kuleuven.be/groupt) .
+
 Next to my academic career, I’ve been spending quite some time studying and playing music. I’ve been involved in the composition and performance of a wide range of musical styles, from experimental trash rock over electronic music to classical and early music. I started studying music at the age of 8, and since then I’ve been performing and touring with a number of rock bands, small ensembles, and orchestras, in Belgium as well as abroad. I’ve been lucky to have several inspiring musical mentors with whom I’ve been studying brass instruments (flugelhorn, bass), string instruments (guitar, violin), and keyboard instruments (piano, organ). In 2001, I obtained a violin diploma (summa cum laude) in the Flemish part-time music education program. Since 2012, I’ve been again enrolled in such a program, now studying the  [organ](http://www.orgelherentals.be/)  and focusing on early music.
 Finally, I also enjoy  [renovating old houses](https://inventaris.onroerenderfgoed.be/dibe/relict/209127) , volunteering in all kinds of organizations, and of course spending time with my wife and three kids.
 
 ## Academic CV
-### ### Degrees
-Mar. 2009	PhD in Electrical Engineering, *KU Leuven, Belgium*
-Jun. 2001	MSc in Electrical Engineering, *KU Leuven, Belgium*
+### Degrees
+- PhD in Electrical Engineering, *KU Leuven, Belgium*, Mar. 2009
+- MSc in Electrical Engineering, *KU Leuven, Belgium, Jun. 2001
 
 ### Academic Positions
-since 2018	ERC Consolidator Grantee, *KU Leuven, Belgium*
-since 2018	Associate Professor, *KU Leuven, Belgium*
-2013–2018	Assistant Professor (tenure-track), *KU Leuven, Belgium*
-since 2005	Visiting Lecturer, *University of Lugano, Switzerland*
-2011–2014	Postdoctoral Research Fellow of the Research Foundation Flanders (FWO-Vlaanderen), *KU Leuven, Belgium*
-2010–2011	Postdoctoral Research Fellow, *Delft University of Technology, The Netherlands*
-2009–2010	Postdoctoral Research Fellow, *KU Leuven, Belgium*
-2004–2007	PhD Fellow of the Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), *KU Leuven, Belgium*
-2002–2009	Research Assistant, *KU Leuven, Belgium*
-2002		Teaching Assistant, *Antwerp Maritime Academy, Belgium*
+- ERC Consolidator Grantee, *KU Leuven, Belgium* (2018—ongoing)
+- Associate Professor, *KU Leuven, Belgium* (2018—ongoing)
+- Assistant Professor (tenure-track), *KU Leuven, Belgium* (2013–2018)
+- Visiting Lecturer, *University of Lugano, Switzerland* (2005–2016)
+- Postdoctoral Research Fellow of the Research Foundation Flanders (FWO-Vlaanderen), *KU Leuven, Belgium* (2011–2014)
+- Postdoctoral Research Fellow, *Delft University of Technology, The Netherlands* (2010–2011)
+- Postdoctoral Research Fellow, *KU Leuven, Belgium* (2009–2010)
+- PhD Fellow of the Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), *KU Leuven, Belgium* (2004–2007)
+- Research Assistant, *KU Leuven, Belgium* (2002–2009)
+- Teaching Assistant, *Antwerp Maritime Academy, Belgium* (2002)
 
 ### Short Research Visits
-Nov. 2012	Mathematical Statistics (Prof. Andreas Jakobsson), Centre for Mathematical Sciences, *Lund University, Sweden*
-May 2012	Division of Systems and Control (Prof. Kristiaan Pelckmans, Prof. Peter Stoica), Department of Information Technology, *Uppsala University, Sweden*
-Feb. 2011	Signal Processing (Prof. Simon Doclo), Institute of Physics, *Carl von Ossietzky Universität Oldenburg, Germany*
-Dec. 2010	Multimedia Information and Signal Processing (Prof. Søren Holdt Jensen), Department of Electronic Systems, *Aalborg University, Denmark*
+- Mathematical Statistics (Prof. Andreas Jakobsson), Centre for Mathematical Sciences, *Lund University, Sweden*, Nov. 2012
+- Division of Systems and Control (Prof. Kristiaan Pelckmans, Prof. Peter Stoica), Department of Information Technology, *Uppsala University, Sweden*, May 2012
+- Signal Processing (Prof. Simon Doclo), Institute of Physics, *Carl von Ossietzky Universität Oldenburg, Germany*, Feb. 2011
+- Multimedia Information and Signal Processing (Prof. Søren Holdt Jensen), Department of Electronic Systems, *Aalborg University, Denmark*, Dec. 2010
 
 ### Awards
-2017		Board of Governors Award, *Audio Engineering Society (AES)*
-Aug. 2016	EUSIPCO-2016 Best Paper Award (M. Mounir, P. Karsmakers, and T. van Waterschoot, “Guitar note onset detection based on a spectral sparsity measure”), *24th European Signal Process. Conf. (EUSIPCO ’16), Budapest, Hungary, Aug. 2016* (Co-author)
-Mar. 2014	Best Master Thesis Prize (Mina Shehata, “Note Onset Detection Using Sparse Over-Complete Representation of Musical Signals”, supervised by Prof. Miroslaw Malek (University of Lugano, Switzerland) and Prof. Toon van Waterschoot (KU Leuven, Belgium)), *Swissengineering Ticino, Switzerland* (Supervisor)
+- KU Leuven Teaching Awards (Best organised professor, Most approachable professor, Best course in the (bio)chemical engineering program), *KU Leuven Campus Group T Student Council*, Leuven, Belgium, 2019.
+- ERC Consolidator Grant, *European Research Council (ERC)*, Brussels, Belgium, 2018.
+- Board of Governors Award, *Audio Engineering Society (AES)*, Milan, Italy, 2018
+- EUSIPCO-2016 Best Paper Award (M. Mounir, P. Karsmakers, and T. van Waterschoot, “Guitar note onset detection based on a spectral sparsity measure”), *24th European Signal Process. Conf. (EUSIPCO ’16)*, Budapest, Hungary, Aug. 2016 (Co-author)
+- Best Master Thesis Prize (Mina Shehata, “Note Onset Detection Using Sparse Over-Complete Representation of Musical Signals”, supervised by Prof. Miroslaw Malek (University of Lugano, Switzerland) and Prof. Toon van Waterschoot (KU Leuven, Belgium)), *Swissengineering Ticino*, Lugano, Switzerland, Mar. 2014 (Supervisor)
 ### 
 Scholarships – Research Grants
-2018–2021	Postdoctoral Research Fellowship Maja Taseska (3 years – 300 kEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium* (Supervisor)
-2018–2023	ERC Consolidator Grant “SONORA” (5 years – 2 MEUR), *European Research Council (ERC)* (PI)
-2018–2022	FWO Large-Scale Research Infrastructure Grant “The Library of Voices” (4 years – 1.1 MEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium* (Supervisor)
-2018–2020	Industrial R&D Project “SPOTT” (2 years – 287 kEUR), *Flanders Innovation & Entrepreneurship (VLAIO), Belgium* (PI)
-2016–2020	CSC PhD Scholarship Duowei Tang (4 years – 58 kEUR), *China Scholarship Council (CSC), China* (PI)
-2016–2020	Category 2 Project “WLAAN” (4 years – 653 kEUR), *KU Leuven Research Fund (BOF), Belgium* (Supervisor)
-2015–2017	TETRA Research Valorization Project “m-Sense” (2 years – 354 kEUR), *Flanders Innovation & Entrepreneurship (VLAIO), Belgium* (Supervisor)
-2016–2018	Verkennende Europese Samenwerking (VES) “SOUNDS” (2 years – 12.5 kEUR), *KU Leuven Research Fund (BOF), Belgium* (PI)
-2015–2017	Industrial R&D Project “Ravenna” (2 years – 287 kEUR), *Flanders Innovation & Entrepreneurship (VLAIO), Belgium* (PI)
-2015–2018	Industrial R&D Project “Cochlear-VII” (3 years – 419 kEUR), *Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), Belgium* (Supervisor)
-2014–2018	Impulse project “SparsEvent” (4 years – 185 kEUR), *KU Leuven Impulse Fund, Belgium* (PI)
-2014–2019	Baekeland PhD Scholarship Martyn Hemeryck (5 years – 300 kEUR), *Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), Belgium* (PI)
-2014–2016	BOF-F+ Postdoctoral Research Fellowship Enzo De Sena (1 year – 35 kEUR), *KU Leuven Research Fund (BOF), Belgium* (Supervisor)
-2014–2016	Verkennende Europese Samenwerking (VES) “MEDIA” (2 years – 15 kEUR), *KU Leuven Research Fund (BOF), Belgium* (PI)
-2013–2016	Marie Curie Initial Training Network “DREAMS” (4 years – 4.1 MEUR), *Research Executive Agency (REA) of the European Commission (EC)* (PI)
-2011–2014	Postdoctoral Research Fellowship (3 years – 297 kEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium* (Grantee)
-Aug. 2009	Travel grant (17th European Signal Process. Conf., Glasgow, Scotland, UK – 0.2 kEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium* (Grantee)
-2004–2007	PhD Scholarship (4 years – 90 kEUR), *Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), Belgium* (Grantee)
+- Postdoctoral Research Fellowship Maja Taseska (3 years – 300 kEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium*, 2018–2021 (Supervisor)
+- ERC Consolidator Grant “SONORA” (5 years – 2 MEUR), *European Research Council (ERC)*, 2018–2023 (PI)
+- FWO Large-Scale Research Infrastructure Grant “The Library of Voices” (4 years – 1.1 MEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium*, 2018–2022 (Supervisor)
+- Industrial R&D Project “SPOTT” (2 years – 287 kEUR), *Flanders Innovation & Entrepreneurship (VLAIO), Belgium*, 2018–2020 (PI)
+- CSC PhD Scholarship Duowei Tang (4 years – 58 kEUR), *China Scholarship Council (CSC), China*, 2016–2020 (PI)
+- Category 2 Project “WLAAN” (4 years – 653 kEUR), *KU Leuven Research Fund (BOF), Belgium*, 2016–2020 (Supervisor)
+- TETRA Research Valorization Project “m-Sense” (2 years – 354 kEUR), *Flanders Innovation & Entrepreneurship (VLAIO), Belgium*, 2015–2017 (Supervisor)
+- Verkennende Europese Samenwerking (VES) “SOUNDS” (4 years – 25 kEUR), *KU Leuven Research Fund (BOF), Belgium*, 2016–2020 (PI)
+- Industrial R&D Project “Ravenna” (2 years – 287 kEUR), *Flanders Innovation & Entrepreneurship (VLAIO), Belgium*, 2015–2017 (PI)
+- Industrial R&D Project “Cochlear-VII” (3 years – 419 kEUR), *Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), Belgium*, 2015–2018 (Supervisor)
+- Impulse project “SparsEvent” (4 years – 185 kEUR), *KU Leuven Impulse Fund, Belgium*, 2014–2018 (PI)
+- Baekeland PhD Scholarship Martyn Hemeryck (5 years – 300 kEUR), *Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), Belgium*, 2014–2019 (PI)
+- BOF-F+ Postdoctoral Research Fellowship Enzo De Sena (1 year – 35 kEUR), *KU Leuven Research Fund (BOF), Belgium*, 2014–2016 (Supervisor)
+- Verkennende Europese Samenwerking (VES) “MEDIA” (2 years – 15 kEUR), *KU Leuven Research Fund (BOF), Belgium*, 2014–2016 (PI)
+- Marie Curie Initial Training Network “DREAMS” (4 years – 4.1 MEUR), *Research Executive Agency (REA) of the European Commission (EC)*, 2013–2016 (PI)
+- Postdoctoral Research Fellowship (3 years – 297 kEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium*, 2011–2014 (Grantee)
+- Travel grant (17th European Signal Process. Conf., Glasgow, Scotland, UK – 0.2 kEUR), *Research Foundation Flanders (FWO-Vlaanderen), Belgium*, Aug. 2009 (Grantee)
+- PhD Scholarship (4 years – 90 kEUR), *Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), Belgium*, 2004–2007 (Grantee)
 
 ### Memberships
 * Audio Engineering Society (AES), *Associate*
