@@ -1,6 +1,6 @@
 ---
 layout: post_sorted
-title: 1
+title: "1"
 realtitle: "Toon van Waterschoot"
 image: 
   path: /images/empty_banner.png
