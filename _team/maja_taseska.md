@@ -1,5 +1,5 @@
 ---
-date: 2000-01-02
+category: PD
 title: "Maja Taseska"
 image: 
   path: /images/empty_banner.png
