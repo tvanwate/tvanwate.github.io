@@ -1,5 +1,4 @@
 ---
-layout: collection_nummer
 nummer: 4
 title: "Maja Taseska"
 image: 
