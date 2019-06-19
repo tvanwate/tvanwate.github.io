@@ -1,6 +1,6 @@
 ---
 layout: collection_post
-collection: recipes
+collection: topics
 entries_layout: grid
 image:
   path: /images/home_banner.pdf
