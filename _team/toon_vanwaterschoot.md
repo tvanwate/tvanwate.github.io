@@ -1,6 +1,7 @@
 ---
+layout: collection_nummer
+nummer: 1
 title: "Toon van Waterschoot"
-date: 1979-06-11
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/toon_circle.png
