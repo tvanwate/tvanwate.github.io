@@ -1,6 +1,7 @@
 ---
+layout: collection_nummer
+nummer: 3
 title: "Giuliano Bernardi"
-date: 2000-01-01
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/giuliano_circle.png
