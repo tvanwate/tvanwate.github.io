@@ -1,5 +1,5 @@
 ---
-nummer: 3
+layout: post_sorted
 title: "Giuliano Bernardi"
 image: 
   path: /images/empty_banner.png
