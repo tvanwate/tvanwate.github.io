@@ -1,7 +1,6 @@
 ---
 layout: post_sorted
-title: 4
-realtitle: "Maja Taseska"
+title: "Maja Taseska"
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/maja_circle.png
