@@ -1,5 +1,4 @@
 ---
-layout: collection_nummer
 nummer: 2
 title: "Aldona Niemiro-Sznajder"
 image: 
