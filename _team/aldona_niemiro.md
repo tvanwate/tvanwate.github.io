@@ -1,6 +1,7 @@
 ---
+layout: collection_nummer
+nummer: 2
 title: "Aldona Niemiro-Sznajder"
-date: 1982-04-26
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/aldona_circle.png
