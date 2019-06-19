@@ -51,6 +51,9 @@ plugins:
 
 # Collections
 collections:
+  team:
+    output: true
+    permalink: /:collection/:path/
   topics:
     output: true
     permalink: /:collection/:path/
@@ -65,13 +68,21 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Recipe defaults
+  # Team defaults
+  - scope:
+      path: "_team"
+      type: team
+    values:
+      layout: page
+      comments: false
+      share: false
+  # Topics defaults
   - scope:
       path: "_topics"
       type: topics
     values:
       layout: post
-      comments: true
+      comments: false
       share: true
 
 # Site Author
