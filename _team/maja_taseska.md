@@ -1,6 +1,7 @@
 ---
+layout: collection_nummer
+nummer: 4
 title: "Maja Taseska"
-date: 2000-01-02
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/maja_circle.png
