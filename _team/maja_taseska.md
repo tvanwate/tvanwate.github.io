@@ -1,5 +1,6 @@
 ---
 layout: post_sorted
+date: 2000-01-02
 title: "Maja Taseska"
 image: 
   path: /images/empty_banner.png
