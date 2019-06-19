@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Giuliano Bernardi is a **Postdoc** working on cooperative audio signal processing in the [ConeXound](projects/conexound/) project. He obtained his PhD at KU Leuven in 2018 on the topic of acoustic signal enhancement in hearing instruments employing bone conduction and direct acoustic cochlear stimulation.
+Giuliano Bernardi is a **Postdoc** working on cooperative audio signal processing in the [ConeXound](projects/conexound/) project. He obtained his PhD at KU Leuven in 2018 on the topic of acoustic signal enhancement in hearing instruments.
