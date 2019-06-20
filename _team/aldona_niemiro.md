@@ -15,6 +15,7 @@ author:
     - title: LinkedIn
       url: https://linkedin.com/in/aldona-niemiro-sznajder-6b27175
       icon: fab fa-linkedin
+last_modified_at: 2018-03-09T13:01:27-05:00
 ---
 
 Aldona Niemiro-Sznajder is a **Project Manager** at the Stadius Center for Dynamical Systems, Signal Processing, and Data Analytics. She manages the [SONORA](projects/sonora/) project at the KU Leuven Audio Engineering Lab.
