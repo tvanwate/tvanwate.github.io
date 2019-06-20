@@ -25,7 +25,7 @@ $border-color: tint($base-color, 80%) !default;
 
 @import "so-simple";
 
-# include any additional style commands below (e.g. due to the definition of new layouts)
+/* include any additional style commands below (e.g. due to the definition of new layouts) */
 
 .page-author-without-date {
   @include clearfix;
