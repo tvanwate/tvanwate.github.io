@@ -1,9 +1,7 @@
 ---
-layout: collection
+layout: categories
 permalink: /team/
-collection: team
+show_excerpts: true
 entries_layout: grid
-sort_by: date
-sort_order: reverse
 ---
 
