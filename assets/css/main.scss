@@ -27,18 +27,4 @@ $border-color: tint($base-color, 80%) !default;
 
 /* include any additional style commands below (e.g. due to the definition of new layouts) */
 
-.page-author-without-date {
-  @include clearfix;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    display: block;
-  }
-}
-
+@import "so-simple-tvanwate";
