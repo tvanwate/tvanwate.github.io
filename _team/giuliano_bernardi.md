@@ -1,6 +1,7 @@
 ---
-category: PD
 title: "Giuliano Bernardi"
+categories:
+  - PD
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/giuliano_circle.png
