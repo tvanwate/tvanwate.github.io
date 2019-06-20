@@ -13,7 +13,7 @@ author:
       url: mailto:giuliano.bernardi@esat.kuleuven.be
       icon: fas fa-at    
     - title: LinkedIn
-      url: linkedin.com/in/giuliano-bernardi-675aa039
+      url: https://linkedin.com/in/giuliano-bernardi-675aa039
       icon: fab fa-linkedin
 ---
 
