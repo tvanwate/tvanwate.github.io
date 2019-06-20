@@ -13,7 +13,7 @@ author:
       url: mailto:maja.taseska@esat.kuleuven.be
       icon: fas fa-at    
     - title: LinkedIn
-      url: linkedin.com/in/maja-taseska-8940418b
+      url: https://linkedin.com/in/maja-taseska-8940418b
       icon: fab fa-linkedin
     - title: GitHub
       url: https://github.com/maj4e
