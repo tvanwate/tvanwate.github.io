@@ -27,4 +27,84 @@ $border-color: tint($base-color, 80%) !default;
 
 /* include any additional style commands below (e.g. due to the definition of new layouts) */
 
-@import "so-simple-tvanwate";
+.page-author-without-date {
+  @include clearfix;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
+.layout--collection_post {
+  .page-wrapper {
+    max-width: $main-max-width;
+  }
+  
+.layout--post_without_date {
+  .page-wrapper {
+    @include breakpoint($large) {
+      display: grid;
+      grid-column-gap: 3em;
+      grid-row-gap: 0;
+      grid-template-columns: 175px 1fr;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+    }
+  }
+
+  .page-header {
+    @include breakpoint($large) {
+      grid-column: 1 / -1;
+      clear: both; // needed for floated layout
+    }
+  }
+
+  .page-sidebar {
+    margin-bottom: 1em;
+
+    @include breakpoint($large) {
+      float: left; // display: grid fallback
+      width: 18%; // display: grid fallback
+    }
+
+    @supports (display: grid) {
+      width: auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .page-content {
+    @include breakpoint($large) {
+      float: right; // display: grid fallback
+      width: 78%; // display: grid fallback
+      min-width: 0;
+    }
+
+    @supports (display: grid) {
+      width: auto;
+      margin: 0;
+    }
+  }
+
+  .page-share {
+    // display: grid fallback
+    clear: both;
+  }
+}
+
