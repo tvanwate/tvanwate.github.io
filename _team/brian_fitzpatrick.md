@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Brian Fitzpatrick is a **Postdoc** in the [SONORA](projects/sonora/) project, working on numerical acoustics and room acoustics modeling. He obtained his PhD degree from ETH Zürich in 2018.
+Brian Fitzpatrick is a **Postdoc** in the [SONORA](projects/sonora/) project, working on geometric and wave-based numerical methods for room acoustics modeling and simulation. He obtained his PhD degree from ETH Zürich in 2018.
