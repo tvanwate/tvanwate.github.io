@@ -20,4 +20,4 @@ author:
       icon: fab fa-github
 ---
 
-Thomas Dietzen is a **PhD Student** supervised by [Toon van Waterschoot](team/toon_vanwaterschoot), [Simon Doclo](http://www.sigproc.uni-oldenburg.de/45583.html) and [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?persid=2). He is working on the design and implementation of adaptive beamforming algorithms for joint noise reduction and dereverberation, with applications in speech enhancement for mobile devices.
+Thomas Dietzen is a **PhD Student** supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Simon Doclo](http://www.sigproc.uni-oldenburg.de/45583.html) and [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?persid=2). He is working on the design and implementation of adaptive beamforming algorithms for joint noise reduction and dereverberation.
