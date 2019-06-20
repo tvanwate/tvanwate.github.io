@@ -13,7 +13,7 @@ author:
       url: mailto:amin.hassani@esat.kuleuven.be
       icon: fas fa-at    
     - title: LinkedIn
-      url: linkedin.com/in/amin-hassani-10b80139
+      url: https://linkedin.com/in/amin-hassani-10b80139
       icon: fab fa-linkedin
 ---
 
