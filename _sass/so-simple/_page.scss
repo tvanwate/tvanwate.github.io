@@ -108,6 +108,21 @@
   }
 }
 
+.page-author-without-date {
+  @include clearfix;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
 .page-taxonomies-title {
   display: inline;
   padding-right: 0.5em;
