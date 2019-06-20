@@ -20,4 +20,4 @@ author:
       icon: fab fa-github
 ---
 
-Gert Dekkers is a **PhD Student** supervised by [Peter Karsmakers](https://iiw.kuleuven.be/onderzoek/advise/People/PeterKarsmakers), [Bart Vanrumste](https://iiw.kuleuven.be/onderzoek/emedia/people/vanrumstebart) and [Toon van Waterschoot](https://github.com/tvanwate/tvanwate.github.io/blob/master/team/toon_vanwaterschoot). He is working on energy-aware distributed signal processing in wireless acoustic sensor networks.
+Gert Dekkers is a **PhD Student** supervised by [Peter Karsmakers](https://iiw.kuleuven.be/onderzoek/advise/People/PeterKarsmakers), [Bart Vanrumste](https://iiw.kuleuven.be/onderzoek/emedia/people/vanrumstebart) and [Toon van Waterschoot](https://github.com/tvanwate/tvanwate.github.io/blob/master/team/toon_vanwaterschoot). He is working on energy-aware distributed signal processing and event detection in wireless acoustic sensor networks.
