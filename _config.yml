@@ -16,7 +16,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -52,9 +52,9 @@ plugins:
 
 # Collections
 collections:
-  team:
-    output: true
-    permalink: /:collection/:path/
+#  team:
+#    output: true
+#    permalink: /:collection/:path/
   topics:
     output: true
     permalink: /:collection/:path/
