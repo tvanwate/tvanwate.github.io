@@ -1,5 +1,6 @@
 ---
 title: "Acoustic Modeling"
+date: 2000-01-02
 image: 
   path: /images/acoustic_modeling_1600x800.jpg
   thumbnail: /images/acoustic_modeling_400x200.jpg
