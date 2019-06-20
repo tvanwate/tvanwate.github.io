@@ -1,6 +1,7 @@
 ---
-category: PD
 title: "Maja Taseska"
+categories:
+  - PD
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/maja_circle.png
