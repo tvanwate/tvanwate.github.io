@@ -1,5 +1,5 @@
 ---
-layout: collection_post
+layout: collection
 collection: team
 permalink: /team/
 entries_layout: grid
