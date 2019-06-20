@@ -1,10 +1,9 @@
 ---
 title: "Toon van Waterschoot"
+date: 2001-01-01
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/toon_circle.png
-tags:
-  - PI
 ---
 
 Toon van Waterschoot is the **Principal Investigator** of the KU Leuven Audio Engineering Lab. He is currently an Associate Professor and Consolidator Grantee of the European Research Council (ERC) at KU Leuven.
