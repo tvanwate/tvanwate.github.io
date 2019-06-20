@@ -1,12 +1,9 @@
 ---
 title: "Aldona Niemiro-Sznajder"
+date: 2001-01-02
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/aldona_circle.png
-categories:
-  - Project Manager
-tags: 
-  - PM
 author:
   name: Aldona Niemiro-Sznajder
   picture: /images/aldona_circle.png
