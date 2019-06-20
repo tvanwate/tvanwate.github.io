@@ -14,4 +14,4 @@ author:
       icon: fas fa-at    
 ---
 
-Bisrat Derebssa Dufera is a **PhD Student** pursuing a joint PhD degree with Addis Ababa University in Ethiopia, under the supervision of [Toon van Waterschoot](toon_vanwaterschoot), [Koen Eneman](https://perswww.kuleuven.be/~u0023287/) and Eneyew Adugna. He is working on the restoration of old Ethopion audio recordings by using recent advances in sparse signal modeling and optimization.
+Bisrat Derebssa Dufera is a **PhD Student** pursuing a joint PhD degree with Addis Ababa University in Ethiopia, under the supervision of [Toon van Waterschoot](toon_vanwaterschoot), [Koen Eneman](https://perswww.kuleuven.be/~u0023287/) and Eneyew Adugna. He is working on audio restoration.
