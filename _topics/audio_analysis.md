@@ -1,5 +1,6 @@
 ---
 title: "Audio Analysis"
+date: 2001-01-03
 image: 
   path: /images/audio_analysis_1600x800.jpg
   thumbnail: /images/audio_analysis_400x200.jpg
