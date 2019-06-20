@@ -46,7 +46,12 @@ $border-color: tint($base-color, 80%) !default;
   .page-wrapper {
     max-width: $main-max-width;
   }
-  
+
+  .page-title {
+    text-align: center;
+  }
+}
+
 .layout--post_without_date {
   .page-wrapper {
     @include breakpoint($large) {
