@@ -1,5 +1,6 @@
 ---
 layout: collection
+title: "Team"
 collection: team
 permalink: /team/
 entries_layout: grid
