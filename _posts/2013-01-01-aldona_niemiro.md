@@ -3,8 +3,10 @@ title: "Aldona Niemiro-Sznajder"
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/aldona_circle.png
-tags:
-  - alignment
+categories:
+  - Project Manager
+tags: 
+  - PM
 author:
   name: Aldona Niemiro-Sznajder
   picture: /images/aldona_circle.png
