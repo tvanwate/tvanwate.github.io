@@ -1,5 +1,6 @@
 ---
 title: "Maja Taseska"
+date: 2001-02-02
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/maja_circle.png
@@ -17,8 +18,6 @@ author:
     - title: GitHub
       url: https://github.com/maj4e
       icon: fab fa-github-square
-tags:
-  - PM
 ---
 
 Maja Taseska is a **Postdoc** of the Research Foundation Flanders (FWO) working on the modeling of room acoustics based on manifold learning. She holds a PhD degree from the International Audio Laboratories Erlangen obtained in 2017.
