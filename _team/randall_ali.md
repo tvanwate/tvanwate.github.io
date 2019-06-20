@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Randall Ali is a **PhD Student** supervised by [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?persid=2) and [Toon van Waterschoot](https://github.com/tvanwate/tvanwate.github.io/blob/master/team/toon_vanwaterschoot). He is working on multi-microphone speech enhancement in hearing instruments employing additional external microphones.
+Randall Ali is a **PhD Student** supervised by [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?persid=2) and [Toon van Waterschoot](toon_vanwaterschoot). He is working on multi-microphone speech enhancement in hearing instruments employing additional external microphones.
