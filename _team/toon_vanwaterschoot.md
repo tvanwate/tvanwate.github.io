@@ -1,6 +1,7 @@
 ---
-category: PI
 title: "Toon van Waterschoot"
+categories:
+  - PI
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/toon_circle.png
