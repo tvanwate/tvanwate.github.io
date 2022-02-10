@@ -1,17 +1,18 @@
 ---
+title: Publications
 layout: page
 permalink: /publications/
 show_excerpts: false
 entries_layout: list
 ---
 
-### Journal Papers
+## Journal Papers
 
 1. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
 **Distributed combined acoustic echo cancellation and noise reduction
 in wireless acoustic sensor and actuator networks**, *IEEE/ACM Trans.
 Audio Speech Language Process.*, to appear, 2021.
-[[Published]{https://doi.org/10.1109/TASLP.2022.3140548}] [[Archived]{https://lirias.kuleuven.be/retrieve/645613}]
+\[[Published]{https://doi.org/10.1109/TASLP.2022.3140548}\] \[[Archived]{https://lirias.kuleuven.be/retrieve/645613}\]
 
 2. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
 Peter Vanbrabant, Luc Geurts, **Toon van Waterschoot**, and Peter
