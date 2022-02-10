@@ -5,7 +5,7 @@ show_excerpts: false
 entries_layout: list
 ---
 
-# Journal Papers
+## Journal Papers
 
 1. Santiago Ruiz, **Toon van Waterschoot**, and Marc Moonen,
 "Distributed combined acoustic echo cancellation and noise reduction
