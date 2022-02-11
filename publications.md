@@ -10,17 +10,18 @@ entries_layout: list
 
 ## Journal Papers
 
+2. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
+Peter Vanbrabant, Luc Geurts, Toon van Waterschoot, and Peter
+Kuppens, **In search of state and trait emotion markers in
+mobile-sensed language: A field study**, *JMIR Mental Health*, to
+appear, 2022.  
+\[[Published](https://doi.org/10.2196/31724){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/635936){:target="_blank"}\]
+
 1. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
 **Distributed combined acoustic echo cancellation and noise reduction
 in wireless acoustic sensor and actuator networks**, *IEEE/ACM Trans.
 Audio Speech Language Process.*, vol. 30, pp. 534-547, 2021.  
 \[[Published](https://doi.org/10.1109/TASLP.2022.3140548){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/645613){:target="_blank"}\]
-
-2. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
-Peter Vanbrabant, Luc Geurts, **Toon van Waterschoot**, and Peter
-Kuppens, "In search of state and trait emotion markers in
-mobile-sensed language: A field study," *JMIR Mental Health*, to
-appear, 2021.
 
 3. Gert Dekkers, Fernando Rosas, **Toon van Waterschoot**, Bart
 Vanrumste, and Peter Karsmakers, "Dynamic sensor activation and
