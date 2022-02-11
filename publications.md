@@ -6,6 +6,8 @@ show_excerpts: false
 entries_layout: list
 ---
 
+* Note: the archived version of some publications may only become publicly accessible after the publisher's embargo period has ended (typically 6 months after publication). Feel free to drop an email to our secretary [Ms. Ida Tassens](ida.tassens@esat.kuleuven.be) to obtain a personal copy earlier.*
+
 ## Journal Papers
 
 1. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
