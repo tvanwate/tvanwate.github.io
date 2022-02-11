@@ -10,7 +10,7 @@ entries_layout: list
 
 ## Journal Papers
 
-2. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
+1. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
 Peter Vanbrabant, Luc Geurts, Toon van Waterschoot, and Peter
 Kuppens, **In search of state and trait emotion markers in
 mobile-sensed language: A field study**, *JMIR Mental Health*, to
