@@ -11,8 +11,8 @@ entries_layout: list
 1. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
 **Distributed combined acoustic echo cancellation and noise reduction
 in wireless acoustic sensor and actuator networks**, *IEEE/ACM Trans.
-Audio Speech Language Process.*, to appear, 2021.  
-\[[Published](https://doi.org/10.1109/TASLP.2022.3140548)\] \[[Archived](https://lirias.kuleuven.be/retrieve/645613)\]
+Audio Speech Language Process.*, vol. 30, pp. 534-547, 2021.  
+\[[Published](https://doi.org/10.1109/TASLP.2022.3140548){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/645613){:target="_blank"}\]
 
 2. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
 Peter Vanbrabant, Luc Geurts, **Toon van Waterschoot**, and Peter
