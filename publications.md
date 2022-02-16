@@ -22,15 +22,17 @@ in wireless acoustic sensor and actuator networks**, *IEEE/ACM Trans.
 Audio Speech Language Process.*, vol. 30, pp. 534-547, 2021.  
 \[[Published](https://doi.org/10.1109/TASLP.2022.3140548){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/645613){:target="_blank"}\]
 
-3. Gert Dekkers, Fernando Rosas, **Toon van Waterschoot**, Bart
-Vanrumste, and Peter Karsmakers, "Dynamic sensor activation and
+3. Gert Dekkers, Fernando Rosas, Toon van Waterschoot, Bart
+Vanrumste, and Peter Karsmakers, **Dynamic sensor activation and
 decision-level fusion in wireless acoustic sensor networks for
-classification of domestic activities," *Information Fusion*, vol.
-77, no. , pp. 196-210, Jan. 2022.
+classification of domestic activities**, *Information Fusion*, vol.
+77, pp. 196-210, Jan. 2022.  
+\[[Published](https://doi.org/10.1016/j.inffus.2021.07.022){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/581890){:target="_blank"}\]
 
-4. Brian Fitzpatrick, Enzo De Sena, and **Toon van Waterschoot**, "On
-the convergence of the multipole expansion method," *SIAM J. Numer.
-Anal.*, vol. 59, no. 5, pp. 2473-2499, 2021.
+4. Brian Fitzpatrick, Enzo De Sena, and Toon van Waterschoot, **On
+the convergence of the multipole expansion method**, *SIAM J. Numer.
+Anal.*, vol. 59, no. 5, pp. 2473-2499, 2021.  
+\[[Published](https://doi.org/10.1137/20M1370914){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/643281){:target="_blank"}\]
 
 5. Marco Zanet, Edoardo Maria Polo, Marta Lenatti, **Toon van
 Waterschoot**, Maurizio Mongelli, Riccardo Barbieri, and Alessia
