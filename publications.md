@@ -13,8 +13,7 @@ entries_layout: list
 1. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
 Peter Vanbrabant, Luc Geurts, Toon van Waterschoot, and Peter
 Kuppens, **In search of state and trait emotion markers in
-mobile-sensed language: A field study**, *JMIR Mental Health*, to
-appear, 2022.  
+mobile-sensed language: A field study**, *JMIR Mental Health*, vol. 9, no. 2, 22 p., 2022.  
 \[[Published](https://doi.org/10.2196/31724){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/635936){:target="_blank"}\]
 
 1. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
