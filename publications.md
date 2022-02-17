@@ -88,32 +88,37 @@ speech-in-noise test for remote testing: development and preliminary
 evaluation**, *Amer. J. Audiology*, vol. 29, pp. 564-576, Sep. 2020.  
 \[[Published](https://doi.org/10.1044/2020_AJA-19-00071){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603080){:target="_blank"}\]
 
-13. Maja Taseska, **Toon van Waterschoot**, Emanuël A. P. Habets, and
-Ronen Talmon, "Nonlinear filtering with variable bandwidth
-exponential kernels," *IEEE Trans. Signal Process.*, vol. 68, pp.
-314-326, 2020.
+13. Maja Taseska, Toon van Waterschoot, Emanuël A. P. Habets, and
+Ronen Talmon, **Nonlinear filtering with variable bandwidth
+exponential kernels**, *IEEE Trans. Signal Process.*, vol. 68, pp.
+314-326, 2020.  
+\[[Published](https://doi.org/10.1109/TSP.2019.2959190){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603084){:target="_blank"}\]
 
-14. Randall Ali, **Toon van Waterschoot**, and Marc Moonen, "Integration
+14. Randall Ali, Toon van Waterschoot, and Marc Moonen, **Integration
 of a priori and estimated constraints into an MVDR beamformer for
-speech enhancement," *IEEE/ACM Trans. Audio Speech Language
-Process.*, vol. 27, no. 12, pp. 2288-2300, Dec. 2019.
+speech enhancement**, *IEEE/ACM Trans. Audio Speech Language
+Process.*, vol. 27, no. 12, pp. 2288-2300, Dec. 2019.  
+\[[Published](https://doi.org/10.1109/TASLP.2019.2946086){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/550375){:target="_blank"}\]
 
 15. Niccolò Antonello, Enzo De Sena, Marc Moonen, Patrick A. Naylor, and
-**Toon van Waterschoot**, "Joint acoustic localization and
+Toon van Waterschoot, **Joint acoustic localization and
 dereverberation through plane wave decomposition and sparse
-regularization," *IEEE/ACM Trans. Audio Speech Language Process.*,
-vol. 27, no. 12, pp. 1893-1905, Dec. 2019.
+regularization**, *IEEE/ACM Trans. Audio Speech Language Process.*,
+vol. 27, no. 12, pp. 1893-1905, Dec. 2019.  
+\[[Published](https://doi.org/10.1109/TASLP.2019.2933047){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/550377){:target="_blank"}\]
 
-16. Neofytos Kaplanis, Søren Bech, Tapio Lokki, **Toon van
-Waterschoot**, and Søren Holdt Jensen, "Perception and preference of
+16. Neofytos Kaplanis, Søren Bech, Tapio Lokki, Toon van
+Waterschoot, and Søren Holdt Jensen, **Perception and preference of
 reverberation in small listening rooms for multi-loudspeaker
-reproduction," *J. Acoust. Soc. Am.*, vol. 146, no. 5, pp.
-3562-3576, Nov. 2019.
+reproduction**, *J. Acoust. Soc. Am.*, vol. 146, no. 5, pp.
+3562-3576, Nov. 2019.  
+\[[Published](https://doi.org/10.1121/1.5135582){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/609826){:target="_blank"}\]
 
-17. Randall Ali, Giuliano Bernardi, **Toon van Waterschoot**, and Marc
-Moonen, "Methods of extending a generalised sidelobe canceller with
-external microphones," *IEEE/ACM Trans. Audio Speech Language
-Process.*, vol. 27, no. 9, pp. 1349-1364, Sep. 2019.
+17. Randall Ali, Giuliano Bernardi, Toon van Waterschoot, and Marc
+Moonen, **Methods of extending a generalised sidelobe canceller with
+external microphones**, *IEEE/ACM Trans. Audio Speech Language
+Process.*, vol. 27, no. 9, pp. 1349-1364, Sep. 2019.  
+\[[Published](https://doi.org/10.1109/TASLP.2019.2918400){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603083){:target="_blank"}\]
 
 18. Thomas Dietzen, Ann Spriet, Wouter Tirry, Simon Doclo, Marc Moonen
 and **Toon van Waterschoot**, "Comparative analysis of generalized
