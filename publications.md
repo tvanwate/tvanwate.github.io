@@ -121,32 +121,37 @@ Process.*, vol. 27, no. 9, pp. 1349-1364, Sep. 2019.
 \[[Published](https://doi.org/10.1109/TASLP.2019.2918400){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603083){:target="_blank"}\]
 
 18. Thomas Dietzen, Ann Spriet, Wouter Tirry, Simon Doclo, Marc Moonen
-and **Toon van Waterschoot**, "Comparative analysis of generalized
+and Toon van Waterschoot, **Comparative analysis of generalized
 sidelobe cancellation and multi-channel linear prediction for speech
-dereverberation and noise reduction," *IEEE/ACM Trans. Audio Speech
-Language Process.*, vol. 27, no. 3, pp. 544-558, Mar. 2019.
+dereverberation and noise reduction**, *IEEE/ACM Trans. Audio Speech
+Language Process.*, vol. 27, no. 3, pp. 544-558, Mar. 2019.  
+\[[Published](https://doi.org/10.1109/TASLP.2018.2886743){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603061){:target="_blank"}\]
 
 19. Giacomo Vairetti, Enzo De Sena, Michael Catrysse, Søren Holdt
-Jensen, Marc Moonen, and **Toon van Waterschoot**, "An automatic
-design procedure for low-order IIR parametric equalizers," *J. Audio
+Jensen, Marc Moonen, and Toon van Waterschoot, **An automatic
+design procedure for low-order IIR parametric equalizers**, *J. Audio
 Eng. Soc.*, vol. 66, no. 11, pp. 935-952, Nov. 2018.
+\[[Published](https://doi.org/10.17743/jaes.2018.0049){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/565410){:target="_blank"}\]
 
-20. David Pelegrin Garcia, Enzo De Sena, **Toon van Waterschoot**,
-Monika Rychtarikova, and Christ Glorieux, "Localization of a virtual
-wall by means of active echolocation by untrained sighted persons,"
-*Applied Acoustics*, vol. 139, pp. 82-92, Oct. 2018.
+20. David Pelegrin Garcia, Enzo De Sena, Toon van Waterschoot,
+Monika Rychtarikova, and Christ Glorieux, **Localization of a virtual
+wall by means of active echolocation by untrained sighted persons**,
+*Applied Acoustics*, vol. 139, pp. 82-92, Oct. 2018.  
+\[[Published](https://doi.org/10.1016/j.apacoust.2018.04.018){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/525660){:target="_blank"}\]
 
-21. Lenn Carpentier, Tomas Norton, Ali Youssef, Dries Berckmans, **Toon
-van Waterschoot**, Bernadette Earley, Dayle Johnston, Natasha
+21. Lenn Carpentier, Tomas Norton, Ali Youssef, Dries Berckmans, Toon
+van Waterschoot, Bernadette Earley, Dayle Johnston, Natasha
 Ferguson, Ilaria Fontana, Emanuela Tullo, Marcella Guarino, Erik
-Vranken, and Daniel Berckmans, "Automatic cough detection for bovine
-respiratory disease in a calf house," *Biosystems Engineering*, vol.
-173, pp. 45-56, Sep. 2018.
+Vranken, and Daniel Berckmans, **Automatic cough detection for bovine
+respiratory disease in a calf house**, *Biosystems Engineering*, vol.
+173, pp. 45-56, Sep. 2018.  
+\[[Published](https://doi.org/10.1016/j.biosystemseng.2018.06.018){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/564242){:target="_blank"}\]
 
-22. Giuliano Bernardi, **Toon van Waterschoot**, Jan Wouters, and Marc
-Moonen, "Subjective and objective sound-quality evaluation of
-adaptive feedback cancellation algorithms," *IEEE/ACM Trans. Audio
-Speech Language Process.*, vol. 26, no. 5, pp. 1010-1024, May 2018.
+22. Giuliano Bernardi, Toon van Waterschoot, Jan Wouters, and Marc
+Moonen, **Subjective and objective sound-quality evaluation of
+adaptive feedback cancellation algorithms**, *IEEE/ACM Trans. Audio
+Speech Language Process.*, vol. 26, no. 5, pp. 1010-1024, May 2018.  
+\[[Published](https://doi.org/10.1109/TASLP.2018.2808042){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/504888){:target="_blank"}\] \[[Additional data](https://lirias.kuleuven.be/retrieve/476455){:target="_blank"}\]
 
 23. Enzo De Sena, Mike Brookes, Patrick A. Naylor, and **Toon van
 Waterschoot**, "Localisation experiments with reporting by head
