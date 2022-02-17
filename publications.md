@@ -34,28 +34,32 @@ the convergence of the multipole expansion method**, *SIAM J. Numer.
 Anal.*, vol. 59, no. 5, pp. 2473-2499, 2021.  
 \[[Published](https://doi.org/10.1137/20M1370914){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/643281){:target="_blank"}\]
 
-5. Marco Zanet, Edoardo Maria Polo, Marta Lenatti, **Toon van
-Waterschoot**, Maurizio Mongelli, Riccardo Barbieri, and Alessia
-Paglialonga, "Evaluation of a novel speech-in-noise test for hearing
+5. Marco Zanet, Edoardo Maria Polo, Marta Lenatti, Toon van
+Waterschoot, Maurizio Mongelli, Riccardo Barbieri, and Alessia
+Paglialonga, **Evaluation of a novel speech-in-noise test for hearing
 screening: classification performance and transducers'
-characteristics," *IEEE J. Biomed. Health Informat.*, vol. 25, no.
-12, pp. 4300-4307, Dec. 2021.
+characteristics**, *IEEE J. Biomed. Health Informat.*, vol. 25, no.
+12, pp. 4300-4307, Dec. 2021.  
+\[[Published](https://doi.org/10.1109/JBHI.2021.3100368){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/643283){:target="_blank"}\]
 
-6. Mina Mounir, Peter Karsmakers, and **Toon van Waterschoot**,
-"Musical note onset detection based on a spectral sparsity measure,"
+6. Mina Mounir, Peter Karsmakers, and Toon van Waterschoot,
+**Musical note onset detection based on a spectral sparsity measure**,
 *EURASIP J. Audio, Speech, Music Process.*, vol. 2021, Article No.
-30, 17 p., 2021.
+30, 17 p., 2021.  
+\[[Published](https://doi.org/10.1186/s13636-021-00214-7){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/643276){:target="_blank"}\]
 
-7. Duowei Tang, Peter Kuppens, Luc Geurts, and **Toon van
-Waterschoot**, "End-to-end speech emotion recognition using a novel
-context-stacking dilated convolution neural network," *EURASIP J.
+7. Duowei Tang, Peter Kuppens, Luc Geurts, and Toon van
+Waterschoot, **End-to-end speech emotion recognition using a novel
+context-stacking dilated convolution neural network**, *EURASIP J.
 Audio, Speech, Music Process.*, vol. 2021, Article No. 18, 16
-p., 2021.
+p., 2021.  
+\[[Published](https://doi.org/10.1186/s13636-021-00208-5){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/620339){:target="_blank"}\]
 
-8. Randall Ali, **Toon van Waterschoot**, and Marc Moonen, "An
+8. Randall Ali, Toon van Waterschoot, and Marc Moonen, **An
 integrated MVDR beamformer for speech enhancement using a local
-microphone array and external microphones," *EURASIP J. Audio,
-Speech, Music Process.*, vol. 2021, Article No. 10, 20 p., 2021.
+microphone array and external microphones**, *EURASIP J. Audio,
+Speech, Music Process.*, vol. 2021, Article No. 10, 20 p., 2021.  
+\[[Published](https://doi.org/10.1186/s13636-020-00192-2){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603088){:target="_blank"}\]
 
 9. Enzo De Sena, Zoran Cvetković, Hüseyin Hacihabiboğlu, Marc Moonen,
 and **Toon van Waterschoot**, "Localization uncertainty in
