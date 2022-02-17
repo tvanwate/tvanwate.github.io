@@ -153,23 +153,25 @@ adaptive feedback cancellation algorithms**, *IEEE/ACM Trans. Audio
 Speech Language Process.*, vol. 26, no. 5, pp. 1010-1024, May 2018.  
 \[[Published](https://doi.org/10.1109/TASLP.2018.2808042){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/504888){:target="_blank"}\] \[[Additional data](https://lirias.kuleuven.be/retrieve/476455){:target="_blank"}\]
 
-23. Enzo De Sena, Mike Brookes, Patrick A. Naylor, and **Toon van
-Waterschoot**, "Localisation experiments with reporting by head
-orientation: statistical framework and case study," *J. Audio Eng.
-Soc.*, vol. 65, no. 12, pp. 982-996, Dec. 2017.
+23. Enzo De Sena, Mike Brookes, Patrick A. Naylor, and Toon van
+Waterschoot, **Localisation experiments with reporting by head
+orientation: statistical framework and case study**, *J. Audio Eng.
+Soc.*, vol. 65, no. 12, pp. 982-996, Dec. 2017.  
+\[[Published](https://doi.org/10.17743/jaes.2017.0038){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489009){:target="_blank"}\]
 
-24. Giuliano Bernardi, **Toon van Waterschoot**, Marc Moonen, Jan
-Wouters, Martin Hillbratt, and Nicolas Verhaert, "Measurement and
+24. Giuliano Bernardi, Toon van Waterschoot, Marc Moonen, Jan
+Wouters, Martin Hillbratt, and Nicolas Verhaert, **Measurement and
 analysis of feedback and nonlinearities for the Codacs direct
-acoustic cochlear implant," *IEEE Access*, vol. 5, no. 1, pp.
-8702-8713, Dec. 2017.
+acoustic cochlear implant**, *IEEE Access*, vol. 5, no. 1, pp.
+8702-8713, Dec. 2017.  
+\[[Published](https://doi.org/10.1109/ACCESS.2017.2703635){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/458863){:target="_blank"}\]
 
 25. Niccolò Antonello, Enzo De Sena, Marc Moonen, Patrick A. Naylor, and
-**Toon van Waterschoot**, "[Room impulse response interpolation
+Toon van Waterschoot, **Room impulse response interpolation
 using a sparse spatio-temporal representation of the sound
-field](ftp://ftp.esat.kuleuven.be/pub/SISTA/nantonel/17-26.pdf),"
-*IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 10,
-pp. 1929-1941, Oct. 2017.
+field**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 10,
+pp. 1929-1941, Oct. 2017.  
+\[[Published](https://doi.org/10.1109/TASLP.2017.2730284){:target="_blank"}\] \[[Animations](https://lirias.kuleuven.be/retrieve/461467){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/460519){:target="_blank"}\]
 
 26. Giuliano Bernardi, **Toon van Waterschoot**, Jan Wouters, and Marc
 Moonen, "[Adaptive feedback cancellation using a partitioned-block
