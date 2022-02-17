@@ -173,19 +173,20 @@ field**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 10,
 pp. 1929-1941, Oct. 2017.  
 \[[Published](https://doi.org/10.1109/TASLP.2017.2730284){:target="_blank"}\] \[[Animations](https://lirias.kuleuven.be/retrieve/461467){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/460519){:target="_blank"}\]
 
-26. Giuliano Bernardi, **Toon van Waterschoot**, Jan Wouters, and Marc
-Moonen, "[Adaptive feedback cancellation using a partitioned-block
+26. Giuliano Bernardi, Toon van Waterschoot, Jan Wouters, and Marc
+Moonen, **Adaptive feedback cancellation using a partitioned-block
 frequency-domain Kalman filter approach with PEM-based signal
-prewhitening](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/16-141.html),"
-*IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 9,
-pp. 1480-1494, Sep. 2017.
+prewhitening**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 9,
+pp. 1480-1494, Sep. 2017.  
+\[[Published](https://doi.org/10.1109/TASLP.2017.2716188){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/462258){:target="_blank"}\]
 
 27. Giacomo Vairetti, Enzo De Sena, Michael Catrysse, Søren Holdt
-Jensen, Marc Moonen, and **Toon van Waterschoot**, "A scalable
+Jensen, Marc Moonen, and Toon van Waterschoot, **A scalable
 algorithm for physically motivated and sparse approximation of room
-impulse responses with orthonormal basis functions," *IEEE/ACM
+impulse responses with orthonormal basis functions**, *IEEE/ACM
 Trans. Audio Speech Language Process.*, vol. 25, no. 7, pp.
-1547-1561, Jul. 2017.
+1547-1561, Jul. 2017.  
+\[[Published](https://doi.org/10.1109/TASLP.2017.2700940){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/459007){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/452260){:target="_blank"}\]
 
 28. Giacomo Vairetti, Neofytos Kaplanis, Enzo De Sena, Søren Holdt
 Jensen, Søren Bech, Marc Moonen, and **Toon van Waterschoot**, "The
