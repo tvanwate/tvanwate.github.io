@@ -200,77 +200,76 @@ aspects of reproduced sound in car cabin acoustics**, *J. Acoust.
 Soc. Am.*, vol. 141, no. 3, pp. 1459-1469, Mar. 2017.  
 \[[Published](https://doi.org/10.1121/1.4976816){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489014){:target="_blank"}\]
 
-30. Ante Jukić, **Toon van Waterschoot**, and Simon Doclo, "[Adaptive
+30. Ante Jukić, Toon van Waterschoot, and Simon Doclo, **Adaptive
 speech dereverberation using constrained sparse multi-channel linear
-prediction](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/16-194.html),"
-*IEEE Signal Process. Lett.*, vol. 24, no. 1, pp. 101-105,
-Jan. 2017.
+prediction**, *IEEE Signal Process. Lett.*, vol. 24, no. 1, pp. 101-105,
+Jan. 2017.  
+\[[Published](https://doi.org/10.1109/LSP.2016.2640939){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/431765){:target="_blank"}\]
 
-31. Pablo Peso Parada, Dushyant Sharma, **Toon van Waterschoot**, and
-Patrick A. Naylor, "[Confidence measures for non-intrusive
-estimation of speech clarity
-index](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/16-193.html),"
-*J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 90-99, Jan./Feb. 2017
+31. Pablo Peso Parada, Dushyant Sharma, Toon van Waterschoot, and
+Patrick A. Naylor, **Confidence measures for non-intrusive
+estimation of speech clarity index**, *J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 90-99, Jan./Feb. 2017
 (Special Issue on Dereverberation and Reverberation of Audio, Music,
-and Speech).
+and Speech).  
+\[[Published](https://doi.org/10.17743/jaes.2016.0058){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489025){:target="_blank"}\]
 
-32. Ante Jukić, **Toon van Waterschoot**, Timo Gerkmann, and Simon
-Doclo, "[A general framework for incorporating time-frequency domain
-sparsity in multi-channel speech
-dereverberation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/16-192.html),"
+32. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
+Doclo, **A general framework for incorporating time-frequency domain
+sparsity in multi-channel speech dereverberation**,
 *J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 17-30, Jan./Feb. 2017
 (Special Issue on Dereverberation and Reverberation of Audio, Music,
-and Speech).
+and Speech).  
+\[[Published](https://doi.org/10.17743/jaes.2016.0064){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489016){:target="_blank"}\]
 
 33. Neofytos Kaplanis, Søren Bech, Sakari Tervo, Jukka Pätynen, Tapio
-Lokki, **Toon van Waterschoot**, and Søren Holdt Jensen, "[A rapid
+Lokki, Toon van Waterschoot, and Søren Holdt Jensen, **A rapid
 sensory analysis method for perceptual assessment of automotive
-audio](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/16-76.html),"
-*J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 130-146, Jan./Feb. 2017
+audio**, *J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 130-146, Jan./Feb. 2017
 (Special Issue on Dereverberation and Reverberation of Audio, Music,
-and Speech).
+and Speech).  
+\[[Published](https://doi.org/10.17743/jaes.2016.0056){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489012){:target="_blank"}\]
 
-34. Bruno Defraene, **Toon van Waterschoot**, Moritz Diehl, and Marc
-Moonen, "[Subjective audio quality evaluation of
+34. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
+Moonen, **Subjective audio quality evaluation of
 embedded-optimization-based distortion precompensation
-algorithms](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-194.html),"
-*JASA Express Lett.*, vol. 140, no. 1, pp. 101-106, Jul. 2016.
+algorithms**, *JASA Express Lett.*, vol. 140, no. 1, pp. 101-106, Jul. 2016.  
+\[[Published](https://doi.org/10.1121/1.4955025){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/397176){:target="_blank"}\]
 
 35. Pablo Peso Parada, Dushyant Sharma, Jose Lainez, Daniel Barreda,
-**Toon van Waterschoot**, and Patrick A. Naylor, "[A single-channel
+Toon van Waterschoot, and Patrick A. Naylor, **A single-channel
 non-intrusive C50 estimator correlated with speech recognition
-performance](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-38.html),"
-*IEEE/ACM Trans. Audio Speech Language Process.*, vol. 24, no. 4,
-Apr. 2016.
+performance**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 24, no. 4,
+Apr. 2016.  
+\[[Published](https://doi.org/10.1109/TASLP.2016.2521486){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/431769){:target="_blank"}\]
 
-36. Tobias Lindstrøm Jensen, Daniele Giacobello, **Toon van
-Waterschoot**, and Mads Græsbøll Christensen, "[Fast algorithms for
+36. Tobias Lindstrøm Jensen, Daniele Giacobello, Toon van
+Waterschoot, and Mads Græsbøll Christensen, **Fast algorithms for
 high-order sparse linear prediction with applications to speech
-processing](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-36.html),"
-*Speech Communication*, vol. 76, pp. 143-156, Feb. 2016 (Special
+processing**, *Speech Communication*, vol. 76, pp. 143-156, Feb. 2016 (Special
 Section on Advances in Sparse Modeling and Low-rank Modeling for
-Speech Processing).
+Speech Processing).  
+\[[Published](https://doi.org/10.1016/j.specom.2015.09.013){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/376459){:target="_blank"}\]
 
-37. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and **Toon
-van Waterschoot**, "[Reverberant speech recognition exploiting
-clarity index
-estimation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-39.html),"
+37. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and Toon
+van Waterschoot, **Reverberant speech recognition exploiting
+clarity index estimation**,
 *EURASIP J. Adv. Signal Process.*, vol. 2015, Article no. 54, 12
-p., 2015.
+p., 2015.  
+\[[Published](https://doi.org/10.1186/s13634-015-0237-7){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/358383){:target="_blank"}\]
 
-38. Ante Jukić, **Toon van Waterschoot**, Timo Gerkmann, and Simon
-Doclo, "[Multi-channel linear prediction-based speech
-dereverberation with sparse
-priors](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-195.html),"
+38. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
+Doclo, **Multi-channel linear prediction-based speech
+dereverberation with sparse priors**, 
 *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 23, no. 9,
-Sept. 2015, pp. 1509-1520.
+Sept. 2015, pp. 1509-1520.  
+\[[Published](https://doi.org/10.1109/TASLP.2015.2438549){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/358381){:target="_blank"}\]
 
-39. Enzo De Sena, Niccoló Antonello, Marc Moonen, and **Toon van
-Waterschoot**, "[On the modeling of rectangular geometries in room
-acoustic
-simulations](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-186.html),"
+39. Enzo De Sena, Niccoló Antonello, Marc Moonen, and Toon van
+Waterschoot, **On the modeling of rectangular geometries in room
+acoustic simulations**,
 *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 23, no. 4,
-Apr. 2015, pp. 774-786.
+Apr. 2015, pp. 774-786.  
+\[[Published](https://doi.org/10.1109/TASLP.2015.2405476){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/355227){:target="_blank"}\] \[[Software](https://github.com/enzodesena/rim){:target="_blank"}\] \[[Sound examples](https://www.desena.org/sweep){:target="_blank"}\]
 
 40. Jose Manuel Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and
 Søren Holdt Jensen, "[A frequency-domain adaptive filter (FDAF)
