@@ -58,31 +58,35 @@ p., 2021.
 8. Randall Ali, Toon van Waterschoot, and Marc Moonen, **An
 integrated MVDR beamformer for speech enhancement using a local
 microphone array and external microphones**, *EURASIP J. Audio,
-Speech, Music Process.*, vol. 2021, Article No. 10, 20 p., 2021.  
+Speech, Music Process.*, vol. 2021, Article No. 10, 20 p., 2021.    
 \[[Published](https://doi.org/10.1186/s13636-020-00192-2){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603088){:target="_blank"}\]
 
 9. Enzo De Sena, Zoran Cvetković, Hüseyin Hacihabiboğlu, Marc Moonen,
-and **Toon van Waterschoot**, "Localization uncertainty in
-time-amplitude stereophonic reproduction," *IEEE/ACM Trans. Audio
-Speech Language Process.*, vol. 28, pp. 1000-1015, 2020.
+and Toon van Waterschoot, **Localization uncertainty in
+time-amplitude stereophonic reproduction**, *IEEE/ACM Trans. Audio
+Speech Language Process.*, vol. 28, pp. 1000-1015, 2020.  
+\[[Published](https://doi.org/10.1109/TASLP.2020.2975419){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/571236){:target="_blank"}\]
 
-10. Thomas Dietzen, Simon Doclo, Marc Moonen and **Toon van
-Waterschoot**, "Square root-based multi-source early PSD estimation
+10. Thomas Dietzen, Simon Doclo, Marc Moonen and Toon van
+Waterschoot, **Square root-based multi-source early PSD estimation
 and recursive RETF update in reverberant environments by means of
-the orthogonal Procrustes problem," *IEEE/ACM Trans. Audio Speech
-Language Process.*, vol. 28, pp. 755-769, 2020.
+the orthogonal Procrustes problem**, *IEEE/ACM Trans. Audio Speech
+Language Process.*, vol. 28, pp. 755-769, 2020.  
+\[[Published](https://doi.org/10.1109/TASLP.2020.2966891){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/608660){:target="_blank"}\]
 
-11. Thomas Dietzen, Simon Doclo, Marc Moonen and **Toon van
-Waterschoot**, "Integrated sidelobe cancellation and linear
+11. Thomas Dietzen, Simon Doclo, Marc Moonen and Toon van
+Waterschoot, **Integrated sidelobe cancellation and linear
 prediction Kalman filter for joint multi-microphone speech
 dereverberation, interfering speech cancellation, and noise
-reduction," *IEEE/ACM Trans. Audio Speech Language Process.*, vol.
-28, pp. 740-754, 2020.
+reduction**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol.
+28, pp. 740-754, 2020.  
+\[[Published](https://doi.org/10.1109/TASLP.2020.2966869){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/608659){:target="_blank"}\]
 
 12. Alessia Paglialonga, Edoardo Maria Polo, Marco Zanet, Giulia Rocco,
-**Toon van Waterschoot**, and Riccardo Barbieri, "An automated
+Toon van Waterschoot, and Riccardo Barbieri, **An automated
 speech-in-noise test for remote testing: development and preliminary
-evaluation," *Amer. J. Audiology*, vol. 29, pp. 564-576, Sep. 2020.
+evaluation**, *Amer. J. Audiology*, vol. 29, pp. 564-576, Sep. 2020.  
+\[[Published](https://doi.org/10.1044/2020_AJA-19-00071){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/603080){:target="_blank"}\]
 
 13. Maja Taseska, **Toon van Waterschoot**, Emanuël A. P. Habets, and
 Ronen Talmon, "Nonlinear filtering with variable bandwidth
