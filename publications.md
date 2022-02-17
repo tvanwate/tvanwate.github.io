@@ -195,9 +195,10 @@ Soc.*, vol. 65, no. 5, pp. 389-401, May 2017.
 \[[Published](https://doi.org/10.17743/jaes.2017.0007){:target="_blank"}\] \[[Data set: SUBRIR_Calibration](https://lirias.kuleuven.be/retrieve/440181){:target="_blank"}\] \[[Data set: SUBRIR_NF_SpA (Near Field)](https://lirias.kuleuven.be/retrieve/440179){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicC](https://lirias.kuleuven.be/retrieve/440166){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicD](https://lirias.kuleuven.be/retrieve/440171){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicC](https://lirias.kuleuven.be/retrieve/440173){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD](https://lirias.kuleuven.be/retrieve/440175){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD_RIRs](https://lirias.kuleuven.be/retrieve/440160){:target="_blank"}\]
 
 29. Neofytos Kaplanis, Søren Bech, Sakari Tervo, Jukka Pätynen, Tapio
-Lokki, **Toon van Waterschoot**, and Søren Holdt Jensen, "Perceptual
-aspects of reproduced sound in car cabin acoustics," *J. Acoust.
-Soc. Am.*, vol. 141, no. 3, pp. 1459-1469, Mar. 2017.
+Lokki, Toon van Waterschoot, and Søren Holdt Jensen, **Perceptual
+aspects of reproduced sound in car cabin acoustics**, *J. Acoust.
+Soc. Am.*, vol. 141, no. 3, pp. 1459-1469, Mar. 2017.  
+\[[Published](https://doi.org/10.1121/1.4976816){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489014){:target="_blank"}\]
 
 30. Ante Jukić, **Toon van Waterschoot**, and Simon Doclo, "[Adaptive
 speech dereverberation using constrained sparse multi-channel linear
