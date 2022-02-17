@@ -189,9 +189,10 @@ Trans. Audio Speech Language Process.*, vol. 25, no. 7, pp.
 \[[Published](https://doi.org/10.1109/TASLP.2017.2700940){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/459007){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/452260){:target="_blank"}\]
 
 28. Giacomo Vairetti, Neofytos Kaplanis, Enzo De Sena, Søren Holdt
-Jensen, Søren Bech, Marc Moonen, and **Toon van Waterschoot**, "The
-Subwoofer Room Impulse Response database (SUBRIR)," *J. Audio Eng.
-Soc.*, vol. 65, no. 5, pp. 389-401, May 2017.
+Jensen, Søren Bech, Marc Moonen, and Toon van Waterschoot, **The
+Subwoofer Room Impulse Response database (SUBRIR)**, *J. Audio Eng.
+Soc.*, vol. 65, no. 5, pp. 389-401, May 2017.  
+\[[Published](https://doi.org/10.17743/jaes.2017.0007){:target="_blank"}\] \[[Data set: SUBRIR_Calibration](https://lirias.kuleuven.be/retrieve/440181){:target="_blank"}\] \[[Data set: SUBRIR_NF_SpA (Near Field)](https://lirias.kuleuven.be/retrieve/440179){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicC](https://lirias.kuleuven.be/retrieve/440166){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicD](https://lirias.kuleuven.be/retrieve/440171){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicC](https://lirias.kuleuven.be/retrieve/440173){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD](https://lirias.kuleuven.be/retrieve/440175){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD_RIRs](https://lirias.kuleuven.be/retrieve/440160){:target="_blank"}\]
 
 29. Neofytos Kaplanis, Søren Bech, Sakari Tervo, Jukka Pätynen, Tapio
 Lokki, **Toon van Waterschoot**, and Søren Holdt Jensen, "Perceptual
