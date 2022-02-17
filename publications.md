@@ -271,46 +271,45 @@ acoustic simulations**,
 Apr. 2015, pp. 774-786.  
 \[[Published](https://doi.org/10.1109/TASLP.2015.2405476){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/355227){:target="_blank"}\] \[[Software](https://github.com/enzodesena/rim){:target="_blank"}\] \[[Sound examples](https://www.desena.org/sweep){:target="_blank"}\]
 
-40. Jose Manuel Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and
-Søren Holdt Jensen, "[A frequency-domain adaptive filter (FDAF)
+40. Jose Manuel Gil-Cacho, Toon van Waterschoot, Marc Moonen, and
+Søren Holdt Jensen, **A frequency-domain adaptive filter (FDAF)
 prediction error method (PEM) framework for double-talk-robust
-acoustic echo
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/13-13.html),"
+acoustic echo cancellation**,
 *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 22, no. 12,
-Dec. 2014, pp. 2074-2086.
+Dec. 2014, pp. 2074-2086.  
+\[[Published](https://doi.org/10.1109/TASLP.2014.2351614){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/313526){:target="_blank"}\]
 
-41. Bruno Defraene, **Toon van Waterschoot**, Moritz Diehl, and Marc
-Moonen, "[Embedded-optimization-based loudspeaker precompensation
-using a Hammerstein loudspeaker
-model](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/13-239.html),"
+41. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
+Moonen, **Embedded-optimization-based loudspeaker precompensation
+using a Hammerstein loudspeaker model**,
 *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 22, no. 11,
-Nov. 2014, pp. 1648-1659.
+Nov. 2014, pp. 1648-1659.  
+\[[Published](https://doi.org/10.1109/TASLP.2014.2344862){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/313541){:target="_blank"}\]
 
-42. Jose Manuel Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and
-Søren Holdt Jensen, "[Wiener variable step size and gradient
+42. Jose Manuel Gil-Cacho, Toon van Waterschoot, Marc Moonen, and
+Søren Holdt Jensen, **Wiener variable step size and gradient
 spectral variance smoothing for double-talk-robust acoustic echo
-cancellation and acoustic feedback
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-214.html),"
-*Signal Processing*, vol. 104, Nov. 2014, pp. 1-14.
+cancellation and acoustic feedback cancellation**,
+*Signal Processing*, vol. 104, Nov. 2014, pp. 1-14.  
+\[[Published](https://doi.org/10.1016/j.sigpro.2014.03.020){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/274966){:target="_blank"}\]
 
-43. Bruno Defraene, Naim Mansour, Steven De Hertogh, **Toon van
-Waterschoot**, Moritz Diehl, and Marc Moonen, "[Declipping of audio
-signals using perceptual compressed
-sensing](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/13-35.html),"
+43. Bruno Defraene, Naim Mansour, Steven De Hertogh, Toon van
+Waterschoot, Moritz Diehl, and Marc Moonen, **Declipping of audio
+signals using perceptual compressed sensing**,
 *IEEE Trans. Audio Speech Language Process.*, vol. 21, no. 12, Dec.
-2013, pp. 2627-2637.
+2013, pp. 2627-2637.  
+\[[Published](https://doi.org/10.1109/TASL.2013.2281570){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/251468){:target="_blank"}\]
 
-44. Kim Ngo, **Toon van Waterschoot**, Mads Græsbøll Christensen, Marc
-Moonen, and Søren Holdt Jensen, "[Improved prediction error filters
-for adaptive feedback cancellation in hearing
-aids](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-163.html),"
-*Signal Processing*, vol. 93, no. 11, Nov. 2013, pp. 3062-3075.
+44. Kim Ngo, Toon van Waterschoot, Mads Græsbøll Christensen, Marc
+Moonen, and Søren Holdt Jensen, **Improved prediction error filters
+for adaptive feedback cancellation in hearing aids**,
+*Signal Processing*, vol. 93, no. 11, Nov. 2013, pp. 3062-3075.  
+\[[Published](https://doi.org/10.1016/j.sigpro.2013.03.042){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/585192){:target="_blank"}\]
 
-45. Jose Manuel Gil-Cacho, Marco Signoretto, **Toon van Waterschoot**,
-Marc Moonen, and Søren Holdt Jensen, "[Nonlinear acoustic echo
+45. Jose Manuel Gil-Cacho, Marco Signoretto, Toon van Waterschoot,
+Marc Moonen, and Søren Holdt Jensen, **Nonlinear acoustic echo
 cancellation based on a sliding-window leaky kernel affine
-projection
-algorithm](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-141.html),"
+projection algorithm**,
 *IEEE Trans. Audio Speech Language Process.*, vol. 21, no. 9, Sep.
 2013, pp. 1867-1878.
 
