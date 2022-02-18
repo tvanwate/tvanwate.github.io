@@ -1,6 +1,6 @@
 ---
 title: "Randall Ali"
-date: 2001-02-01
+date: 2001-03-01
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/randy_circle.png
