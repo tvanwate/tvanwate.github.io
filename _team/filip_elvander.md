@@ -1,6 +1,6 @@
 ---
 title: "Filip Elvander"
-date: 2016-09-01
+date: 2001-03-03
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/filip_circle.png
