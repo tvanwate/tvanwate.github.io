@@ -211,7 +211,7 @@ Patrick A. Naylor, **Confidence measures for non-intrusive
 estimation of speech clarity index**, *J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 90-99, Jan./Feb. 2017
 (Special Issue on Dereverberation and Reverberation of Audio, Music,
 and Speech).  
-\[[Published](https://doi.org/10.17743/jaes.2016.0058){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489025){:target="_blank"}\]
+\[[Published](https://doi.org/10.17743/jaes.2016.0058){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-193.pdf){:target="_blank"}\]
 
 32. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
 Doclo, **A general framework for incorporating time-frequency domain
@@ -219,7 +219,7 @@ sparsity in multi-channel speech dereverberation**,
 *J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 17-30, Jan./Feb. 2017
 (Special Issue on Dereverberation and Reverberation of Audio, Music,
 and Speech).  
-\[[Published](https://doi.org/10.17743/jaes.2016.0064){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489016){:target="_blank"}\]
+\[[Published](https://doi.org/10.17743/jaes.2016.0064){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-192.pdf){:target="_blank"}\]
 
 33. Neofytos Kaplanis, Søren Bech, Sakari Tervo, Jukka Pätynen, Tapio
 Lokki, Toon van Waterschoot, and Søren Holdt Jensen, **A rapid
@@ -227,7 +227,7 @@ sensory analysis method for perceptual assessment of automotive
 audio**, *J. Audio Eng. Soc.*, vol. 65, no. 1/2, pp. 130-146, Jan./Feb. 2017
 (Special Issue on Dereverberation and Reverberation of Audio, Music,
 and Speech).  
-\[[Published](https://doi.org/10.17743/jaes.2016.0056){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489012){:target="_blank"}\]
+\[[Published](https://doi.org/10.17743/jaes.2016.0056){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-76.pdf){:target="_blank"}\]
 
 34. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
 Moonen, **Subjective audio quality evaluation of
