@@ -375,12 +375,12 @@ acoustic signal enhancement**,
 *Signal Processing*, vol. 88, no. 3, Mar. 2008, pp. 594-611.  
 \[[Published](https://doi.org/10.1016/j.sigpro.2007.09.001){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-184.pdf){:target="_blank"}\]
 
-56. Toon van Waterschoot and Marc Moonen, "[A pole-zero placement
+56. Toon van Waterschoot and Marc Moonen, **A pole-zero placement
 technique for designing second-order IIR parametric equalizer
-filters](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/06-177.html),"
+filters**,
 *IEEE Trans. Audio, Speech, Lang. Process.*, vol. 15, no. 8, Nov.
 2007, pp. 2561-2565.  
-*Note: the publisher made a typesetting error in Eq. (28). The term "-1" should be included under the square root. Please refer to the archived version of the paper for the correct equation. 
+*Note: the publisher made a typesetting error in Eq. (28). The term "-1" should be included under the square root. Please refer to the archived version of the paper for the correct equation.*  
 \[[Published](https://doi.org/10.1109/TASL.2007.905180){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-177.pdf){:target="_blank"}\] \[[Software](https://homes.esat.kuleuven.be/~tvanwate/software.html#software_pareq){:target="_blank"}\]
 
 57. Geert Rombouts, **Toon van Waterschoot**, and Marc Moonen, "[Robust
