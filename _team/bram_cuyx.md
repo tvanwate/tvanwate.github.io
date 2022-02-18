@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Bram Cuyx is a VLAIO-funded **PhD Student** at [SoundTalks](https://www.soundtalks.com){:target="_blank"} supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Wim Buyens](https://scholar.google.be/citations?user=UjW3yEIAAAAJ&hl=nl){:target="_blank"} and [Wim Desmet](https://www.mech.kuleuven.be/en/mod/people/00011973){:target="_blank"}. He is working on multi-microphone acoustic signal enhancement in bioacoustics applications.
+Bram Cuyx is a VLAIO-funded **PhD Student** at [SoundTalks](https://www.soundtalks.com){:target="_blank"} supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Wim Buyens](https://scholar.google.be/citations?user=UjW3yEIAAAAJ&hl=nl){:target="_blank"} and [Wim Desmet](https://www.mech.kuleuven.be/en/mod/people/00011973){:target="_blank"}. He is working on multi-microphone processing of bioacoustics signals.
