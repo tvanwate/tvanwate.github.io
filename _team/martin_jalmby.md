@@ -1,6 +1,6 @@
 ---
 title: "Martin Jälmby"
-date: 2001-03-05
+date: 2001-04-04
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/martin_circle.png
