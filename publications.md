@@ -311,7 +311,8 @@ Marc Moonen, and Søren Holdt Jensen, **Nonlinear acoustic echo
 cancellation based on a sliding-window leaky kernel affine
 projection algorithm**,
 *IEEE Trans. Audio Speech Language Process.*, vol. 21, no. 9, Sep.
-2013, pp. 1867-1878.
+2013, pp. 1867-1878.  
+\[[Published](https://doi.org/10.1109/TASL.2013.2260742){:target="_blank"}\] \[[Archived](ftp://gold.esat.kuleuven.be/SISTA/pepegilcacho/reports/gilcacho12_141.pdf){:target="_blank"}\]
 
 46. **Toon van Waterschoot**, Wouter Joos Tirry, and Marc Moonen,
 "[Acoustic zooming by multi-microphone sound scene
