@@ -178,7 +178,7 @@ Moonen, **Adaptive feedback cancellation using a partitioned-block
 frequency-domain Kalman filter approach with PEM-based signal
 prewhitening**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 9,
 pp. 1480-1494, Sep. 2017.  
-\[[Published](https://doi.org/10.1109/TASLP.2017.2716188){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-141.pdf){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2017.2716188){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/gbernard/Reports/16-141.pdf){:target="_blank"}\]
 
 27. Giacomo Vairetti, Enzo De Sena, Michael Catrysse, Søren Holdt
 Jensen, Marc Moonen, and Toon van Waterschoot, **A scalable
@@ -240,7 +240,7 @@ Toon van Waterschoot, and Patrick A. Naylor, **A single-channel
 non-intrusive C50 estimator correlated with speech recognition
 performance**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 24, no. 4,
 Apr. 2016.  
-\[[Published](https://doi.org/10.1109/TASLP.2016.2521486){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/431769){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2016.2521486){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-38.pdf){:target="_blank"}\]
 
 36. Tobias Lindstrøm Jensen, Daniele Giacobello, Toon van
 Waterschoot, and Mads Græsbøll Christensen, **Fast algorithms for
@@ -248,21 +248,21 @@ high-order sparse linear prediction with applications to speech
 processing**, *Speech Communication*, vol. 76, pp. 143-156, Feb. 2016 (Special
 Section on Advances in Sparse Modeling and Low-rank Modeling for
 Speech Processing).  
-\[[Published](https://doi.org/10.1016/j.specom.2015.09.013){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/376459){:target="_blank"}\]
+\[[Published](https://doi.org/10.1016/j.specom.2015.09.013){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-36.pdf){:target="_blank"}\]
 
 37. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and Toon
 van Waterschoot, **Reverberant speech recognition exploiting
 clarity index estimation**,
 *EURASIP J. Adv. Signal Process.*, vol. 2015, Article no. 54, 12
 p., 2015.  
-\[[Published](https://doi.org/10.1186/s13634-015-0237-7){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/358383){:target="_blank"}\]
+\[[Published](https://doi.org/10.1186/s13634-015-0237-7){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-39.pdf){:target="_blank"}\]
 
 38. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
 Doclo, **Multi-channel linear prediction-based speech
 dereverberation with sparse priors**, 
 *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 23, no. 9,
 Sept. 2015, pp. 1509-1520.  
-\[[Published](https://doi.org/10.1109/TASLP.2015.2438549){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/358381){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2015.2438549){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/14-195.pdf){:target="_blank"}\]
 
 39. Enzo De Sena, Niccoló Antonello, Marc Moonen, and Toon van
 Waterschoot, **On the modeling of rectangular geometries in room
