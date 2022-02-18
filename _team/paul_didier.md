@@ -14,4 +14,4 @@ author:
       icon: fas fa-at    
 ---
 
-Paul Didier is a **PhD Student** in the [SOUNDS](projects/sounds/) project supervised by [Marc Moonen](https://www.kuleuven.be/wieiswie/en/person/00012609){:target="_blank"}, [Toon van Waterschoot](toon_vanwaterschoot), [Joerg Bitzer](https://www.jade-hs.de/en/team/joerg-bitzer/){:target="_blank"} and [Simon Doclo](https://uol.de/en/sigproc/staff/simon-doclo){:target="_blank"}. He is working on distributed signal processing for acoustic echo cancellation and noise reduction.
+Paul Didier is a **PhD Student** in the [SOUNDS](projects/sounds/) project supervised by [Marc Moonen](https://www.kuleuven.be/wieiswie/en/person/00012609){:target="_blank"}, [Toon van Waterschoot](toon_vanwaterschoot), [Joerg Bitzer](https://www.jade-hs.de/en/team/joerg-bitzer/){:target="_blank"} and [Simon Doclo](https://uol.de/en/sigproc/staff/simon-doclo){:target="_blank"}. He is working on distributed signal processing for acoustic echo and noise control.
