@@ -380,27 +380,28 @@ technique for designing second-order IIR parametric equalizer
 filters**,
 *IEEE Trans. Audio, Speech, Lang. Process.*, vol. 15, no. 8, Nov.
 2007, pp. 2561-2565.  
-*Note: the publisher made a typesetting error in Eq. (28). The term "-1" should be included under the square root. Please refer to the archived version of the paper for the correct equation.*  
+*Note: the publisher made a typesetting error in Eqs. (28) and (29). The term "-1" should be included under the square root in both equations. Please refer to the archived version of the paper for the correct equations.*  
 \[[Published](https://doi.org/10.1109/TASL.2007.905180){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-177.pdf){:target="_blank"}\] \[[Software](https://homes.esat.kuleuven.be/~tvanwate/software.html#software_pareq){:target="_blank"}\]
 
-57. Geert Rombouts, **Toon van Waterschoot**, and Marc Moonen, "[Robust
+57. Geert Rombouts, Toon van Waterschoot, and Marc Moonen, **Robust
 and efficient implementation of the PEM-AFROW algorithm for acoustic
-feedback
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-258.html),"
-*J. Audio Eng. Soc.*, vol. 55, no. 11, Nov. 2007, pp. 955-966.
+feedback cancellation**,
+*J. Audio Eng. Soc.*, vol. 55, no. 11, Nov. 2007, pp. 955-966.  
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=14179){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-258.pdf){:target="_blank"}\]
 
-58. **Toon van Waterschoot**, Geert Rombouts, Piet Verhoeve, and Marc
-Moonen, "[Double-talk-robust prediction error identification
-algorithms for acoustic echo
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-161.html),"
+58. Toon van Waterschoot, Geert Rombouts, Piet Verhoeve, and Marc
+Moonen, **Double-talk-robust prediction error identification
+algorithms for acoustic echo cancellation**,
 *IEEE Trans. Signal Process.*, vol. 55, no. 3, Mar. 2007, pp.
-846-858.
+846-858.  
+\[[Published](https://doi.org/10.1109/TSP.2006.887155){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-161.pdf){:target="_blank"}\] \[[Software](https://homes.esat.kuleuven.be/~tvanwate/software.html#software_robustaec){:target="_blank"}\] \[[Software documentation](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-162.pdf){:target="_blank"}\]
 
-59. Geert Rombouts, **Toon van Waterschoot**, Kris Struyve, and Marc
-Moonen, "[Acoustic feedback cancellation for long acoustic paths
-using a nonstationary source
-model](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/04-151.html),"
+59. Geert Rombouts, Toon van Waterschoot, Kris Struyve, and Marc
+Moonen, **Acoustic feedback cancellation for long acoustic paths
+using a nonstationary source model**,
 *IEEE Trans. Signal Process.*, vol. 54, no. 9, Sept. 2006, pp.
-3426-3434.
+3426-3434.  
+\[[Published](https://doi.org/10.1109/TSP.2006.879251){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/04-151.pdf){:target="_blank"}\]
+
 
 * **Conference Papers**
