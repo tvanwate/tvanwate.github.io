@@ -1,6 +1,6 @@
 ---
 title: "Thomas Dietzen"
-date: 2001-03-03
+date: 2001-03-02
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/thomas_circle.png
