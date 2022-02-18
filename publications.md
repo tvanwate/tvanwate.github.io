@@ -284,7 +284,7 @@ Moonen, **Embedded-optimization-based loudspeaker precompensation
 using a Hammerstein loudspeaker model**,
 *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 22, no. 11,
 Nov. 2014, pp. 1648-1659.  
-\[[Published](https://doi.org/10.1109/TASLP.2014.2344862){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/313541){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2014.2344862){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
 42. Jose Manuel Gil-Cacho, Toon van Waterschoot, Marc Moonen, and
 Søren Holdt Jensen, **Wiener variable step size and gradient
@@ -298,13 +298,13 @@ Waterschoot, Moritz Diehl, and Marc Moonen, **Declipping of audio
 signals using perceptual compressed sensing**,
 *IEEE Trans. Audio Speech Language Process.*, vol. 21, no. 12, Dec.
 2013, pp. 2627-2637.  
-\[[Published](https://doi.org/10.1109/TASL.2013.2281570){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/251468){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASL.2013.2281570){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/bdefraen/reports/13-35.pdf){:target="_blank"}\]
 
 44. Kim Ngo, Toon van Waterschoot, Mads Græsbøll Christensen, Marc
 Moonen, and Søren Holdt Jensen, **Improved prediction error filters
 for adaptive feedback cancellation in hearing aids**,
 *Signal Processing*, vol. 93, no. 11, Nov. 2013, pp. 3062-3075.  
-\[[Published](https://doi.org/10.1016/j.sigpro.2013.03.042){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/585192){:target="_blank"}\]
+\[[Published](https://doi.org/10.1016/j.sigpro.2013.03.042){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/12-163.pdf){:target="_blank"}\]
 
 45. Jose Manuel Gil-Cacho, Marco Signoretto, Toon van Waterschoot,
 Marc Moonen, and Søren Holdt Jensen, **Nonlinear acoustic echo
