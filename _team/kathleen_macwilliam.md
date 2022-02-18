@@ -14,4 +14,4 @@ author:
       icon: fas fa-at    
 ---
 
-Katy MacWilliam is a **PhD Student** in the [SONORA](projects/sonora/) project supervised by [Toon van Waterschoot](toon_vanwaterschoot). She is working on geometric problems in room acoustics using Euclidean distance matrices.
+Kathleen MacWilliam is a **PhD Student** in the [SONORA](projects/sonora/) project supervised by [Toon van Waterschoot](toon_vanwaterschoot). She is working on geometric problems in room acoustics using Euclidean distance matrices.
