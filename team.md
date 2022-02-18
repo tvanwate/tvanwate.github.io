@@ -1,5 +1,5 @@
 ---
-layout: collection_swapped
+layout: collection
 title: "Team"
 collection: team
 permalink: /team/
