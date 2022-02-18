@@ -20,4 +20,4 @@ author:
       icon: fab fa-github
 ---
 
-Thomas Dietzen is a **PhD Student** supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Simon Doclo](http://www.sigproc.uni-oldenburg.de/45583.html) and [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?persid=2). He is working on the design and implementation of adaptive beamforming algorithms for joint noise reduction and dereverberation.
+Thomas Dietzen is a **Postdoc** working in the [SONORA](projects/sonora) project on the development of a compressed sensing framework for room acoustics. He holds a PhD degree from KU Leuven obtained in 2019.
