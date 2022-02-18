@@ -65,7 +65,7 @@ Speech, Music Process.*, vol. 2021, Article No. 10, 20 p., 2021.
 and Toon van Waterschoot, **Localization uncertainty in
 time-amplitude stereophonic reproduction**, *IEEE/ACM Trans. Audio
 Speech Language Process.*, vol. 28, pp. 1000-1015, 2020.  
-\[[Published](https://doi.org/10.1109/TASLP.2020.2975419){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/571236){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2020.2975419){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/1907.11425){:target="_blank"}\]
 
 10. Thomas Dietzen, Simon Doclo, Marc Moonen and Toon van
 Waterschoot, **Square root-based multi-source early PSD estimation
