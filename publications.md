@@ -171,14 +171,14 @@ Toon van Waterschoot, **Room impulse response interpolation
 using a sparse spatio-temporal representation of the sound
 field**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 10,
 pp. 1929-1941, Oct. 2017.  
-\[[Published](https://doi.org/10.1109/TASLP.2017.2730284){:target="_blank"}\] \[[Animations](https://lirias.kuleuven.be/retrieve/461467){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/460519){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2017.2730284){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//nantonel/17-26.pdf){:target="_blank"}\] \[[Animations](https://lirias.kuleuven.be/retrieve/461467){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/460519){:target="_blank"}\]
 
 26. Giuliano Bernardi, Toon van Waterschoot, Jan Wouters, and Marc
 Moonen, **Adaptive feedback cancellation using a partitioned-block
 frequency-domain Kalman filter approach with PEM-based signal
 prewhitening**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 25, no. 9,
 pp. 1480-1494, Sep. 2017.  
-\[[Published](https://doi.org/10.1109/TASLP.2017.2716188){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/462258){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2017.2716188){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-141.pdf){:target="_blank"}\]
 
 27. Giacomo Vairetti, Enzo De Sena, Michael Catrysse, Søren Holdt
 Jensen, Marc Moonen, and Toon van Waterschoot, **A scalable
@@ -186,13 +186,13 @@ algorithm for physically motivated and sparse approximation of room
 impulse responses with orthonormal basis functions**, *IEEE/ACM
 Trans. Audio Speech Language Process.*, vol. 25, no. 7, pp.
 1547-1561, Jul. 2017.  
-\[[Published](https://doi.org/10.1109/TASLP.2017.2700940){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/459007){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/452260){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/TASLP.2017.2700940){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/15-122.pdf){:target="_blank"}\] \[[Software](https://lirias.kuleuven.be/retrieve/452260){:target="_blank"}\]
 
 28. Giacomo Vairetti, Neofytos Kaplanis, Enzo De Sena, Søren Holdt
 Jensen, Søren Bech, Marc Moonen, and Toon van Waterschoot, **The
 Subwoofer Room Impulse Response database (SUBRIR)**, *J. Audio Eng.
 Soc.*, vol. 65, no. 5, pp. 389-401, May 2017.  
-\[[Published](https://doi.org/10.17743/jaes.2017.0007){:target="_blank"}\] \[[Data set: SUBRIR_Calibration](https://lirias.kuleuven.be/retrieve/440181){:target="_blank"}\] \[[Data set: SUBRIR_NF_SpA (Near Field)](https://lirias.kuleuven.be/retrieve/440179){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicC](https://lirias.kuleuven.be/retrieve/440166){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicD](https://lirias.kuleuven.be/retrieve/440171){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicC](https://lirias.kuleuven.be/retrieve/440173){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD](https://lirias.kuleuven.be/retrieve/440175){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD_RIRs](https://lirias.kuleuven.be/retrieve/440160){:target="_blank"}\]
+\[[Published](https://doi.org/10.17743/jaes.2017.0007){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/16-139.pdf){:target="_blank"}\] \[[Data set: SUBRIR_Calibration](https://lirias.kuleuven.be/retrieve/440181){:target="_blank"}\] \[[Data set: SUBRIR_NF_SpA (Near Field)](https://lirias.kuleuven.be/retrieve/440179){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicC](https://lirias.kuleuven.be/retrieve/440166){:target="_blank"}\] \[[Data set: SUBRIR_SpA_MicD](https://lirias.kuleuven.be/retrieve/440171){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicC](https://lirias.kuleuven.be/retrieve/440173){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD](https://lirias.kuleuven.be/retrieve/440175){:target="_blank"}\] \[[Data set: SUBRIR_SpB_MicD_RIRs](https://lirias.kuleuven.be/retrieve/440160){:target="_blank"}\]
 
 29. Neofytos Kaplanis, Søren Bech, Sakari Tervo, Jukka Pätynen, Tapio
 Lokki, Toon van Waterschoot, and Søren Holdt Jensen, **Perceptual
@@ -204,7 +204,7 @@ Soc. Am.*, vol. 141, no. 3, pp. 1459-1469, Mar. 2017.
 speech dereverberation using constrained sparse multi-channel linear
 prediction**, *IEEE Signal Process. Lett.*, vol. 24, no. 1, pp. 101-105,
 Jan. 2017.  
-\[[Published](https://doi.org/10.1109/LSP.2016.2640939){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/431765){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/LSP.2016.2640939){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-194.pdf){:target="_blank"}\]
 
 31. Pablo Peso Parada, Dushyant Sharma, Toon van Waterschoot, and
 Patrick A. Naylor, **Confidence measures for non-intrusive
