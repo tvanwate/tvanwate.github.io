@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Duowei Tang is a **PhD Student** supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Luc Geurts](https://iiw.kuleuven.be/onderzoek/emedia/people/geurtsluc){:target="_blank"} and [Peter Kuppens](https://ppw.kuleuven.be/okp/people/Peter_Kuppens/){:target="_blank"}. He is working on deep learning for speech emotion recognition and binaural localization.
+Duowei Tang is a CSC-funded **PhD Student** supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Luc Geurts](https://iiw.kuleuven.be/onderzoek/emedia/people/geurtsluc){:target="_blank"} and [Peter Kuppens](https://ppw.kuleuven.be/okp/people/Peter_Kuppens/){:target="_blank"}. He is working on deep learning for speech emotion recognition and binaural localization.
