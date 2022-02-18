@@ -23,10 +23,10 @@ layout: default
 
       <div class="page-content">
         <div class="e-content">
-          {{ content }}
           <div class="entries-{{ page.entries_layout | default: 'list' }}">
             {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
           </div>
+          {{ content }}
         </div>
         {% if page.share %}
           {% include social-share.html %}
