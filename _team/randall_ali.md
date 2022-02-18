@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Randall Ali is a **Postdoc** working in the [SOUNDS](projects/sounds/) and [SONORA](projects/sonora/) projects. He obtained his PhD at KU Leuven in 2020 on the topic of multi-microphone speech enhancement in hearing instruments.
+Randall Ali is a **Postdoc** working in the [SOUNDS](projects/sounds/) and [SONORA](projects/sonora/) projects, on the intersection of physical/numerical acoustics and signal processing. He holds a PhD from KU Leuven obtained in 2020.
