@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Randall Ali is a **PhD Student** supervised by [Marc Moonen](http://www.esat.kuleuven.be/stadius/person.php?persid=2) and [Toon van Waterschoot](toon_vanwaterschoot). He is working on multi-microphone speech enhancement in hearing instruments employing additional external microphones.
+Randall Ali is a **Postdoc** supervised working in the [SOUNDS](projects/sounds/) and [SONORA](projects/sonora/) projects. He obtained his PhD at KU Leuven in 2020 on the topic of multi-microphone speech enhancement in hearing instruments employing additional external microphones.
