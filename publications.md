@@ -331,55 +331,57 @@ feedback control: state of the art and future challenges**,
 *Proc. IEEE*, vol. 99, no. 2, Feb. 2011, pp. 288-327.
 \[[Published](https://doi.org/10.1109/JPROC.2010.2090998){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/08-13.pdf){:target="_blank"}\] \[[Data set & Sound examples](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/abstracts/08-13.html){:target="_blank"}\]
 
-49. **Toon van Waterschoot** and Marc Moonen, "[Comparative evaluation
-of howling detection criteria in notch-filter-based howling
-suppression](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-207.html),"
+49. Toon van Waterschoot and Marc Moonen, **Comparative evaluation
+of howling detection criteria in notch-filter-based howling suppression**,
 *J. Audio Eng. Soc.*, vol. 58, no. 11, Nov. 2010, pp. 923-940
-(invited paper).
+(invited paper).  
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=15738){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/425246){:target="_blank"}\] \[[Data set & Sound examples](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-207.html){:target="_blank"}\]
 
-50. **Toon van Waterschoot**, Vincent Le Nir, Jonathan Duplicy, and Marc
-Moonen, "[Analytical expressions for the power spectral density of
-CP-OFDM and ZP-OFDM
-signals](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-148.html),"
+50. Toon van Waterschoot, Vincent Le Nir, Jonathan Duplicy, and Marc
+Moonen, **Analytical expressions for the power spectral density of
+CP-OFDM and ZP-OFDM signals**,
 *IEEE Signal Process. Lett.*, vol. 17, no. 4, Apr. 2010, pp.
-371-374.
+371-374.  
+\[[Published](https://doi.org/10.1109/LSP.2010.2040651){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/09-148.pdf){:target="_blank"}\]
 
-51. Vincent Le Nir, **Toon van Waterschoot**, Jonathan Duplicy, and Marc
-Moonen, "[Blind coarse timing offset estimation for CP-OFDM and
-ZP-OFDM transmission over frequency selective
-channels](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-176.html),"
+51. Vincent Le Nir, Toon van Waterschoot, Jonathan Duplicy, and Marc
+Moonen, **Blind coarse timing offset estimation for CP-OFDM and
+ZP-OFDM transmission over frequency selective channels**,
 *EURASIP J. Wireless Commun. Networking*, vol. 2009, Article ID
-262813, 8 p., 2009.
+262813, 8 p., 2009.  
+\[[Published](http://doi.org/10.1155/2009/262813){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/09-176.pdf){:target="_blank"}\]
 
-52. Vincent Le Nir, **Toon van Waterschoot**, Marc Moonen, and Jonathan
-Duplicy, "[Blind CP-OFDM and ZP-OFDM parameter estimation in
-frequency selective
-channels](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/08-204.html),"
+52. Vincent Le Nir, Toon van Waterschoot, Marc Moonen, and Jonathan
+Duplicy, **Blind CP-OFDM and ZP-OFDM parameter estimation in
+frequency selective channels**,
 *EURASIP J. Wireless Commun. Networking*, vol. 2009, Article ID
-315765, 10 p., 2009.
+315765, 10 p., 2009.  
+\[[Published](https://doi.org/10.1155/2009/315765){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/08-204.pdf){:target="_blank"}\]
 
-53. **Toon van Waterschoot** and Marc Moonen, "[Adaptive feedback
-cancellation for audio
-applications](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/07-30.html),"
-*Signal Processing*, vol. 89, no. 11, Nov. 2009, pp. 2185-2201.
+53. Toon van Waterschoot and Marc Moonen, **Adaptive feedback
+cancellation for audio applications**,
+*Signal Processing*, vol. 89, no. 11, Nov. 2009, pp. 2185-2201.  
+\[[Published](https://doi.org/10.1016/j.sigpro.2009.04.036){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/07-30.pdf){:target="_blank"}\]
 
-54. **Toon van Waterschoot** and Marc Moonen, "[Comparison of linear
-prediction models for audio
-signals](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/07-29.html),"
+54. Toon van Waterschoot and Marc Moonen, **Comparison of linear
+prediction models for audio signals**,
 *EURASIP J. Audio, Speech, Music Process.*, vol. 2008, Article ID
 706935, 24 p., 2008.
+\[[Published](https://doi.org/10.1155/2008/706935){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/07-29.pdf){:target="_blank"}\]
 
-55. **Toon van Waterschoot**, Geert Rombouts, and Marc Moonen,
-"[Optimally regularized adaptive filtering algorithms for room
-acoustic signal
-enhancement](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-184.html),"
-*Signal Processing*, vol. 88, no. 3, Mar. 2008, pp. 594-611.
+55. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
+**Optimally regularized adaptive filtering algorithms for room
+acoustic signal enhancement**,
+*Signal Processing*, vol. 88, no. 3, Mar. 2008, pp. 594-611.  
+\[[Published](https://doi.org/10.1016/j.sigpro.2007.09.001){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-184.pdf){:target="_blank"}\]
 
-56. **Toon van Waterschoot** and Marc Moonen, "[A pole-zero placement
+56. Toon van Waterschoot and Marc Moonen, "[A pole-zero placement
 technique for designing second-order IIR parametric equalizer
 filters](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/06-177.html),"
 *IEEE Trans. Audio, Speech, Lang. Process.*, vol. 15, no. 8, Nov.
-2007, pp. 2561-2565.
+2007, pp. 2561-2565.  
+*Note: the publisher made a typesetting error in Eq. (28). The term "-1" should be included under the square root. Please refer to the archived version of the paper for the correct equation. 
+\[[Published](https://doi.org/10.1109/TASL.2007.905180){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-177.pdf){:target="_blank"}\] \[[Software](https://homes.esat.kuleuven.be/~tvanwate/software.html#software_pareq){:target="_blank"}\]
 
 57. Geert Rombouts, **Toon van Waterschoot**, and Marc Moonen, "[Robust
 and efficient implementation of the PEM-AFROW algorithm for acoustic
