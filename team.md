@@ -8,6 +8,7 @@ sort_by: date
 ---
 
 ## Alumni
+* **Gert Dekkers** was a PhD Student in our team from 2013 to 2021, working on energy-aware distributed signal processing and event detection in wireless acoustic sensor networks. He is now with [Magics](https://www.magics.tech){:target="_blank"}.
 * **Giuliano Bernardi** was a PhD student in our team from 2012 to 2018, working on acoustic signal enhancement in hearing instruments, and stayed as a Postdoc from 2018 to 2021, working on cooperative audio signal processing. He is now with [ConneXounds](https://www.connexounds.com){:target="_blank"}, a spin-off of our lab.
 * **Amin Hassani** was a Postdoc in our team from 2018 to 2021, working on cooperative audio signal processing. He is now with [ConneXounds](https://www.connexounds.com){:target="_blank"}, a spin-off of our lab.
 * **Brian Fitzpatrick** was a Postdoc in our team from 2018 to 2020, working on geometric and wave-based numerical methods for room acoustics modeling and simulation. He is now with [Modulize](https://www.modulize.io){:target="_blank"}.
