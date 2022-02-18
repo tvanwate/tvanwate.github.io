@@ -3,7 +3,7 @@ layout: collection
 title: "Team"
 collection: team
 permalink: /team/
-entries_layout: grid
+entries_layout: list
 sort_by: date
 ---
 
