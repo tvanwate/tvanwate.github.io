@@ -3,10 +3,10 @@ title: "Randall Ali"
 date: 2001-02-01
 image: 
   path: /images/empty_banner.png
-  thumbnail: /images/randall_circle.png
+  thumbnail: /images/randy_circle.png
 author:
   name: Randall Ali
-  picture: /images/randall_circle.png
+  picture: /images/randy_circle.png
   email: randall.ali@esat.kuleuven.be
   links:
     - title: Email
@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Randall Ali is a **Postdoc** supervised working in the [SOUNDS](projects/sounds/) and [SONORA](projects/sonora/) projects. He obtained his PhD at KU Leuven in 2020 on the topic of multi-microphone speech enhancement in hearing instruments employing additional external microphones.
+Randall Ali is a **Postdoc** working in the [SOUNDS](projects/sounds/) and [SONORA](projects/sonora/) projects. He obtained his PhD at KU Leuven in 2020 on the topic of multi-microphone speech enhancement in hearing instruments employing additional external microphones.
