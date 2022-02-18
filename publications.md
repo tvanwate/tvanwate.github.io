@@ -137,7 +137,7 @@ Eng. Soc.*, vol. 66, no. 11, pp. 935-952, Nov. 2018.
 Monika Rychtarikova, and Christ Glorieux, **Localization of a virtual
 wall by means of active echolocation by untrained sighted persons**,
 *Applied Acoustics*, vol. 139, pp. 82-92, Oct. 2018.  
-\[[Published](https://doi.org/10.1016/j.apacoust.2018.04.018){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/525660){:target="_blank"}\]
+\[[Published](https://doi.org/10.1016/j.apacoust.2018.04.018){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/18-148.pdf){:target="_blank"}\]
 
 21. Lenn Carpentier, Tomas Norton, Ali Youssef, Dries Berckmans, Toon
 van Waterschoot, Bernadette Earley, Dayle Johnston, Natasha
@@ -157,7 +157,7 @@ Speech Language Process.*, vol. 26, no. 5, pp. 1010-1024, May 2018.
 Waterschoot, **Localisation experiments with reporting by head
 orientation: statistical framework and case study**, *J. Audio Eng.
 Soc.*, vol. 65, no. 12, pp. 982-996, Dec. 2017.  
-\[[Published](https://doi.org/10.17743/jaes.2017.0038){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/489009){:target="_blank"}\]
+\[[Published](https://doi.org/10.17743/jaes.2017.0038){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-146.pdf){:target="_blank"}\]
 
 24. Giuliano Bernardi, Toon van Waterschoot, Marc Moonen, Jan
 Wouters, Martin Hillbratt, and Nicolas Verhaert, **Measurement and
