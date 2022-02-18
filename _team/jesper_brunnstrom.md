@@ -14,4 +14,4 @@ author:
       icon: fas fa-at    
 ---
 
-Jesper Brunnström is a **PhD Student** in the [SOUNDS](projects/sounds/) project supervised by [Marc Moonen](https://www.kuleuven.be/wieiswie/en/person/00012609){:target="_blank"}, [Toon van Waterschoot](toon_vanwaterschoot) and [Jan Østergaard](https://vbn.aau.dk/en/persons/104838){:target="_blank"}. He is working on distributed sound field control.
+Jesper Brunnström is a **PhD Student** in the [SOUNDS](projects/sounds/) project supervised by [Marc Moonen](https://www.kuleuven.be/wieiswie/en/person/00012609){:target="_blank"}, [Toon van Waterschoot](toon_vanwaterschoot) and [Jan Østergaard](https://vbn.aau.dk/en/persons/104838){:target="_blank"}. He is working on distributed sound field control and sound zoning.
