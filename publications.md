@@ -314,22 +314,22 @@ projection algorithm**,
 2013, pp. 1867-1878.  
 \[[Published](https://doi.org/10.1109/TASL.2013.2260742){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/SISTA/pepegilcacho/reports/gilcacho12_141.pdf){:target="_blank"}\]
 
-46. **Toon van Waterschoot**, Wouter Joos Tirry, and Marc Moonen,
-"[Acoustic zooming by multi-microphone sound scene
-manipulation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-173.html),"
-*J. Audio Eng. Soc.*, vol. 61, no. 7/8, Jul./Aug. 2013, pp. 489-507.
+46. Toon van Waterschoot, Wouter Joos Tirry, and Marc Moonen,
+**Acoustic zooming by multi-microphone sound scene manipulation**,
+*J. Audio Eng. Soc.*, vol. 61, no. 7/8, Jul./Aug. 2013, pp. 489-507.  
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=16866){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/12-173.pdf){:target="_blank"}\] \[[Audio/video examples](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/abstracts/12-173.html){:target="_blank"}\]
 
-47. Bruno Defraene, **Toon van Waterschoot**, Hans Joachim Ferreau,
-Moritz Diehl, and Marc Moonen, "[Real-time perception-based clipping
-of audio signals using convex
-optimization](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-127.html),"
+47. Bruno Defraene, Toon van Waterschoot, Hans Joachim Ferreau,
+Moritz Diehl, and Marc Moonen, **Real-time perception-based clipping
+of audio signals using convex optimization**,
 *IEEE Trans. Audio Speech Language Process.*, vol. 20, no. 10, Dec.
-2012, pp. 2657-2671.
+2012, pp. 2657-2671.  
+\[[Published](https://doi.org/10.1109/TASL.2012.2210875){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/bdefraen/reports/11-127.pdf){:target="_blank"}\] \[[Sound examples](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/abstracts/11-127.html){:target="_blank"}\]
 
-48. **Toon van Waterschoot** and Marc Moonen, "[Fifty years of acoustic
-feedback control: state of the art and future
-challenges](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/08-13.html),"
+48. Toon van Waterschoot and Marc Moonen, **Fifty years of acoustic
+feedback control: state of the art and future challenges**,
 *Proc. IEEE*, vol. 99, no. 2, Feb. 2011, pp. 288-327.
+\[[Published](https://doi.org/10.1109/JPROC.2010.2090998){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/08-13.pdf){:target="_blank"}\] \[[Data set & Sound examples](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/abstracts/08-13.html){:target="_blank"}\]
 
 49. **Toon van Waterschoot** and Marc Moonen, "[Comparative evaluation
 of howling detection criteria in notch-filter-based howling
