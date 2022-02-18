@@ -164,7 +164,7 @@ Wouters, Martin Hillbratt, and Nicolas Verhaert, **Measurement and
 analysis of feedback and nonlinearities for the Codacs direct
 acoustic cochlear implant**, *IEEE Access*, vol. 5, no. 1, pp.
 8702-8713, Dec. 2017.  
-\[[Published](https://doi.org/10.1109/ACCESS.2017.2703635){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/458863){:target="_blank"}\]
+\[[Published](https://doi.org/10.1109/ACCESS.2017.2703635){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/gbernard/Reports/15-181.pdf){:target="_blank"}\]
 
 25. Niccolò Antonello, Enzo De Sena, Marc Moonen, Patrick A. Naylor, and
 Toon van Waterschoot, **Room impulse response interpolation
