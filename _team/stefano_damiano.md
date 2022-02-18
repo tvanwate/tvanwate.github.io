@@ -12,6 +12,9 @@ author:
     - title: Email
       url: mailto:stefano.damiano@esat.kuleuven.be
       icon: fas fa-at    
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/stedamiano/
+      icon: fab fa-linkedin      
 ---
 
 Stefano Damiano is a **PhD Student** in the [I-SPOT](projects/ispot/) project supervised by [Toon van Waterschoot](toon_vanwaterschoot) and [Andre Guntoro](https://scholar.google.com/citations?user=yd8FB7sAAAAJ&hl=en){:target="_blank"}. He is working on spatial audio analysis with moving microphone arrays mounted on vehicles.
