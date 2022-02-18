@@ -1,6 +1,6 @@
 ---
 title: "Aldona Niemiro-Sznajder"
-date: 2013-01-01
+date: 2001-01-02
 image: 
   path: /images/empty_banner.png
   thumbnail: /images/aldona_circle.png
