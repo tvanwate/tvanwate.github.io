@@ -15,6 +15,9 @@ author:
     - title: LinkedIn
       url: https://www.linkedin.com/in/hannesrosseel/
       icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/hrosseel
+      icon: fab fa-github      
 ---
 
 Hannes Rosseel is a **PhD Student** in the [Sound of Music](projects/som/) project supervised by [Toon van Waterschoot](toon_vanwaterschoot). He is working on the spatial measurement, analysis and reproduction of church acoustics.
