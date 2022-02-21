@@ -602,228 +602,249 @@ Process. Conf. (EUSIPCO '17)*, Kos, Greece, Aug. 2017, pp. 86-90.
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570342330.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/18-05.pdf){:target="_blank"}\]
 
 30. Thomas Dietzen, Ann Spriet, Wouter Tirry, Simon Doclo, Marc Moonen,
-and **Toon van Waterschoot**, "Partitioned block frequency domain
+and Toon van Waterschoot, **Partitioned block frequency domain
 Kalman filter for multi-channel linear prediction based blind speech
-dereverberation," in *Proc. 2016 Int. Workshop Acoustic Signal
-Enhancement (IWAENC '16)*, Xi'an, China, Sept. 2016.
+dereverberation**, in *Proc. 2016 Int. Workshop Acoustic Signal
+Enhancement (IWAENC '16)*, Xi'an, China, Sept. 2016.  
+\[[Published](https://doi.org/10.1109/IWAENC.2016.7602929){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/417595){:target="_blank"}\]
 
-31. Ante Jukić, Zichao Wang, **Toon van Waterschoot**, Timo Gerkmann,
-and Simon Doclo, "Constrained multi-channel linear prediction for
-adaptive speech dereverberation," in *Proc. 2016 Int. Workshop
-Acoustic Signal Enhancement (IWAENC '16)*, Xi'an, China, Sept. 2016.
+31. Ante Jukić, Zichao Wang, Toon van Waterschoot, Timo Gerkmann,
+and Simon Doclo, **Constrained multi-channel linear prediction for
+adaptive speech dereverberation**, in *Proc. 2016 Int. Workshop
+Acoustic Signal Enhancement (IWAENC '16)*, Xi'an, China, Sept. 2016.  
+\[[Published](https://doi.org/10.1109/IWAENC.2016.7602922){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-195.pdf){:target="_blank"}\]
 
-32. Mina Mounir, Peter Karsmakers, and **Toon van Waterschoot**, "Guitar
-note onset detection based on a spectral sparsity measure," in
+32. Mina Mounir, Peter Karsmakers, and Toon van Waterschoot, **Guitar
+note onset detection based on a spectral sparsity measure**, in
 *Proc. 24th European Signal Process. Conf. (EUSIPCO '16)*, Budapest,
-Hungary, Aug. 2016, pp. 978-982 **(EUSIPCO-2016 best paper award)**.
+Hungary, Aug. 2016, pp. 978-982 **(EUSIPCO-2016 best paper award)**.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2016/papers/1570256369.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/414897){:target="_blank"}\]
 
-33. Tobias Lindstrøm Jensen, Daniele Giacobello, **Toon van
-Waterschoot**, and Mads Græsbøll Christensen, "Computational
+33. Tobias Lindstrøm Jensen, Daniele Giacobello, Toon van
+Waterschoot, and Mads Græsbøll Christensen, **Computational
 analysis of a fast algorithm for high-order sparse linear
-prediction," in *Proc. 24th European Signal Process. Conf. (EUSIPCO
-'16)*, Budapest, Hungary, Aug. 2016, pp. 1073-1077 (invited paper).
+prediction**, in *Proc. 24th European Signal Process. Conf. (EUSIPCO
+'16)*, Budapest, Hungary, Aug. 2016, pp. 1073-1077 (invited paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2016/papers/1570254423.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-74.pdf){:target="_blank"}\]
 
-34. Tobias Lindstrøm Jensen, Daniele Giacobello, **Toon van
-Waterschoot**, and Mads Græsbøll Christensen, "A fast algorithm for
-high-order sparse linear prediction," in *Proc. Int. Traveling
+34. Tobias Lindstrøm Jensen, Daniele Giacobello, Toon van
+Waterschoot, and Mads Græsbøll Christensen, **A fast algorithm for
+high-order sparse linear prediction**, in *Proc. Int. Traveling
 Workshop Interactions Sparse Models Technol. (iTWIST '16)*, Aalborg,
-Denmark, Aug. 2016, pp. 24-26.
+Denmark, Aug. 2016, pp. 24-26.  
+\[[Published](https://arxiv.org/abs/1609.04167){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-75.pdf){:target="_blank"}\]
 
 35. Giacomo Vairetti, Enzo De Sena, Michael Catrysse, Søren Holdt
-Jensen, Marc Moonen, and **Toon van Waterschoot**, "Multichannel
+Jensen, Marc Moonen, and Toon van Waterschoot, **Multichannel
 identification of room acoustic systems with adaptive filters based
-on orthonormal basis functions," in *Proc. 2016 IEEE Int. Conf.
+on orthonormal basis functions**, in *Proc. 2016 IEEE Int. Conf.
 Acoust., Speech, Signal Process. (ICASSP '16)*, Shanghai, China,
-Mar. 2016, pp. 16-20.
+Mar. 2016, pp. 16-20.  
+\[[Published](https://doi.org/10.1109/ICASSP.2016.7471628){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/15-217.pdf){:target="_blank"}\]
 
 36. Thomas Dietzen, Ann Spriet, Wouter Tirry, Simon Doclo, Marc Moonen,
-and **Toon van Waterschoot**, "On the relation between
+and Toon van Waterschoot, **On the relation between
 data-dependent beamforming and multichannel linear prediction for
-dereverberation," in *Proc. AES 60th Int. Conf. Dereverberation and
+dereverberation**, in *Proc. AES 60th Int. Conf. Dereverberation and
 Reverberation of Audio, Music, and Speech*, Leuven, Belgium,
 Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18067){:target="_blank"}\] \[[Archived](https://www.dreams-itn.eu/uploads/On_the_relation.pdf){:target="_blank"}\]
 
-37. Enzo De Sena, Neofytos Kaplanis, Patrick A. Naylor, and **Toon van
-Waterschoot**, "Large-scale auralised sound localisation
-experiment," in *Proc. AES 60th Int. Conf. Dereverberation and
+37. Enzo De Sena, Neofytos Kaplanis, Patrick A. Naylor, and Toon van
+Waterschoot, **Large-scale auralised sound localisation
+experiment**, in *Proc. AES 60th Int. Conf. Dereverberation and
 Reverberation of Audio, Music, and Speech*, Leuven, Belgium,
 Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18069){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/ida/reports/15-218.pdf){:target="_blank"}\]
 
 38. Niccoló Antonello, Enzo De Sena, Marc Moonen, Patrick A. Naylor, and
-**Toon van Waterschoot**, "Sound field control in a reverberant room
-using the Finite Difference Time Domain method," in *Proc. AES 60th
+Toon van Waterschoot, **Sound field control in a reverberant room
+using the Finite Difference Time Domain method**, in *Proc. AES 60th
 Int. Conf. Dereverberation and Reverberation of Audio, Music, and
 Speech*, Leuven, Belgium, Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18088){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//nantonel/15-124.pdf){:target="_blank"}\]
 
 39. Giacomo Vairetti, Enzo De Sena, Michael Catrysse, Søren Holdt
-Jensen, Marc Moonen, and **Toon van Waterschoot**, "Room acoustic
-system identification using orthonormal basis function models," in
+Jensen, Marc Moonen, and Toon van Waterschoot, **Room acoustic
+system identification using orthonormal basis function models**, in
 *Proc. AES 60th Int. Conf. Dereverberation and Reverberation of
 Audio, Music, and Speech*, Leuven, Belgium, Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18086){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/15-121.pdf){:target="_blank"}\]
 
 40. Clement S. J. Doire, Mike Brookes, Patrick A. Naylor, Enzo De Sena,
-**Toon van Waterschoot**, and Søren Holdt Jensen, "Acoustic
+Toon van Waterschoot, and Søren Holdt Jensen, **Acoustic
 environment control: implementation of a reverberation enhancement
-system," in *Proc. AES 60th Int. Conf. Dereverberation and
+system**, in *Proc. AES 60th Int. Conf. Dereverberation and
 Reverberation of Audio, Music, and Speech*, Leuven, Belgium,
 Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18073){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-141.pdf){:target="_blank"}\]
 
-41. Ante Jukić, **Toon van Waterschoot**, Timo Gerkmann, and Simon
-Doclo, "A general framework for multi-channel speech dereverberation
-exploiting sparsity," in *Proc. AES 60th Int. Conf. Dereverberation
+41. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
+Doclo, **A general framework for multi-channel speech dereverberation
+exploiting sparsity**, in *Proc. AES 60th Int. Conf. Dereverberation
 and Reverberation of Audio, Music, and Speech*, Leuven, Belgium,
 Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18089){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-140.pdf){:target="_blank"}\]
 
-42. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and **Toon
-van Waterschoot**, "On computing prediction intervals for
-non-intrusive estimation of speech clarity index," in *Proc. AES
+42. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and Toon
+van Waterschoot, **On computing prediction intervals for
+non-intrusive estimation of speech clarity index**, in *Proc. AES
 60th Int. Conf. Dereverberation and Reverberation of Audio, Music,
 and Speech*, Leuven, Belgium, Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18077){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-139.pdf){:target="_blank"}\]
 
 43. Neofytos Kaplanis, Søren Bech, Sakari Tervo, Jukka Pätynen, Tapio
-Lokki, **Toon van Waterschoot**, and Søren Holdt Jensen, "[A method
+Lokki, Toon van Waterschoot, and Søren Holdt Jensen, **A method
 for perceptual assessment of automotive audio systems and cabin
-acoustics](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/16-06.html),"
+acoustics**,
 in *Proc. AES 60th Int. Conf. Dereverberation and Reverberation of
 Audio, Music, and Speech*, Leuven, Belgium, Feb. 2016.
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=18081){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/16-06.pdf){:target="_blank"}\]
 
-44. Pablo Peso Parada, Dushyant Sharma, **Toon van Waterschoot**, and
-Patrick A. Naylor, "Evaluating the non-intrusive room acoustics
-algorithm with the ACE challenge," in *Proc. ACE Challenge Workshop,
+44. Pablo Peso Parada, Dushyant Sharma, Toon van Waterschoot, and
+Patrick A. Naylor, **Evaluating the non-intrusive room acoustics
+algorithm with the ACE challenge**, in *Proc. ACE Challenge Workshop,
 a satellite event of IEEE-WASPAA 2015*, New Paltz, NY, USA,
-Oct. 2015.
+Oct. 2015.  
+\[[Published](https://arxiv.org/abs/1510.04616){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-40.pdf){:target="_blank"}\]
 
-45. Giuliano Bernardi, **Toon van Waterschoot**, Jan Wouters, and Marc
-Moonen, "An all-frequency-domain adaptive filter with PEM-based
-decorrelation for acoustic feedback control," in *Proc. 2015 IEEE
+45. Giuliano Bernardi, Toon van Waterschoot, Jan Wouters, and Marc
+Moonen, **An all-frequency-domain adaptive filter with PEM-based
+decorrelation for acoustic feedback control**, in *Proc. 2015 IEEE
 Workshop Appls. Signal Process. Audio Acoust. (WASPAA '15)*, New
-Paltz, NY, USA, Oct. 2015.
+Paltz, NY, USA, Oct. 2015.  
+\[[Published](https://doi.org/10.1109/WASPAA.2015.7336931){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/gbernard/Reports/15-66.pdf){:target="_blank"}\]
 
-46. Mathieu Hu, Pablo Peso Parada, Dushyant Sharma, Simon Doclo, **Toon
-van Waterschoot**, Mike Brookes, and Patrick A. Naylor,
-"Single-channel speaker diarization based on spatial features," in
+46. Mathieu Hu, Pablo Peso Parada, Dushyant Sharma, Simon Doclo, Toon
+van Waterschoot, Mike Brookes, and Patrick A. Naylor,
+**Single-channel speaker diarization based on spatial features**, in
 *Proc. 2015 IEEE Workshop Appls. Signal Process. Audio Acoust.
-(WASPAA '15)*, New Paltz, NY, USA, Oct. 2015.
+(WASPAA '15)*, New Paltz, NY, USA, Oct. 2015.  
+\[[Published](https://doi.org/10.1109/WASPAA.2015.7336928){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-137.pdf){:target="_blank"}\]
 
-47. Ante Jukić, **Toon van Waterschoot**, Timo Gerkmann, and Simon
-Doclo, "[Group sparsity for MIMO speech
-dereverberation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-73.html),"
+47. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
+Doclo, **Group sparsity for MIMO speech dereverberation**,
 in *Proc. 2015 IEEE Workshop Appls. Signal Process. Audio Acoust.
-(WASPAA '15)*, New Paltz, NY, USA, Oct. 2015.
+(WASPAA '15)*, New Paltz, NY, USA, Oct. 2015.  
+\[[Published](https://doi.org/10.1109/WASPAA.2015/7336927){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-73.pdf){:target="_blank"}\]
 
 48. Dries Berckmans, Martijn Hemeryck, Daniel Berckmans, Erik Vranken,
-and **Toon van Waterschoot**, "Animal sound...talks! Real-time
-sound analysis for health monitoring in livestock," in *Int. Symp.
+and Toon van Waterschoot, **Animal sound...talks! Real-time
+sound analysis for health monitoring in livestock**, in *Int. Symp.
 Animal Environ. & Welfare*, Chongqing, China, Oct. 2015, pp.
-215-222.
+215-222.  
+\[[Published (full proceedings)](http://www.ircaew.com/d/file/ztwz/ircaew/News/Symposia/2017-12-08/040ebf94490d65cb7f8eb6d6cdca5380.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//mhemeryc/isaew2015.pdf){:target="_blank"}\]
 
 49. Martijn Hemeryck, Dries Berckmans, Erik Vrancken, Emanuela Tullo,
-Ilaria Fontana, Marcella Guarino, and **Toon van Waterschoot**,
-"[The Pig Cough Monitor in the EU-PLF project: results and
-multimodal data
-analysis](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-201.html),"
+Ilaria Fontana, Marcella Guarino, and Toon van Waterschoot,
+**The Pig Cough Monitor in the EU-PLF project: results and
+multimodal data analysis**,
 in Precision Livestock Farming '15, (Guarino M., and Berckmans D.,
 eds.), Proc. 7th European Conf. Precision Livestock Farming
 (EC-PLF), Milan, Italy, Sept. 2015, Rosseels Printing, Leuven, 2015,
-pp. 147-155.
+pp. 147-155.  
+\[[Published (full proceedings)](http://www.eaplf.eu/wp-content/uploads/Precision-livestock-farming-2015_CD-DEF.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//mhemeryc/ecplf2015-paper.pdf){:target="_blank"}\]
 
-50. Gert Dekkers, **Toon van Waterschoot**, Bart Vanrumste, Bert Van Den
-Broeck, Jort F. Gemmeke, Hugo Van hamme, and Peter Karsmakers, "A
+50. Gert Dekkers, Toon van Waterschoot, Bart Vanrumste, Bert Van Den
+Broeck, Jort F. Gemmeke, Hugo Van hamme, and Peter Karsmakers, **A
 multi-channel speech enhancement framework for robust NMF-based
-speech recognition for speech-impaired users," in *Proc. Interspeech
-2015*, Dresden, Germany, Sept. 2015, pp. 746-750.
+speech recognition for speech-impaired users**, in *Proc. Interspeech
+2015*, Dresden, Germany, Sept. 2015, pp. 746-750.  
+\[[Published](https://www.isca-speech.org/archive_v0/interspeech_2015/papers/i15_0746.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/338943){:target="_blank"}\]
 
-51. **Toon van Waterschoot**, "[Distributed estimation of
-cross-correlation functions in ad-hoc microphone
-arrays](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-40.html),"
+51. Toon van Waterschoot, **Distributed estimation of
+cross-correlation functions in ad-hoc microphone arrays**,
 in *Proc. 23rd European Signal Process. Conf. (EUSIPCO '15)*, Nice,
-France, Sept. 2015, pp. 260-264 (invited paper).
+France, Sept. 2015, pp. 260-264 (invited paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2015/papers/1570104749.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/15-40.pdf){:target="_blank"}\] \[[Software & Data set](https://homes.esat.kuleuven.be/~tvanwate/software.html#software_distcorr){:target="_blank"}\]
 
 52. Thomas Dietzen, Nejem Huleihel, Ann Spriet, Wouter Tirry, Simon
-Doclo, Marc Moonen, and **Toon van Waterschoot**, "Speech
+Doclo, Marc Moonen, and Toon van Waterschoot, **Speech
 dereverberation by data-dependent beamforming with signal
-pre-whitening," in *Proc. 23rd European Signal Process. Conf.
+pre-whitening**, in *Proc. 23rd European Signal Process. Conf.
 (EUSIPCO '15)*, Nice, France, Sept. 2015, pp. 2505-2509 (invited
-paper).
+paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2015/papers/1570102147.pdf){:target="_blank"}\] \[[Archived](https://www.dreams-itn.eu/uploads/SPEECH_DEREVERBERATION.pdf){:target="_blank"}\]
 
-53. Giuliano Bernardi, **Toon van Waterschoot**, Jan Wouters, Martin
-Hillbratt, and Marc Moonen, "[A PEM-based frequency-domain Kalman
-filter for adaptive feedback
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-48.html),"
+53. Giuliano Bernardi, Toon van Waterschoot, Jan Wouters, Martin
+Hillbratt, and Marc Moonen, **A PEM-based frequency-domain Kalman
+filter for adaptive feedback cancellation**,
 in *Proc. 23rd European Signal Process. Conf. (EUSIPCO '15)*, Nice,
-France, Sept. 2015, pp. 270-274.
+France, Sept. 2015, pp. 270-274.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2015/papers/1570104243.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/gbernard/Reports/15-48.pdf){:target="_blank"}\]
 
-54. Kristian T. Andersen, **Toon van Waterschoot**, and Marc Moonen,
-"Adaptive linear prediction filters based on maximum a posteriori
-estimation," in *Proc. 23rd European Signal Process. Conf. (EUSIPCO
-'15)*, Nice, France, Sept. 2015, pp. 2755-2759.
+54. Kristian T. Andersen, Toon van Waterschoot, and Marc Moonen,
+**Adaptive linear prediction filters based on maximum a posteriori
+estimation**, in *Proc. 23rd European Signal Process. Conf. (EUSIPCO
+'15)*, Nice, France, Sept. 2015, pp. 2755-2759.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2015/papers/1570104721.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/ida/reports/15-116.pdf){:target="_blank"}\]
 
-55. Giacomo Vairetti, Enzo De Sena, **Toon van Waterschoot**, Marc
+55. Giacomo Vairetti, Enzo De Sena, Toon van Waterschoot, Marc
 Moonen, Michael Catrysse, Neofytos Kaplanis, and Søren Holdt Jensen,
-"[A physically motivated parametric model for compact representation
-of room impulse responses based on orthonormal basis
-functions](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-32.html),"
+**A physically motivated parametric model for compact representation
+of room impulse responses based on orthonormal basis functions**,
 in *Proc. 10th European Congress & Exposition Noise Control Eng.
 (EURONOISE '15)*, Maastricht, The Netherlands, Jun. 2015 (invited
-paper).
+paper).  
+\[[Published](https://www.conforg.fr/euronoise2015/proceedings/data/articles/000091.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/15-32.pdf){:target="_blank"}\]
 
-56. Niccoló Antonello, **Toon van Waterschoot**, Marc Moonen, and
-Patrick A. Naylor, "[Evaluation of a numerical method for
-identifying surface acoustic impedances in a reverberant
-room](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/15-30.html),"
+56. Niccoló Antonello, Toon van Waterschoot, Marc Moonen, and
+Patrick A. Naylor, **Evaluation of a numerical method for
+identifying surface acoustic impedances in a reverberant room**,
 in *Proc. 10th European Congress & Exposition Noise Control Eng.
 (EURONOISE '15)*, Maastricht, The Netherlands, Jun. 2015 (invited
-paper).
+paper).  
+\[[Published](https://www.conforg.fr/euronoise2015/proceedings/data/articles/000094.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//nantonel/15-30.pdf){:target="_blank"}\]
 
-57. Ante Jukić, Nasser Mohammadiha, **Toon van Waterschoot**, Timo
-Gerkmann, and Simon Doclo, "[Multi-channel linear prediction-based
-speech dereverberation with low-rank power spectrogram
-approximation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-193.html),"
+57. Ante Jukić, Nasser Mohammadiha, Toon van Waterschoot, Timo
+Gerkmann, and Simon Doclo, **Multi-channel linear prediction-based
+speech dereverberation with low-rank power spectrogram approximation**,
 in *Proc. 2015 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '15)*, Brisbane, Australia, Apr. 2015, pp. 96-100.
+(ICASSP '15)*, Brisbane, Australia, Apr. 2015, pp. 96-100.  
+\[[Published](https://doi.org/10.1109/ICASSP.2015.7177939){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/14-193.pdf){:target="_blank"}\]
 
-58. Bruno Defraene, Naim Mansour, Steven De Hertogh, **Toon van
-Waterschoot**, Moritz Diehl, and Marc Moonen, "[Declipping of audio
-signals using perceptual compressed
-sensing](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-192.html),"
+58. Bruno Defraene, Naim Mansour, Steven De Hertogh, Toon van
+Waterschoot, Moritz Diehl, and Marc Moonen, **Declipping of audio
+signals using perceptual compressed sensing**,
 in *Proc. 2014 IEEE Global Conf. Signal Inf. Process. (GlobalSIP
-'14)*, Atlanta, GA, USA, Dec. 2014, pp. 114-125 (invited paper).
+'14)*, Atlanta, GA, USA, Dec. 2014, pp. 114-125 (invited paper).  
+\[[Published](https://ieeexplore.ieee.org/xpl/conhome/7010655/proceeding){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/14-192.pdf){:target="_blank"}\]
 
-59. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and **Toon
-van Waterschoot**, "[Reverberant speech recognition: a phoneme
-analysis](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-74.html),"
+59. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and Toon
+van Waterschoot, **Reverberant speech recognition: a phoneme analysis**, 
 in *Proc. 2014 IEEE Global Conf. Signal Inf. Process. (GlobalSIP
-'14)*, Atlanta, GA, USA, Dec. 2014, pp. 567-571.
+'14)*, Atlanta, GA, USA, Dec. 2014, pp. 567-571.  
+\[[Published](https://doi.org/10.1109/GlobalSIP.2014.7032181){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/313697){:target="_blank"}\]
 
-60. Giacomo Vairetti, **Toon van Waterschoot**, Marc Moonen, Michael
-Catrysse, and Søren Holdt Jensen, "[An automatic model-building
+60. Giacomo Vairetti, Toon van Waterschoot, Marc Moonen, Michael
+Catrysse, and Søren Holdt Jensen, **An automatic model-building
 algorithm for sparse approximation of room impulse responses with
-orthonormal basis
-functions](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-85.html),"
+orthonormal basis functions**,
 in *Proc. 2014 Int. Workshop Acoustic Signal Enhancement (IWAENC
-'14)*, Antibes, France, Sept. 2014, pp. 249-253.
+'14)*, Antibes, France, Sept. 2014, pp. 249-253.  
+\[[Published](https://doi.org/10.1109/IWAENC.2014.6954296){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/14-85.pdf){:target="_blank"}\]
 
-61. Niccoló Antonello, **Toon van Waterschoot**, Marc Moonen, and
-Patrick A. Naylor, "[Identification of surface acoustic impedances
-in a reverberant room using the FDTD
-Method](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-84.html),"
+61. Niccoló Antonello, Toon van Waterschoot, Marc Moonen, and
+Patrick A. Naylor, **Identification of surface acoustic impedances
+in a reverberant room using the FDTD Method**,
 in *Proc. 2014 Int. Workshop Acoustic Signal Enhancement (IWAENC
 '14)*, Antibes, France, Sept. 2014, pp. 115-119 **(nominated for
 best student paper award)**.
+\[[Published](https://doi.org/10.1109/IWAENC.2014.6953349){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//nantonel/14-84.pdf){:target="_blank"}\]
 
 62. Pablo Peso Parada, Dushyant Sharma, Jose Lainez, Daniel Barreda,
-Patrick A. Naylor, and **Toon van Waterschoot**, "[A quantitative
-comparison of blind C50
-estimators](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-191.html),"
+Patrick A. Naylor, and Toon van Waterschoot, **A quantitative
+comparison of blind C50 estimators**,
 in *Proc. 2014 Int. Workshop Acoustic Signal Enhancement (IWAENC
 '14)*, Antibes, France, Sept. 2014, pp. 299-303.
+\[[Published](https://doi.org/10.1109/IWAENC.2014.6954306){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/14-191.pdf){:target="_blank"}\]
 
-63. Ante Jukić, **Toon van Waterschoot**, Timo Gerkmann, and Simon
-Doclo, "[Speech dereverberation with convolutive transfer function
-approximation using MAP and variational deconvolution
-approaches](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-190.html),"
+63. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
+Doclo, **Speech dereverberation with convolutive transfer function
+approximation using MAP and variational deconvolution approaches**,
 in *Proc. 2014 Int. Workshop Acoustic Signal Enhancement (IWAENC
 '14)*, Antibes, France, Sept. 2014, pp. 51-55.
+\[[Published](https://doi.org/10.1109/IWAENC.2014.6953336){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/14-190.pdf){:target="_blank"}\]
 
 64. Niccoló Antonello, **Toon van Waterschoot**, Marc Moonen, and
 Patrick A. Naylor, "[Source localization and signal reconstruction
