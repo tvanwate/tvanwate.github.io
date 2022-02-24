@@ -883,14 +883,14 @@ in *Proc. 2014 REVERB Workshop*, Florence, Italy, May 2014.
 69. Toon van Waterschoot, Bruno Defraene, Moritz Diehl, and Marc
 Moonen, **Embedded optimization algorithms for multi-microphone dereverberation**,
 in *Proc. 21st European Signal Process. Conf. (EUSIPCO '13)*,
-Marrakech, Morocco, Sep. 2013 (invited paper).
+Marrakech, Morocco, Sep. 2013 (invited paper).  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744761.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/13-122.pdf){:target="_blank"}\]
 
 70. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
 Moonen, **Embedded-optimization-based loudspeaker compensation using
 a generic Hammerstein loudspeaker model**,
 in *Proc. 21st European Signal Process. Conf. (EUSIPCO '13)*,
-Marrakech, Morocco, Sep. 2013.
+Marrakech, Morocco, Sep. 2013.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
 71. **Toon van Waterschoot** and Marc Moonen, "[Distributed estimation
