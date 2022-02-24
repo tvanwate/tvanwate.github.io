@@ -16,18 +16,18 @@ Kuppens, **In search of state and trait emotion markers in
 mobile-sensed language: A field study**, *JMIR Mental Health*, vol. 9, no. 2, 22 p., 2022.  
 \[[Published](https://doi.org/10.2196/31724){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/635936){:target="_blank"}\]
 
-1. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
-**Distributed combined acoustic echo cancellation and noise reduction
-in wireless acoustic sensor and actuator networks**, *IEEE/ACM Trans.
-Audio Speech Language Process.*, vol. 30, pp. 534-547, 2021.  
-\[[Published](https://doi.org/10.1109/TASLP.2022.3140548){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/645613){:target="_blank"}\]
-
-3. Gert Dekkers, Fernando Rosas, Toon van Waterschoot, Bart
+2. Gert Dekkers, Fernando Rosas, Toon van Waterschoot, Bart
 Vanrumste, and Peter Karsmakers, **Dynamic sensor activation and
 decision-level fusion in wireless acoustic sensor networks for
 classification of domestic activities**, *Information Fusion*, vol.
 77, pp. 196-210, Jan. 2022.  
 \[[Published](https://doi.org/10.1016/j.inffus.2021.07.022){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/581890){:target="_blank"}\]
+
+3. Santiago Ruiz, Toon van Waterschoot, and Marc Moonen,
+**Distributed combined acoustic echo cancellation and noise reduction
+in wireless acoustic sensor and actuator networks**, *IEEE/ACM Trans.
+Audio Speech Language Process.*, vol. 30, pp. 534-547, 2021.  
+\[[Published](https://doi.org/10.1109/TASLP.2022.3140548){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/645613){:target="_blank"}\]
 
 4. Brian Fitzpatrick, Enzo De Sena, and Toon van Waterschoot, **On
 the convergence of the multipole expansion method**, *SIAM J. Numer.
