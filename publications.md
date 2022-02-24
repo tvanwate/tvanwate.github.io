@@ -846,53 +846,52 @@ in *Proc. 2014 Int. Workshop Acoustic Signal Enhancement (IWAENC
 '14)*, Antibes, France, Sept. 2014, pp. 51-55.  
 \[[Published](https://doi.org/10.1109/IWAENC.2014.6953336){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/14-190.pdf){:target="_blank"}\]
 
-64. Niccoló Antonello, **Toon van Waterschoot**, Marc Moonen, and
-Patrick A. Naylor, "[Source localization and signal reconstruction
-in a reverberant field using the FDTD
-method](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-38.html),"
+64. Niccoló Antonello, Toon van Waterschoot, Marc Moonen, and
+Patrick A. Naylor, **Source localization and signal reconstruction
+in a reverberant field using the FDTD method**,
 in *Proc. 22nd European Signal Process. Conf. (EUSIPCO '14)*,
-Lisbon, Portugal, Sept. 2014.
+Lisbon, Portugal, Sept. 2014.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2014/HTML/papers/1569922233.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//nantonel/14-38.pdf){:target="_blank"}\]
 
-65. Giacomo Vairetti, **Toon van Waterschoot**, Marc Moonen, Michael
-Catrysse, and Søren Holdt Jensen, "[Sparse linear parametric
-modeling of room acoustics with orthonormal basis
-functions](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-37.html),"
+65. Giacomo Vairetti, Toon van Waterschoot, Marc Moonen, Michael
+Catrysse, and Søren Holdt Jensen, **Sparse linear parametric
+modeling of room acoustics with orthonormal basis functions**,
 in *Proc. 22nd European Signal Process. Conf. (EUSIPCO '14)*,
 Lisbon, Portugal, Sept. 2014 **(nominated for best student paper
-award)**.
+award)**.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2014/HTML/papers/1569921729.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//gvairett/14-37.pdf){:target="_blank"}\]
 
-66. Neofytos Kaplanis, Søren Bech, Søren Holdt Jensen, and **Toon van
-Waterschoot**, "[Perception of reverberation in small rooms: a
-literature
-study](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/13-238.html),"
+66. Neofytos Kaplanis, Søren Bech, Søren Holdt Jensen, and Toon van
+Waterschoot, **Perception of reverberation in small rooms: a literature
+study**,
 in *Proc. AES 55th Int. Conf. Spatial Audio*, Helsinki, Finland,
-Aug. 2014
+Aug. 2014.  
+\[[Published](http://www.aes.org/e-lib/browse.cfm?elib=17348){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-238.pdf){:target="_blank"}\]
 
-67. Ante Jukić, **Toon van Waterschoot**, Timo Gerkmann, and Simon
-Doclo, "[Speech dereverberation with multi-channel linear prediction
-and sparse priors for the desired
-signal](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-45.html),"
+67. Ante Jukić, Toon van Waterschoot, Timo Gerkmann, and Simon
+Doclo, **Speech dereverberation with multi-channel linear prediction
+and sparse priors for the desired signal**,
 in *Proc. 4th Joint Workshop Hands-Free Speech Commun. Microphone
-Arrays (HSCMA '14)*, Nancy, France, May 2014, pp. 23-26.
+Arrays (HSCMA '14)*, Nancy, France, May 2014, pp. 23-26.  
+\[[Published](https://doi.org/10.1109/HSCMA.2014.6843244){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/14-45.pdf){:target="_blank"}\]
 
-68. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and **Toon
-van Waterschoot**, "[Single-channel reverberant speech recognition
-using C50
-estimation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/14-44.html),"
-in *Proc. 2014 REVERB Workshop*, Florence, Italy, May 2014.
+68. Pablo Peso Parada, Dushyant Sharma, Patrick A. Naylor, and Toon
+van Waterschoot, **Single-channel reverberant speech recognition using C50 estimation**,
+in *Proc. 2014 REVERB Workshop*, Florence, Italy, May 2014.  
+\[[Published](http://reverb2014.dereverberation.com/workshop/reverb2014-papers/1569896895.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/14-44.pdf){:target="_blank"}\]
 
-69. **Toon van Waterschoot**, Bruno Defraene, Moritz Diehl, and Marc
-Moonen, "[Embedded optimization algorithms for multi-microphone
-dereverberation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/13-122.html),"
+69. Toon van Waterschoot, Bruno Defraene, Moritz Diehl, and Marc
+Moonen, **Embedded optimization algorithms for multi-microphone dereverberation**,
 in *Proc. 21st European Signal Process. Conf. (EUSIPCO '13)*,
 Marrakech, Morocco, Sep. 2013 (invited paper).
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744761.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/reports/13-122.pdf){:target="_blank"}\]
 
-70. Bruno Defraene, **Toon van Waterschoot**, Moritz Diehl, and Marc
-Moonen, "[Embedded-optimization-based loudspeaker compensation using
-a generic Hammerstein loudspeaker
-model](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/13-43.html),"
+70. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
+Moonen, **Embedded-optimization-based loudspeaker compensation using
+a generic Hammerstein loudspeaker model**,
 in *Proc. 21st European Signal Process. Conf. (EUSIPCO '13)*,
 Marrakech, Morocco, Sep. 2013.
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
 71. **Toon van Waterschoot** and Marc Moonen, "[Distributed estimation
 and equalization of room acoustics in a wireless acoustic sensor
