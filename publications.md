@@ -893,267 +893,268 @@ in *Proc. 21st European Signal Process. Conf. (EUSIPCO '13)*,
 Marrakech, Morocco, Sep. 2013.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-71. **Toon van Waterschoot** and Marc Moonen, "[Distributed estimation
-and equalization of room acoustics in a wireless acoustic sensor
-network](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-117.html),"
+71. Toon van Waterschoot and Marc Moonen, **Distributed estimation
+and equalization of room acoustics in a wireless acoustic sensor network**,
 in *Proc. 20th European Signal Process. Conf. (EUSIPCO '12)*,
-Bucharest, Romania, Aug. 2012, pp. pp. 2709-2713 (invited paper).
+Bucharest, Romania, Aug. 2012, pp. pp. 2709-2713 (invited paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-72. Jose Manuel Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and
-Søren Holdt Jensen, "[Transform domain prediction error method for
-improved acoustic echo and feedback
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-112.html),"
+72. Jose Manuel Gil-Cacho, Toon van Waterschoot, Marc Moonen, and
+Søren Holdt Jensen, **Transform domain prediction error method for
+improved acoustic echo and feedback cancellation**,
 *Proc. 20th European Signal Process. Conf. (EUSIPCO '12)*,
-Bucharest, Romania, Aug. 2012, pp. 2422-2426.
+Bucharest, Romania, Aug. 2012, pp. 2422-2426.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-73. Bruno Defraene, **Toon van Waterschoot**, Moritz Diehl, and Marc
-Moonen, "[Perception-based nonlinear loudspeaker compensation
-through embedded convex
-optimization](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-75.html),"
+73. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
+Moonen, **Perception-based nonlinear loudspeaker compensation
+through embedded convex optimization**,
 in *Proc. 20th European Signal Process. Conf. (EUSIPCO '12)*,
-Bucharest, Romania, Aug. 2012, pp. 2472-2476.
+Bucharest, Romania, Aug. 2012, pp. 2472-2476.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
 74. Roberto Llorente, Maria Morant, Jonathan Duplicy, Bernard Uguen, Jac
 Romme, Jerome Hauden, Adolfo Cartaxo, José Puche, Amir Krause,
-**Toon van Waterschoot**, Yves Lostanlen, and Rafael Bañales,
-"[Real-time ultra-wideband spectrum management in critical civil
-infrastructures: UCELLS
-project](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/12-116.html),"
+Toon van Waterschoot, Yves Lostanlen, and Rafael Bañales,
+**Real-time ultra-wideband spectrum management in critical civil
+infrastructures: UCELLS project**,
 in *Proc. Future Network & Mobile Summit 2012*, Berlin, Germany,
-Jul. 2012.
+Jul. 2012.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-75. **Toon van Waterschoot**, Moritz Diehl, Marc Moonen, and Geert Leus,
-"[Identification of black-box wave propagation models using
-large-scale convex
-optimization](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-209.html),"
+75. Toon van Waterschoot, Moritz Diehl, Marc Moonen, and Geert Leus,
+**Identification of black-box wave propagation models using large-scale convex
+optimization**,
 in *Preprints 16th IFAC Symp. System Identification (SYSID '12)*,
-Brussels, Belgium, Jul. 2012, pp. 338-343 (invited paper).
+Brussels, Belgium, Jul. 2012, pp. 338-343 (invited paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-76. **Toon van Waterschoot** and Geert Leus, "[Distributed estimation of
-static fields in wireless sensor networks using the finite element
-method](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-173.html),"
+76. Toon van Waterschoot and Geert Leus, **Distributed estimation of
+static fields in wireless sensor networks using the finite element method**,
 in *Proc. 2012 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '12)*, Kyoto, Japan, Mar. 2012, pp. 2853-2856.
+(ICASSP '12)*, Kyoto, Japan, Mar. 2012, pp. 2853-2856.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-77. Bruno Defraene, Kim Ngo, **Toon van Waterschoot**, Moritz Diehl, and
-Marc Moonen, "[A psychoacoustically motivated speech distortion
-weighted multi-channel Wiener filter for noise
-reduction](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-172.html),"
+77. Bruno Defraene, Kim Ngo, Toon van Waterschoot, Moritz Diehl, and
+Marc Moonen, **A psychoacoustically motivated speech distortion weighted 
+multi-channel Wiener filter for noise reduction**,
 in *Proc. 2012 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '12)*, Kyoto, Japan, Mar. 2012, pp. 4637-4640.
+(ICASSP '12)*, Kyoto, Japan, Mar. 2012, pp. 4637-4640.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-78. Jose Manuel Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and
-Søren Holdt Jensen, "[Nonlinear acoustic echo cancellation based on
-a parallel-cascade kernel affine projection
-algorithm](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-176.html),"
+78. Jose Manuel Gil-Cacho, Toon van Waterschoot, Marc Moonen, and
+Søren Holdt Jensen, **Nonlinear acoustic echo cancellation based on
+a parallel-cascade kernel affine projection algorithm**,
 in *Proc. 2012 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '12)*, Kyoto, Japan, Mar. 2012, pp. 33-36.
+(ICASSP '12)*, Kyoto, Japan, Mar. 2012, pp. 33-36.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-79. **Toon van Waterschoot** and Geert Leus, "[Static field estimation
-using a wireless sensor network based on the finite element
-method](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-150.html),"
+79. Toon van Waterschoot and Geert Leus, **Static field estimation
+using a wireless sensor network based on the finite element method**,
 in *Proc. Int. Workshop Comput. Adv. Multi-Sensor Adaptive Process.
-(CAMSAP '11)*, San Juan, PR, USA, Dec. 2011, pp. 369-372.
+(CAMSAP '11)*, San Juan, PR, USA, Dec. 2011, pp. 369-372.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-80. Hadi Jamali Rad, **Toon van Waterschoot**, and Geert Leus,
-"[Cooperative localization using efficient Kalman filtering for
-mobile wireless sensor
-networks](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-149.html),"
+80. Hadi Jamali Rad, Toon van Waterschoot, and Geert Leus,
+**Cooperative localization using efficient Kalman filtering for
+mobile wireless sensor networks**,
 in *Proc. 19th European Signal Process. Conf. (EUSIPCO '11)*,
-Barcelona, Spain, Aug. 2011, pp. 1984-1988.
+Barcelona, Spain, Aug. 2011, pp. 1984-1988.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-81. Hadi Jamali Rad, **Toon van Waterschoot**, and Geert Leus,
-"[Anchorless cooperative localization for mobile wireless sensor
-networks](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/11-148.html),"
+81. Hadi Jamali Rad, Toon van Waterschoot, and Geert Leus,
+**Anchorless cooperative localization for mobile wireless sensor networks**,
 in *Proc. 2011 WIC/IEEE SP Symp. Inf. Theory Signal Process. Benelux
-(WICSP '11)*, Brussels, Belgium, May 2011, pp. 9-16.
+(WICSP '11)*, Brussels, Belgium, May 2011, pp. 9-16.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-82. Bruno Defraene, **Toon van Waterschoot**, Moritz Diehl, and Marc
-Moonen, "[A fast projected gradient optimization method for
-real-time perception-based clipping of audio
-signals](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-244.html),"
+82. Bruno Defraene, Toon van Waterschoot, Moritz Diehl, and Marc
+Moonen, **A fast projected gradient optimization method for
+real-time perception-based clipping of audio signals**,
 in *Proc. 2011 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '11)*, Prague, Czech Republic, May 2011, pp. 333-336.
+(ICASSP '11)*, Prague, Czech Republic, May 2011, pp. 333-336.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-83. Pepe Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and Søren
-Holdt Jensen, "[Estimation of acoustic resonances for room transfer
-function
-equalization](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-127.html),"
+83. Pepe Gil-Cacho, Toon van Waterschoot, Marc Moonen, and Søren
+Holdt Jensen, **Estimation of acoustic resonances for room transfer
+function equalization**,
 in *Proc. 2010 Int. Workshop Acoustic Echo Noise Control (IWAENC
-'10)*, Tel Aviv, Israel, Sep. 2010.
+'10)*, Tel Aviv, Israel, Sep. 2010.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-84. Pepe Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and Søren
-Holdt Jensen, "[Multi-microphone acoustic echo cancellation using
-multi-channel warped linear prediction of common acoustical
-poles](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-67.html),"
+84. Pepe Gil-Cacho, Toon van Waterschoot, Marc Moonen, and Søren
+Holdt Jensen, **Multi-microphone acoustic echo cancellation using
+multi-channel warped linear prediction of common acoustical poles**,
 in *Proc. 18th European Signal Process. Conf. (EUSIPCO '10)*,
-Aalborg, Denmark, Aug. 2010, pp. 2121-2125 (invited paper).
+Aalborg, Denmark, Aug. 2010, pp. 2121-2125 (invited paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-85. Daniele Giacobello, **Toon van Waterschoot**, Mads Græsbøll
-Christensen, Søren Holdt Jensen, and Marc Moonen, "[High-order
-sparse linear predictors for audio
-processing](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-66.html),"
+85. Daniele Giacobello, Toon van Waterschoot, Mads Græsbøll
+Christensen, Søren Holdt Jensen, and Marc Moonen, **High-order
+sparse linear predictors for audio processing**,
 in *Proc. 18th European Signal Process. Conf. (EUSIPCO '10)*,
-Aalborg, Denmark, Aug. 2010, pp. 234-238.
+Aalborg, Denmark, Aug. 2010, pp. 234-238.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-86. Kristiaan Pelckmans, **Toon van Waterschoot**, and Johan Suykens,
-"[Efficient adaptive filtering for smooth linear FIR
-models](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-60.html),"
+86. Kristiaan Pelckmans, Toon van Waterschoot, and Johan Suykens,
+**Efficient adaptive filtering for smooth linear FIR models**,
 in *Proc. 18th European Signal Process. Conf. (EUSIPCO '10)*,
-Aalborg, Denmark, Aug. 2010, pp. 2136-2140 (invited paper).
+Aalborg, Denmark, Aug. 2010, pp. 2136-2140 (invited paper).  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-87. Bruno Defraene, **Toon van Waterschoot**, Hans Joachim Ferreau,
-Moritz Diehl, and Marc Moonen, "[Perception-based clipping of audio
-signals](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-58.html),"
+87. Bruno Defraene, Toon van Waterschoot, Hans Joachim Ferreau,
+Moritz Diehl, and Marc Moonen, **Perception-based clipping of audio signals**,
 in *Proc. 18th European Signal Process. Conf. (EUSIPCO '10)*,
-Aalborg, Denmark, Aug. 2010, pp. 517-521.
+Aalborg, Denmark, Aug. 2010, pp. 517-521.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-88. Kim Ngo, **Toon van Waterschoot**, Mads Græsbøll Christensen, Marc
+88. Kim Ngo, Toon van Waterschoot, Mads Græsbøll Christensen, Marc
 Moonen, Søren Holdt Jensen, and Jan Wouters,
-"[Prediction-error-method-based adaptive feedback cancellation in
-hearing aids using pitch
-estimation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/10-57.html),"
+**Prediction-error-method-based adaptive feedback cancellation in
+hearing aids using pitch estimation**,
 in *Proc. 18th European Signal Process. Conf. (EUSIPCO '10)*,
-Aalborg, Denmark, Aug. 2010, pp. 40-44.
+Aalborg, Denmark, Aug. 2010, pp. 40-44.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-89. Roberto Llorente, Maria Morant, Jonathan Duplicy, **Toon van
-Waterschoot**, Vincent Le Nir, Marc Moonen, José Puche, and Jac
-Romme, "[Sensing and fingerprinting of ultra-wide band radio in
-UCELLS
-project](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-252.html),"
+89. Roberto Llorente, Maria Morant, Jonathan Duplicy, Toon van
+Waterschoot, Vincent Le Nir, Marc Moonen, José Puche, and Jac
+Romme, **Sensing and fingerprinting of ultra-wide band radio in
+UCELLS project**,
 in *Proc. Future Network & Mobile Summit 2010*, Florence, Italy,
-Jun. 2010.
+Jun. 2010.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-90. Kim Ngo, **Toon van Waterschoot**, Mads Græsbøll Christensen, Marc
-Moonen, Søren Holdt Jensen, and Jan Wouters, "[Adaptive feedback
-cancellation in hearing aids using a sinusoidal near-end signal
-model](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-185.html),"
+90. Kim Ngo, Toon van Waterschoot, Mads Græsbøll Christensen, Marc
+Moonen, Søren Holdt Jensen, and Jan Wouters, **Adaptive feedback
+cancellation in hearing aids using a sinusoidal near-end signal model**,
 in *Proc. 2010 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '10)*, Dallas, TX, USA, Mar. 2010, pp. 181-184.
+(ICASSP '10)*, Dallas, TX, USA, Mar. 2010, pp. 181-184.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-91. Pepe Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and Søren
-Holdt Jensen, "[Study and characterization of odd and even
+91. Pepe Gil-Cacho, Toon van Waterschoot, Marc Moonen, and Søren
+Holdt Jensen, **Study and characterization of odd and even
 nonlinearities in electrodynamic loudspeakers by means of periodic
-random-phase
-multisines](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-218.html),"
+random-phase multisines**,
 in *Preprints AES 127th Conv.*, New York, NY, USA, Oct. 2009, AES
-Preprint 7841.
+Preprint 7841.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-92. **Toon van Waterschoot** and Marc Moonen, "[Assessing the acoustic
+92. Toon van Waterschoot and Marc Moonen, **Assessing the acoustic
 feedback control performance of adaptive feedback cancellation in
-sound reinforcement
-systems](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-01.html),"
+sound reinforcement systems**,
 in *Proc. 17th European Signal Process. Conf. (EUSIPCO '09)*,
-Glasgow, Scotland, UK, Aug. 2009, pp. 1997-2001.
+Glasgow, Scotland, UK, Aug. 2009, pp. 1997-2001.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-93. Pepe Gil-Cacho, **Toon van Waterschoot**, Marc Moonen, and Søren
-Holdt Jensen, "[Regularized adaptive notch filters for acoustic
-howling
-suppression](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-43.html),"
+93. Pepe Gil-Cacho, Toon van Waterschoot, Marc Moonen, and Søren
+Holdt Jensen, **Regularized adaptive notch filters for acoustic
+howling suppression**,
 in *Proc. 17th European Signal Process. Conf. (EUSIPCO '09)*,
-Glasgow, Scotland, UK, Aug. 2009, pp. 2574-2578.
+Glasgow, Scotland, UK, Aug. 2009, pp. 2574-2578.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-94. Vincent Le Nir, **Toon van Waterschoot**, Marc Moonen, and Jonathan
-Duplicy, "[Spectral monitoring and parameter estimation for ZP-OFDM
-signals](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/09-41.html),"
+94. Vincent Le Nir, Toon van Waterschoot, Marc Moonen, and Jonathan
+Duplicy, **Spectral monitoring and parameter estimation for ZP-OFDM signals**,
 in *Proc. 17th European Signal Process. Conf. (EUSIPCO '09)*,
-Glasgow, Scotland, UK, Aug. 2009, pp. 1898-1902.
+Glasgow, Scotland, UK, Aug. 2009, pp. 1898-1902.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-95. **Toon van Waterschoot** and Marc Moonen, "[Comparative evaluation
-of howling detection criteria in notch-filter-based howling
-suppression](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/08-216.html),"
+95. Toon van Waterschoot and Marc Moonen, **Comparative evaluation
+of howling detection criteria in notch-filter-based howling suppression**,
 in *Preprints AES 126th Conv.*, Munich, Germany, May 2009, AES
-Preprint 7752.
+Preprint 7752.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-96. **Toon van Waterschoot** and Marc Moonen, "[Constrained pole-zero
+96. Toon van Waterschoot and Marc Moonen, **Constrained pole-zero
 linear prediction: an efficient and near-optimal method for
-multi-tone frequency
-estimation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/08-11.html),"
+multi-tone frequency estimation**,
 in *Proc. 16th European Signal Process. Conf. (EUSIPCO '08)*,
-Lausanne, Switzerland, Aug. 2008.
+Lausanne, Switzerland, Aug. 2008.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-97. Ludovico Ausiello, **Toon van Waterschoot**, and Marc Moonen, "[A
+97. Ludovico Ausiello, Toon van Waterschoot, and Marc Moonen, **A
 first-order frequency-warped sigma delta modulator with improved
-signal-to-noise
-ratio](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/08-10.html),"
+signal-to-noise ratio**,
 in *Proc. 16th European Signal Process. Conf. (EUSIPCO '08)*,
-Lausanne, Switzerland, Aug. 2008.
+Lausanne, Switzerland, Aug. 2008.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-98. **Toon van Waterschoot** and Marc Moonen, "[Adaptive feedback
+98. Toon van Waterschoot and Marc Moonen, **Adaptive feedback
 cancellation for audio signals using a warped all-pole near-end
-signal
-model](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/07-177.html),"
+signal model**,
 in *Proc. 2008 IEEE Int. Conf. Acoust., Speech, Signal Process.
-(ICASSP '08)*, Las Vegas, NV, USA, Apr. 2008, pp. 269-272.
+(ICASSP '08)*, Las Vegas, NV, USA, Apr. 2008, pp. 269-272.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-99. **Toon van Waterschoot**, Geert Rombouts, and Marc Moonen, "[Dually
+99. Toon van Waterschoot, Geert Rombouts, and Marc Moonen, **Dually
 regularized recursive prediction error identification for acoustic
-feedback and echo
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/07-49.html),"
+feedback and echo cancellation**,
 in *Proc. 15th European Signal Process. Conf. (EUSIPCO '07)*,
-Poznan, Poland, Sept. 2007, pp. 1610-1614.
+Poznan, Poland, Sept. 2007, pp. 1610-1614.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-100. **Toon van Waterschoot** and Marc Moonen, "[Linear prediction of
-audio
-signals](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/07-28.html),"
+100. Toon van Waterschoot and Marc Moonen, **Linear prediction of
+audio signals**,
 in *Proc. Interspeech 2007*, Antwerp, Belgium, Aug. 2007, pp.
-518-521.
+518-521.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-101. **Toon van Waterschoot**, Geert Rombouts, and Marc Moonen, "[MSE
-optimal regularization of APA and NLMS algorithms in room acoustic
-applications](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/06-117.html),"
+101. Toon van Waterschoot, Geert Rombouts, and Marc Moonen, **MSE
+optimal regularization of APA and NLMS algorithms in room acoustic applications**,
 in *Proc. 2006 Int. Workshop Acoustic Echo Noise Control (IWAENC
-'06)*, Paris, France, Sept. 2006.
+'06)*, Paris, France, Sept. 2006.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-102. **Toon van Waterschoot**, Geert Rombouts, and Marc Moonen,
-"[Optimally regularized recursive least squares for acoustic echo
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-234.html),"
+102. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
+**Optimally regularized recursive least squares for acoustic echo cancellation**,
 in *Proc. 2nd Annual IEEE Benelux/DSP Valley Signal Process. Symp.
-(SPS-DARTS '06)*, Antwerp, Belgium, Mar. 2006, pp. 31-34.
+(SPS-DARTS '06)*, Antwerp, Belgium, Mar. 2006, pp. 31-34.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-103. Geert Rombouts, **Toon van Waterschoot**, and Marc Moonen,
-"[Proactive notch filtering for acoustic feedback
-cancellation](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/06-81.html),"
+103. Geert Rombouts, Toon van Waterschoot, and Marc Moonen,
+**Proactive notch filtering for acoustic feedback cancellation**,
 in *Proc. 2nd Annual IEEE Benelux/DSP Valley Signal Process. Symp.
-(SPS-DARTS '06)*, Antwerp, Belgium, Mar. 2006, pp. 169-172.
+(SPS-DARTS '06)*, Antwerp, Belgium, Mar. 2006, pp. 169-172.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-104. **Toon van Waterschoot**, Geert Rombouts, and Marc Moonen,
-"[Towards optimal regularization by incorporating prior knowledge in
-an acoustic echo
-canceller](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-117.html),"
+104. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
+**Towards optimal regularization by incorporating prior knowledge in
+an acoustic echo canceller**,
 in *Proc. 2005 Int. Workshop Acoustic Echo Noise Control (IWAENC
-'05)*, Eindhoven, The Netherlands, Sept. 2005, pp. 157-160.
+'05)*, Eindhoven, The Netherlands, Sept. 2005, pp. 157-160.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-105. Geert Rombouts, **Toon van Waterschoot**, Kris Struyve, Piet
-Verhoeve, and Marc Moonen, "[Identification of undermodelled room
-impulse
-responses](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-156.html),"
+105. Geert Rombouts, Toon van Waterschoot, Kris Struyve, Piet
+Verhoeve, and Marc Moonen, **Identification of undermodelled room
+impulse responses**,
 in *Proc. 2005 Int. Workshop Acoustic Echo Noise Control (IWAENC
-'05)*, Eindhoven, The Netherlands, Sept. 2005, pp. 153-156.
+'05)*, Eindhoven, The Netherlands, Sept. 2005, pp. 153-156.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-106. **Toon van Waterschoot** and Marc Moonen, "[Double-talk robust
-acoustic echo cancellation with continuous near-end
-activity](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-13.html),"
+106. Toon van Waterschoot and Marc Moonen, **Double-talk robust
+acoustic echo cancellation with continuous near-end activity**,
 in *Proc. 13th European Signal Process. Conf. (EUSIPCO '05)*,
-Antalya, Turkey, Sept. 2005.
+Antalya, Turkey, Sept. 2005.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-107. Geert Rombouts, **Toon van Waterschoot**, Kris Struyve, and Marc
-Moonen, "[Acoustic feedback cancellation for long acoustic paths
-using a nonstationary source
-model](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-71.html),"
+107. Geert Rombouts, Toon van Waterschoot, Kris Struyve, and Marc
+Moonen, **Acoustic feedback cancellation for long acoustic paths
+using a nonstationary source model**,
 in *Proc. 13th European Signal Process. Conf. (EUSIPCO '05)*,
-Antalya, Turkey, Sept. 2005.
+Antalya, Turkey, Sept. 2005.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-108. **Toon van Waterschoot**, Geert Rombouts, Kris Struyve, and Marc
-Moonen, "[Acoustic echo cancellation in the presence of continuous
-double-talk](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/04-149.html),"
+108. Toon van Waterschoot, Geert Rombouts, Kris Struyve, and Marc
+Moonen, **Acoustic echo cancellation in the presence of continuous
+double-talk**,
 in *Proc. 1st Annual IEEE Benelux/DSP Valley Signal Process. Symp.
-(SPS-DARTS '05)*, Antwerp, Belgium, Apr. 2005, pp. 53-57.
+(SPS-DARTS '05)*, Antwerp, Belgium, Apr. 2005, pp. 53-57.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
-109. **Toon van Waterschoot**, Geert Rombouts, and Marc Moonen, "[On the
+109. Toon van Waterschoot, Geert Rombouts, and Marc Moonen, **On the
 performance of decorrelation by prefiltering for adaptive feedback
-cancellation in Public Address
-systems](ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/04-24.html),"
+cancellation in Public Address systems**,
 in *Proc. 4th IEEE Benelux Signal Process. Symp. (SPS '04)*,
-Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
+Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
 
