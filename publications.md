@@ -1139,26 +1139,26 @@ in *Proc. 2005 Int. Workshop Acoustic Echo Noise Control (IWAENC
 acoustic echo cancellation with continuous near-end activity**,
 in *Proc. 13th European Signal Process. Conf. (EUSIPCO '05)*,
 Antalya, Turkey, Sept. 2005.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2005/defevent/papers/cr1626.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-13.pdf){:target="_blank"}\]
 
 107. Geert Rombouts, Toon van Waterschoot, Kris Struyve, and Marc
 Moonen, **Acoustic feedback cancellation for long acoustic paths
 using a nonstationary source model**,
 in *Proc. 13th European Signal Process. Conf. (EUSIPCO '05)*,
 Antalya, Turkey, Sept. 2005.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2005/defevent/papers/cr1276.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-71.pdf){:target="_blank"}\]
 
 108. Toon van Waterschoot, Geert Rombouts, Kris Struyve, and Marc
 Moonen, **Acoustic echo cancellation in the presence of continuous
 double-talk**,
 in *Proc. 1st Annual IEEE Benelux/DSP Valley Signal Process. Symp.
 (SPS-DARTS '05)*, Antwerp, Belgium, Apr. 2005, pp. 53-57.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/04-149.pdf){:target="_blank"}\]
 
 109. Toon van Waterschoot, Geert Rombouts, and Marc Moonen, **On the
 performance of decorrelation by prefiltering for adaptive feedback
 cancellation in Public Address systems**,
 in *Proc. 4th IEEE Benelux Signal Process. Symp. (SPS '04)*,
 Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/04-24.pdf){:target="_blank"}\]
 
