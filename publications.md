@@ -1164,5 +1164,10 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 ## PhD Theses
 
 1. Gert Dekkers, **Audio classification with resource-constrained wireless sensor networks**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Leuven, Belgium, Jan. 2021.  
-*Supervisor: Peter Karsmakers, Co-supervisors: Bart Vanrumste, Toon van Waterschoot  
-\[[Published](https://doi.org/10.1016/j.inffus.2021.07.022){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/581890){:target="_blank"}\]
+*Supervisor: Peter Karsmakers, Co-supervisors: Bart Vanrumste, Toon van Waterschoot*
+\[[Published](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\]
+
+1. Gert Dekkers, **Audio classification with resource-constrained wireless sensor networks**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Leuven, Belgium, Jan. 2021.  
+*Supervisor: Peter Karsmakers, Co-supervisors: Bart Vanrumste, Toon van Waterschoot*
+\[[Published](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\]
+
