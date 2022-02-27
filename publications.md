@@ -1105,34 +1105,35 @@ in *Proc. 2006 Int. Workshop Acoustic Echo Noise Control (IWAENC
 '06)*, Paris, France, Sept. 2006.  
 *Note: there is a typesetting error in the legends of Figs. 2 and 3 of the paper:*
 * *Fig. 2: RP-NLMS should be LMR-NLMS*
-* *Fig. 3: RP-PEM-AFROW should be LMR-NLMS*<br>
+* *Fig. 3: RP-PEM-AFROW should be LMR-NLMS*
+
 \[[Published](https://www.iwaenc.org/proceedings/2006/pdf/A43.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-117.pdf){:target="_blank"}\]
 
 102. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
 **Optimally regularized recursive least squares for acoustic echo cancellation**,
 in *Proc. 2nd Annual IEEE Benelux/DSP Valley Signal Process. Symp.
 (SPS-DARTS '06)*, Antwerp, Belgium, Mar. 2006, pp. 31-34.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Archived](ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-234.pdf){:target="_blank"}\]
 
 103. Geert Rombouts, Toon van Waterschoot, and Marc Moonen,
 **Proactive notch filtering for acoustic feedback cancellation**,
 in *Proc. 2nd Annual IEEE Benelux/DSP Valley Signal Process. Symp.
 (SPS-DARTS '06)*, Antwerp, Belgium, Mar. 2006, pp. 169-172.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-81.pdf){:target="_blank"}\]
 
 104. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
 **Towards optimal regularization by incorporating prior knowledge in
 an acoustic echo canceller**,
 in *Proc. 2005 Int. Workshop Acoustic Echo Noise Control (IWAENC
 '05)*, Eindhoven, The Netherlands, Sept. 2005, pp. 157-160.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Published](https://www.iwaenc.org/proceedings/2005/papers/S03-08.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-117.pdf){:target="_blank"}\]
 
 105. Geert Rombouts, Toon van Waterschoot, Kris Struyve, Piet
 Verhoeve, and Marc Moonen, **Identification of undermodelled room
 impulse responses**,
 in *Proc. 2005 Int. Workshop Acoustic Echo Noise Control (IWAENC
 '05)*, Eindhoven, The Netherlands, Sept. 2005, pp. 153-156.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/13-239.pdf){:target="_blank"}\]
+\[[Published](https://www.iwaenc.org/proceedings/2005/papers/S03-07.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-156.pdf){:target="_blank"}\]
 
 106. Toon van Waterschoot and Marc Moonen, **Double-talk robust
 acoustic echo cancellation with continuous near-end activity**,
