@@ -1104,10 +1104,8 @@ optimal regularization of APA and NLMS algorithms in room acoustic applications*
 in *Proc. 2006 Int. Workshop Acoustic Echo Noise Control (IWAENC
 '06)*, Paris, France, Sept. 2006.  
 *Note: there is a typesetting error in the legends of Figs. 2 and 3 of the paper:*
-<ul>
-  <li>*Fig. 2: RP-NLMS should be LMR-NLMS*</li>
-  <li>*Fig. 3: RP-PEM-AFROW should be LMR-NLMS*</li>
-</ul>  
+a. *Fig. 2: RP-NLMS should be LMR-NLMS*
+b. *Fig. 3: RP-PEM-AFROW should be LMR-NLMS*  
 \[[Published](https://www.iwaenc.org/proceedings/2006/pdf/A43.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-117.pdf){:target="_blank"}\]
 
 102. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
@@ -1163,3 +1161,17 @@ in *Proc. 4th IEEE Benelux Signal Process. Symp. (SPS '04)*,
 Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569744261.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/04-24.pdf){:target="_blank"}\]
 
+## PhD Theses
+
+1. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
+Peter Vanbrabant, Luc Geurts, Toon van Waterschoot, and Peter
+Kuppens, **In search of state and trait emotion markers in
+mobile-sensed language: A field study**, *JMIR Mental Health*, vol. 9, no. 2, 22 p., 2022.  
+\[[Published](https://doi.org/10.2196/31724){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/635936){:target="_blank"}\]
+
+2. Gert Dekkers, Fernando Rosas, Toon van Waterschoot, Bart
+Vanrumste, and Peter Karsmakers, **Dynamic sensor activation and
+decision-level fusion in wireless acoustic sensor networks for
+classification of domestic activities**, *Information Fusion*, vol.
+77, pp. 196-210, Jan. 2022.  
+\[[Published](https://doi.org/10.1016/j.inffus.2021.07.022){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/581890){:target="_blank"}\]
