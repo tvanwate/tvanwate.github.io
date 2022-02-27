@@ -1164,59 +1164,59 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 ## PhD Theses
 
 1. Gert Dekkers, **Audio classification with resource-constrained wireless sensor networks**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Jan. 2021.  
-*Supervisor: Peter Karsmakers, Co-supervisors: Bart Vanrumste, Toon van Waterschoot*
+*Supervisor: Peter Karsmakers, Co-supervisors: Bart Vanrumste, Toon van Waterschoot*  
 \[[Published](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\]
 
 2. Randall Ali, **Multi-microphone speech enhancement: an integration of a priori and data-dependent spatial information**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Nov. 2020.  
-*Supervisor: Marc Moonen, Co-supervisor: Toon van Waterschoot*
+*Supervisor: Marc Moonen, Co-supervisor: Toon van Waterschoot*  
 \[[Published](https://lirias.kuleuven.be/retrieve/591059){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/591059){:target="_blank"}\]
 
 3. Mina Mounir, **Acoustic event detection: feature, evaluation and dataset design**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Aug. 2020.  
-*Supervisor: Toon van Waterschoot, Co-supervisor: Peter Karsmakers*
+*Supervisor: Toon van Waterschoot, Co-supervisor: Peter Karsmakers*  
 \[[Published](https://lirias.kuleuven.be/retrieve/583999){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/583999){:target="_blank"}\]
 
 4. Bisrat Derebssa Dufera, **Acoustic event detection: feature, evaluation and dataset design**, Ph.D. thesis, School of Electrical and Computer Engineering, Addis Ababa University, Ethiopia, Jun. 2020.  
-*Supervisors: Toon van Waterschoot, Koen Eneman, Eneyew Adugna*
+*Supervisors: Toon van Waterschoot, Koen Eneman, Eneyew Adugna*  
 \[[Published](http://213.55.95.56/bitstream/handle/123456789/22635/Bisrat%20Derebssa.pdf){:target="_blank"}\] \[[Archived](http://213.55.95.56/bitstream/handle/123456789/22635/Bisrat%20Derebssa.pdf){:target="_blank"}\]
 
 5. Thomas Dietzen, **Spatio-temporal speech enhancement in adverse acoustic conditions**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Oct. 2019.  
-*Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Simon Doclo*
+*Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Simon Doclo*  
 \[[Published](https://lirias.kuleuven.be/retrieve/547072){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/547072){:target="_blank"}\]
 
 6. Niccolò Antonello, **Solving inverse problems in room acoustics using physical models, sparse regularization and numerical optimization**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Aug. 2018.  
-*Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Patrick Naylor*
+*Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Patrick Naylor*  
 \[[Published](https://lirias.kuleuven.be/retrieve/514816){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/514816){:target="_blank"}\]
 
 7. Giacomo Vairetti, **Efficient parametric modeling, identification and equalization of room acoustics**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Jul. 2018.  
-*Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Søren Holdt Jensen*
+*Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Søren Holdt Jensen*  
 \[[Published](https://lirias.kuleuven.be/retrieve/512203){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/512203){:target="_blank"}\]
 
 8. Giuliano Bernardi, **Design and evaluation of feedback control algorithms for implantable hearing devices**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Feb. 2018.  
-*Supervisor: Marc Moonen, Co-supervisors: Jan Wouters, Toon van Waterschoot*
+*Supervisor: Marc Moonen, Co-supervisors: Jan Wouters, Toon van Waterschoot*  
 \[[Published](https://lirias.kuleuven.be/retrieve/492010){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/ida/reports/18-06.pdf){:target="_blank"}\]
 
 9. Ante Jukić, **Sparse multi-channel linear prediction for blind speech dereverberation**, Ph.D. thesis, Fakultät für Medizin und Gesundheitswissenschaften, Carl von Ossietzky Universität Oldenburg, Germany, Oct. 2017.  
-*Supervisor: Simon Doclo, Co-supervisor: Toon van Waterschoot*
+*Supervisor: Simon Doclo, Co-supervisor: Toon van Waterschoot*  
 \[[Published](https://uol.de/f/6/dept/mediphysik/ag/sigproc/download/papers/phd/Jukic_PhD_Thesis.pdf){:target="_blank"}\] \[[Archived](https://uol.de/f/6/dept/mediphysik/ag/sigproc/download/papers/phd/Jukic_PhD_Thesis.pdf){:target="_blank"}\]
 
 10. Neofytos Kaplanis, **Perception of reverberation in domestic and automotive environments**, Ph.D. thesis, Technical Faculty of IT and Design, Aalborg University, Denmark, Dec. 2016.  
-*Supervisor: Søren Bech, Co-supervisors: Toon van Waterschoot, Søren Holdt Jensen*
+*Supervisor: Søren Bech, Co-supervisors: Toon van Waterschoot, Søren Holdt Jensen*  
 \[[Published](https://vbn.aau.dk/ws/portalfiles/portal/316923079/PHD_Neofytos_Kaplanis_E_pdf.pdf){:target="_blank"}\] \[[Archived](https://vbn.aau.dk/ws/portalfiles/portal/316923079/PHD_Neofytos_Kaplanis_E_pdf.pdf){:target="_blank"}\]
 
 11. Pablo Peso Parada, **Spatial features of reverberant speech: estimation and application to recognition and diarization**, Ph.D. thesis, Department of Electrical and Electronic Engineering, Imperial College London, UK, Jan. 2016.  
-*Supervisor: Patrick Naylor, Co-supervisors: Dushyant Sharma, Toon van Waterschoot*
+*Supervisor: Patrick Naylor, Co-supervisors: Dushyant Sharma, Toon van Waterschoot*  
 \[[Published](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.712886){:target="_blank"}\] \[[Archived](https://theses.eurasip.org/theses/708/spatial-features-of-reverberant-speech-estimation/){:target="_blank"}\]
 
 12. Bruno Defraene, **Embedded optimization algorithms for perceptual enhancement of audio signals**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Dec. 2013.  
-*Supervisors: Marc Moonen, Moritz Diehl, Co-supervisor: Toon van Waterschoot*
+*Supervisors: Marc Moonen, Moritz Diehl, Co-supervisor: Toon van Waterschoot*  
 \[[Published](https://lirias.kuleuven.be/retrieve/249985){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/249985){:target="_blank"}\]
 
 13. Jose Manuel Gil-Cacho Lorenzo, **Adaptive filtering algorithms for acoustic echo cancellation and acoustic feedback control in speech communication applications**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Dec. 2013.  
-*Supervisor: Marc Moonen, Co-supervisors: Toon van Waterschoot, Søren Holdt Jensen*
+*Supervisor: Marc Moonen, Co-supervisors: Toon van Waterschoot, Søren Holdt Jensen*  
 \[[Published](https://lirias.kuleuven.be/retrieve/609161){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/609161){:target="_blank"}\]
 
 14. Toon van Waterschoot, **Design and evaluation of digital signal processing algorithms for acoustic feedback and echo cancellation**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Mar. 2009.  
-*Supervisor: Marc Moonen*
+*Supervisor: Marc Moonen*  
 \[[Published](https://lirias.kuleuven.be/retrieve/69349){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/69349){:target="_blank"}\]
 
 
