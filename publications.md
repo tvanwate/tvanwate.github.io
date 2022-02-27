@@ -1103,9 +1103,9 @@ in *Proc. Interspeech 2007*, Antwerp, Belgium, Aug. 2007, pp.
 optimal regularization of APA and NLMS algorithms in room acoustic applications**,
 in *Proc. 2006 Int. Workshop Acoustic Echo Noise Control (IWAENC
 '06)*, Paris, France, Sept. 2006.  
-*Note: there is a typesetting error in the legends of Figs. 2 and 3 of the paper:
-* Fig. 2: RP-NLMS should be LMR-NLMS
-* Fig. 3: RP-PEM-AFROW should be LMR-NLMS*  
+*Note: there is a typesetting error in the legends of Figs. 2 and 3 of the paper:*
+* *Fig. 2: RP-NLMS should be LMR-NLMS
+* *Fig. 3: RP-PEM-AFROW should be LMR-NLMS*  
 \[[Published](https://www.iwaenc.org/proceedings/2006/pdf/A43.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-117.pdf){:target="_blank"}\]
 
 102. Toon van Waterschoot, Geert Rombouts, and Marc Moonen,
