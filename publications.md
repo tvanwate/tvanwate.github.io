@@ -1175,7 +1175,7 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 *Supervisor: Toon van Waterschoot, Co-supervisor: Peter Karsmakers*  
 \[[Published](https://lirias.kuleuven.be/retrieve/583999){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/583999){:target="_blank"}\]
 
-4. Bisrat Derebssa Dufera, **Acoustic event detection: feature, evaluation and dataset design**, Ph.D. thesis, School of Electrical and Computer Engineering, Addis Ababa University, Ethiopia, Jun. 2020.  
+4. Bisrat Derebssa Dufera, **The use of high-order sparse linear prediction for the restoration of archived audio**, Ph.D. thesis, School of Electrical and Computer Engineering, Addis Ababa University, Ethiopia, Jun. 2020.  
 *Supervisors: Toon van Waterschoot, Koen Eneman, Eneyew Adugna*  
 \[[Published](http://213.55.95.56/bitstream/handle/123456789/22635/Bisrat%20Derebssa.pdf){:target="_blank"}\] \[[Archived](http://213.55.95.56/bitstream/handle/123456789/22635/Bisrat%20Derebssa.pdf){:target="_blank"}\]
 
