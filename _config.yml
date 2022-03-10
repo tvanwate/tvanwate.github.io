@@ -52,6 +52,12 @@ plugins:
 
 # Collections
 collections:
+  labs:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   team:
     output: true
     permalink: /:collection/:path/
@@ -61,6 +67,14 @@ collections:
 
 # Front Matter Defaults
 defaults:
+  # Labs defaults
+  - scope:
+      path: "_labs"
+      type: labs
+    values:
+      layout: post_without_date
+      comments: false
+      share: false
   # Post defaults
   - scope:
       path: "_posts"
@@ -69,6 +83,14 @@ defaults:
       layout: post
       comments: true
       share: true
+  # Projects defaults
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      comments: false
+      share: false
   # Team defaults
   - scope:
       path: "_team"
