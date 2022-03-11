@@ -31,8 +31,10 @@ To attain this paradigm shift in audio technology not only requires additional r
 * Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
 
 **People**:
-* [Randall Ali](/team/randall_ali) (Postdoc)
-* [Thomas Dietzen](/team/thomas_dietzen) (Postdoc)
-* [Martin Jälmby](/team/martin_jalmby) (PhD Student)
-* [Kathleen MacWilliam](/team/kathleen_macwilliam) (PhD Student)
-* [Toon van Waterschoot](/team/toon_vanwaterschoot) (Principal Investigator)
+* [Randall Ali](/team/randall_ali) (Scientific Coordinator)
+* [Matthias Blochberger](/team/matthias_blochberger) (PhD Student)
+* [Jesper Brunnström](/team/jesper_brunnstrom) (PhD Student)
+* [Bilgesu Çakmak](/team/bilgesu_cakmak) (PhD Student)
+* [Paul Didier](/team/paul_didier) (PhD Student)
+* [Aldona Niemiro-Sznajder](/team/aldona_niemiro) (Project Manager)
+* [Toon van Waterschoot](/team/toon_vanwaterschoot) (Scientific Coordinator)
