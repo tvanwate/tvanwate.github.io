@@ -23,8 +23,8 @@ The SONORA research results are anticipated to have a notable impact in various 
 **Partners:** KU Leuven
 
 **People**:
-* [Randall Ali](/_team/randall_ali) (Postdoc)
-* [Thomas Dietzen](/_team/thomas_dietzen) (Postdoc)
-* [Martin Jälmby](/_team/martin_jalmby) (PhD Student)
-* [Kathleen MacWilliam](/_team/kathleen_macwilliam) (PhD Student)
-* [Toon van Waterschoot](/_team/toon_vanwaterschoot) (Principal Investigator)
+* [Randall Ali](/team/randall_ali) (Postdoc)
+* [Thomas Dietzen](/team/thomas_dietzen) (Postdoc)
+* [Martin Jälmby](/team/martin_jalmby) (PhD Student)
+* [Kathleen MacWilliam](/team/kathleen_macwilliam) (PhD Student)
+* [Toon van Waterschoot](/team/toon_vanwaterschoot) (Principal Investigator)
