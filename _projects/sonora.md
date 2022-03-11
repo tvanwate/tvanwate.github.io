@@ -6,7 +6,7 @@ image:
   thumbnail: /images/sonora_600x400.png
 ---
 
-*The Spatial Dynamics of Room Acoustics*
+*<span style="font-size:14pt;">The Spatial Dynamics of Room Acoustics</span>*
 
 The SONORA project aims to increase the general understanding of how complex sound scenes are impacted by the spatial dynamics of room acoustics. This knowledge is crucial in the design of signal processing algorithms for audio acquisition and reproduction problems in real-life situations, where moving sound sources and observers interact with room acoustics in a complicated manner.  
 A major part of the project will be devoted to the development of novel room acoustics models and to the unification of existing models. The room acoustics models developed in this project will be data-driven models with a physically motivated structure, and are expected to fill the existing gap between geometric and wave-based models. This will be achieved by formulating existing and novel models in a dictionary- based mathematical framework and introducing a new concept coined as the equivalent boundary model, aimed at relaxing the prior knowledge required on the physical room boundary.  
