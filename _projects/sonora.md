@@ -2,11 +2,8 @@
 title: "SONORA"
 date: 2018-05-01
 image: 
-  path: /images/empty_banner.png
+  path: /images/sonora_1600x800.png
   thumbnail: /images/sonora_600x400.png
-author:
-  name: SONORA
-  picture: /images/sonora_600x400.png
 ---
 
 The Spatial Dynamics of Room Acoustics 
