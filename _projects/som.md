@@ -26,6 +26,7 @@ By uniting these objectives, the Sound of Music is a unique project that brings 
 **Partners:** 
 * KU Leuven
 * Alamire Foundation
+* McGill University
 
 **People**:
 * [Hannes Rosseel](/team/hannes_rosseel) (PhD Student)
