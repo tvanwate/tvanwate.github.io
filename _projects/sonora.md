@@ -2,7 +2,7 @@
 title: "SONORA"
 date: 2018-05-01
 image: 
-  path: /images/sonora_600x400.png
+  path: /images/empty_banner.png
   thumbnail: /images/sonora_600x400.png
 ---
 
