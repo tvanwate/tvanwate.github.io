@@ -2,7 +2,7 @@
 title: "SoM"
 date: 2020-01-01
 image: 
-  path: /images/som_1123x842.png
+  path: /images/som_1192x795.png
   thumbnail: /images/som_600x400.png
 ---
 
