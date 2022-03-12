@@ -2,8 +2,8 @@
 title: "HOLISTIC"
 date: 2021-10-01
 image: 
-  path: /images/holistic_4896x3264.jpeg
-  thumbnail: /images/holistic_600x400.jpeg
+  path: /images/holistic_4896x3264.jpg
+  thumbnail: /images/holistic_600x400.jpg
 ---
 
 *<span style="font-size:14pt;">A holistic approach to the design of integrated and distributed digital signal processing algorithms for audio and speech communication devices</span>*
