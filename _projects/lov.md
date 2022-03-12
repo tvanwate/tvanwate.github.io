@@ -2,8 +2,8 @@
 title: "LoV"
 date: 2018-05-02
 image: 
-  path: /images/lov_5472x3648.png
-  thumbnail: /images/lov_600x400.png
+  path: /images/lov_5472x3648.jpeg
+  thumbnail: /images/lov_600x400.jpeg
 ---
 
 *<span style="font-size:14pt;">The Library of Voices - Unlocking the Alamire Foundation’s Music Heritage Resources Collection through Visual and Sound Technology</span>*
