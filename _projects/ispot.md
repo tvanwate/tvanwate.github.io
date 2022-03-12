@@ -2,8 +2,8 @@
 title: "I-SPOT"
 date: 2020-10-01
 image: 
-  path: /images/ispot_5325x3550.png
-  thumbnail: /images/ispot_600x400.png
+  path: /images/ispot_5325x3550.jpg
+  thumbnail: /images/ispot_600x400.jpg
 ---
 
 *<span style="font-size:14pt;">Intelligent Ultra Low-Power Signal Processing for Automotive</span>*
