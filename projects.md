@@ -8,7 +8,6 @@ sort_by: date
 ---
 
 ## Finished projects
-* **DREAMS** was a Marie Curie project.
 * *User-centered Design of Deep Learning Application for Emotion Detection and Depression Prediction based on Smartphone Sensor Data* was a CSC PhD Fellowship held by **Duowei Tang**, supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/) and co-supervised by Luc Geurts and Peter Kuppens.
 * **SPOTT** (*Tomorrow's Scalable and PersOnalised advertising Technology, Today*) was a VLAIO Industrial R&D Project (2018-2020) supervised by Tinne Tuytelaers and [Toon van Waterschoot](team/toon_vanwaterschoot/) in collaboration with [Appiness](https://spott.ai).
 * **WLAAN** (*Distributed Digital Signal Processing for Ad-hoc Wireless Local Area Audio Networking*) was a KU Leuven Category 2 research project (2016-2020) supervised by Marc Moonen and co-supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/).
@@ -19,4 +18,5 @@ sort_by: date
 * **Ravenna** (*Proof-of-concept of a rationed architecture for vehicle entertainment and NVH next-generation acoustics*) was a VLAIO Industrial R&D Project (2015-2017) supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/) and co-supervised by Marc Moonen, in collaboration with [Premium Sound Solutions](https://www.premiumsoundsolutions.com).
 * *Blind Estimation of Room Acoustics for Binaural Sound Scene Synthesis* was a KU Leuven BOF+ Postdoctoral Research Fellowship (2015-2016) held by **Enzo De Sena**, supervised by Marc Moonen and co-supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/).
 * *Robust Cough Detection in Commercial Pig Producing Farms* was an IWT Baekeland Industrial PhD Fellowship (2014-2016) held by **Martijn Hemeryck**, supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/) and co-supervised by Daniel Berckmans and Wim Desmet, in collaboration with [SoundTalks](https://www.soundtalks.com).
+* **[DREAMS](https://www.dreams-itn.eu)** (*Dereverberation and Reverberation of Audio, Music, and Speech*) was an FP7-PEOPLE Marie Curie Initial Training Network (2013-2016) coordinated by [Toon van Waterschoot](team/toon_vanwaterschoot/) and [Aldona Niemiro-Sznajder](team/aldona_niemiro/), in collaboration with Aalborg University, University of Oldenburg, Imperial College London, Televic Conference, Oticon, Bang & Olufsen, Spinvox, CEDAR Audio, Nuance, and Fraunhofer IDMT.
 * *A Signal-Oriented Approach to Acoustic Signal Enhancement: Framework, Case Studies, and Evaluation* was an FWO Postdoctoral Research Fellowship (2011-2014) held by **[Toon van Waterschoot](team/toon_vanwaterschoot/)** and supervised by Marc Moonen.
