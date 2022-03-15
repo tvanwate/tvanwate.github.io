@@ -7,7 +7,11 @@ entries_layout: grid
 sort_by: date
 ---
 
-## Finished projects
+## Fellowships
+* *Interpolation, sampling, and uncertainty modeling for acoustic environments* is an FWO Postdoctoral Research Fellowship (2021-2024) held by **[Filip Elvander]team/filip_elvander/)** and supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/).
+* *Development of a multi-microphone approach for the assessment of quality of life in pig farms* is a VLAIO Baekeland PhD Fellowship (2019-2023) held by **[Bram Cuyx]team/bram_cuyx/)**, supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/) and co-supervised by Wim Buyens and Wim Desmet.
+
+## Finished projects & fellowships
 * *User-centered Design of Deep Learning Application for Emotion Detection and Depression Prediction based on Smartphone Sensor Data* was a CSC PhD Fellowship held by **Duowei Tang**, supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/) and co-supervised by Luc Geurts and Peter Kuppens.
 * **SPOTT** (*Tomorrow's Scalable and PersOnalised advertising Technology, Today*) was a VLAIO Industrial R&D Project (2018-2020) supervised by Tinne Tuytelaers and [Toon van Waterschoot](team/toon_vanwaterschoot/) in collaboration with [Appiness](https://spott.ai).
 * **WLAAN** (*Distributed Digital Signal Processing for Ad-hoc Wireless Local Area Audio Networking*) was a KU Leuven Category 2 research project (2016-2020) supervised by Marc Moonen and co-supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/).
