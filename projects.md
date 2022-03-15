@@ -8,7 +8,7 @@ sort_by: date
 ---
 
 ## Fellowships
-* *Interpolation, sampling, and uncertainty modeling for acoustic environments* is an FWO Postdoctoral Research Fellowship (2021-2024) held by **[Filip Elvander]team/filip_elvander/)** and supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/).
+* *Interpolation, sampling, and uncertainty modeling for acoustic environments* is an FWO Postdoctoral Research Fellowship (2021-2024) held by **[Filip Elvander](team/filip_elvander/)** and supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/).
 * *Development of a multi-microphone approach for the assessment of quality of life in pig farms* is a VLAIO Baekeland PhD Fellowship (2019-2023) held by **[Bram Cuyx](team/bram_cuyx/)**, supervised by [Toon van Waterschoot](team/toon_vanwaterschoot/) and co-supervised by [Wim Buyens](https://scholar.google.be/citations?user=UjW3yEIAAAAJ&hl=nl){:target="_blank"} and [Wim Desmet](https://www.mech.kuleuven.be/en/mod/people/00011973){:target="_blank"}.
 
 ## Finished projects & fellowships
