@@ -2,8 +2,8 @@
 title: "SONORA Audio Lab"
 date: 2018-05-01
 image: 
-  path: /images/sonora_5472x3648.jpeg
-  thumbnail: /images/sonora_600x400.jpeg
+  path: /images/sonoralab_4032x2688.jpeg
+  thumbnail: /images/sonoralab_600x400.jpeg
 ---
 
 The SONORA Audio Lab is an acoustic measurement and reproduction lab designed to perform experiments with moving sound sources and observers in reverberant conditions.
