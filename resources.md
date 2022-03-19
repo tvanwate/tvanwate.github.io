@@ -1,3 +1,11 @@
+---
+title: Resources
+layout: page
+permalink: /resources/
+show_excerpts: false
+entries_layout: list
+---
+
 <h2>Software</h2>
 	    The software offered on this webpage is subject to the <a target="blank" href="bsd_license.html">BSD license</a>, unless mentioned otherwise.<br /><br />
 	    If you use this software, or a modified version of it, for generating results that are published in a research paper, it would be highly appreciated if you include the appropriate <i>Key reference</i> (indicated with each of the software packages below) in your bibliography.
