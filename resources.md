@@ -6,42 +6,26 @@ show_excerpts: false
 entries_layout: list
 ---
 
-<h2>Software</h2>
-	    The software offered on this webpage is subject to the <a target="blank" href="bsd_license.html">BSD license</a>, unless mentioned otherwise.<br /><br />
-	    If you use this software, or a modified version of it, for generating results that are published in a research paper, it would be highly appreciated if you include the appropriate <i>Key reference</i> (indicated with each of the software packages below) in your bibliography.
-<br />
-<!---------------------------------------------------------------------------------------------------------------------------->
-<br />
-		    <table border="0" cellpadding = "0" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td align="left"><a name="software_3dfdtd"><h3 style="color: #333">3-D Finite Difference Time Domain (FDTD) Room Acoustics Simulator</h3></a>
-			  Julia package containing an implementation of the 3-D finite difference time domain (FDTD) method for simulating spatiotemporal sound fields in rectangular and L-shaped rooms.
-			  </td>
-			</tr>
-		    </table>
-		    <table border="0" cellpadding = "5" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Software:</td>
-			  <td>Julia package <a target="blank" href="https://github.com/nantonel/JuFdtd">[GitHub repository]</a></li>
-				</ul>
-			  </td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Key reference:</td>
-			  <td><i>not yet available</i></td>
-			</tr>
-			<!--<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Additional files:</td>
-			  <td>Sound samples and Matlab examples corresponding to the results published in the <i>Key reference</i> <a target="blank" href="http://desena.org/sweep/">[webpage]</a>.  
-			  </td>
-			</tr>-->
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">License:</td>
-			  <td>Copyright (c) 2015, Niccol&oacute; Antonello. All rights reserved. Published under <a target="blank" href="https://github.com/nantonel/JuFdtd/blob/master/LICENSE.md">MIT Expat License</a>.
-			  </td>
-			</tr>
-		    </table>
-<br />
+## Software
+
+*The software offered on this webpage is subject to the [BSD license](bsd_license.html){:target="_blank"}, unless mentioned otherwise.*  
+
+*If you use this software, or a modified version of it, for generating results that are published in a research paper, it would be highly appreciated if you include the appropriate _Key reference_ (indicated with each of the software packages below) in your bibliography.*
+
+### 3-D Finite Difference Time Domain (FDTD) Room Acoustics Simulator
+
+Julia package containing an implementation of the 3-D finite difference time domain (FDTD) method for simulating spatiotemporal sound fields in rectangular and L-shaped rooms.
+
+**Software:** Julia package \[[GitHub repository](https://github.com/nantonel/JuFdtd){:target="_blank"}\]
+
+**Key reference:** Niccoló Antonello, Toon van Waterschoot, Marc Moonen, and
+Patrick A. Naylor, **Identification of surface acoustic impedances
+in a reverberant room using the FDTD Method**,
+in *Proc. 2014 Int. Workshop Acoustic Signal Enhancement (IWAENC
+'14)*, Antibes, France, Sept. 2014, pp. 115-119.
+\[[Published](https://doi.org/10.1109/IWAENC.2014.6953349){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius//nantonel/14-84.pdf){:target="_blank"}\]
+
+**License:** Copyright (c) 2015, Niccol&oacute; Antonello. All rights reserved. Published under [MIT Expat License](https://github.com/nantonel/JuFdtd/blob/master/LICENSE.md){:target="_blank"}.
 <!---------------------------------------------------------------------------------------------------------------------------->
 <br />
 		    <table border="0" cellpadding = "0" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
