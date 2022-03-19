@@ -8,9 +8,9 @@ entries_layout: list
 
 ## Software
 
-The software offered on this webpage is subject to the [BSD license](bsd_license.md){:target="_blank"}, unless mentioned otherwise.*  
+The software offered on this webpage is subject to the [BSD license](bsd_license.md){:target="_blank"}, unless mentioned otherwise.
 
-If you use this software, or a modified version of it, for generating results that are published in a research paper, it would be highly appreciated if you include the appropriate *Key reference* (indicated with each of the software packages below) in your bibliography.*
+If you use this software, or a modified version of it, for generating results that are published in a research paper, it would be highly appreciated if you include the appropriate *Key reference* (indicated with each of the software packages below) in your bibliography.
 
 ### 3-D Finite Difference Time Domain (FDTD) Room Acoustics Simulator
 
@@ -45,7 +45,7 @@ Apr. 2015, pp. 774-786.
 **Additional files:** Sound samples and Matlab examples corresponding to the results published in the *Key reference* \[[webpage](href="http://desena.org/sweep/){:target="_blank"}\]
 
 **License:** Both implementations come with a different license:
-* MATLAB code: Copyright (c) 2015, Enzo De Sena. All rights reserved. Published under BSD license.</li>
+* MATLAB code: Copyright (c) 2015, Enzo De Sena. All rights reserved. Published under BSD license.
 * Julia package: Copyright (c) 2015, Niccol&oacute; Antonello. All rights reserved. Published under [MIT Expat License](https://github.com/nantonel/JuFdtd/blob/master/LICENSE.md){:target="_blank"}.
 
 ### Distributed Estimation of Cross-Correlation Functions
@@ -69,105 +69,41 @@ France, Sept. 2015, pp. 260-264 (invited paper).
 
 **License:** Copyright (c) 2015, Toon van Waterschoot. All rights reserved. Published under [BSD license](bsd_license.md){:target="_blank"}.
 
-<!---------------------------------------------------------------------------------------------------------------------------->
-<br />
-		    <table border="0" cellpadding = "0" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td align="left"><a name="software_pareq"><h3 style="color: #333">Biquadratic Parametric Equalizer Filter Design</h3></a>
-			  MATLAB package containing an implementation of a pole-zero placement technique for designing biquadratic (i.e., second-order IIR) parametric equalizer filters.
-			  </td>
-			</tr>
-		    </table>
-		    <table border="0" cellpadding = "5" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Software:</td>
-			  <td>MATLAB function <a target="blank" href="ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/downloads/software/06-177/pareq.m">[M (3 KB)]</a></td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Key reference:</td>
-			  <td>Toon van Waterschoot and Marc Moonen, "<a href="ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/06-177.html">A pole-zero placement technique for designing second-order IIR parametric equalizer filters</a>", <i>IEEE Trans. Audio, Speech, Lang. Process.</i>, vol. 15, no. 8, Nov. 2007, pp. 2561-2565.</td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Additional files:</td>
-			  <td>MATLAB script to reproduce the design examples in the <i>Key reference</i> <a target="blank" href="ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/downloads/software/06-177/pareq_designexamples.m">[M (5 KB)]</a>
-			  </td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">License:</td>
-			  <td>Copyright (c) 2006, Toon van Waterschoot. All rights reserved. Published under <a target="blank" href="bsd_license.html">BSD license</a>.</td>
-			</tr>
-		    </table>
-<br />
-<!---------------------------------------------------------------------------------------------------------------------------->
-<br />
-		    <table border="0" cellpadding = "0" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td align="left"><a name="software_robustaec"><h3 style="color: #333">Double-Talk Robust Acoustic Echo Cancellation</h3></a>
-			  MATLAB package containing an implementation of several prediction-error-method(PEM)-based adaptive filtering algorithms for double-talk robust acoustic echo cancellation.
-			  </td>
-			</tr>
-		    </table>
-		    <table border="0" cellpadding = "5" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Software:</td>
-			  <td>MATLAB functions <a target="blank" href="ftp://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/05-162/algorithms.tar.gz">[TAR.GZ (7 KB)]</a></td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Documentation:</td>
-			  <td>Manual <a target="blank" href="ftp://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-162.pdf">[PDF (179 KB)]</a></td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Key reference:</td>
-			  <td>Toon van Waterschoot, Geert Rombouts, Piet Verhoeve, and Marc Moonen, "<a href="ftp://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/abstracts/05-161.html">Double-talk-robust prediction error identification algorithms for acoustic echo cancellation</a>", <i>IEEE Trans. Signal Process.</i>, vol. 55, no. 3, Mar. 2007, pp. 846-858.</td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">Additional files:</td>
-			  <td>These files can be used to reproduce the results in the <i>Key reference</i> using the provided MATLAB functions.  
-				<ul>
-				    <li>room impulse responses <a target="blank" href="ftp://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/05-162/RIR.mat">[MAT (16 KB)]</a></li>
-				    <li>sound signals <a target="blank" href="ftp://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/05-162/signals.tar.gz">[TAR.GZ (1218 KB)]</a></li>
-				</ul>
-			  </td>
-			</tr>
-			<tr>
-			  <td style="color: #666; vertical-align:text-top; width: 93px">License:</td>
-			  <td>Copyright (c) 2005, Toon van Waterschoot. All rights reserved. Published under <a target="blank" href="bsd_license.html">BSD license</a>.</td>
-			</tr>
-		    </table>
-<br />
-<!---------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------->
-<br />
-            <a name="data"><h2>Data</h2></a>
-		    <!--<table border="0" cellpadding = "0" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td align="left"><h3 style="color: #333">Small Room Impulse Responses</h3>
-			  To do
-			  </td>
-			</tr>
-		    </table>
-		    <table border="0" cellpadding = "5" cellspacing = "0" width = "100%" style="padding: 0px 0px 0px 0px; font-size: 10pt; font-family: sans-serif">
-			<tr>
-			  <td style="color: #666; width: 54px">Period:</td>
-			  <td>Jan 2007 &ndash; Dec 2011</td>
-			</tr>
-			<tr>
-			  <td style="color: #666; width: 54px">Funding:</td>
-			  <td>Belgian Science Policy Office (Interuniversity Attraction Poles Phase VI)</td>
-			</tr>
-			<tr>
-			  <td style="color: #666; width: 54px">Partners:</td>
-			  <td>Universit&eacute; Catholique de Louvain, KU Leuven, Ghent University, Vrije Universiteit Brussel, Universit&eacute; de Li&egrave;ge, Universit&eacute; de Mons, Universit&eacute; Libre de Bruxelles</td>
-			</tr>
-			<tr>
-			  <td style="color: #666; width: 54px">URL:</td>
-			  <td><a target="blank" href="http://sites.uclouvain.be/dysco/">sites.uclouvain.be/dysco</a></td>
-			</tr>
-			<tr>
-			  <td style="color: #666; width: 54px">My role:</td>
-			  <td>Research Fellow</td>
-			</tr>
-		    </table>-->
-        </div>
-    </body>
-</html>
+### Biquadratic Parametric Equalizer Filter Design
+
+MATLAB package containing an implementation of a pole-zero placement technique for designing biquadratic (i.e., second-order IIR) parametric equalizer filters.
+			  
+**Software:** MATLAB function \[[M (3 KB)](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/downloads/software/06-177/pareq.m){:target="_blank"} 
+
+**Key reference:** Toon van Waterschoot and Marc Moonen, **A pole-zero placement
+technique for designing second-order IIR parametric equalizer
+filters**,
+*IEEE Trans. Audio, Speech, Lang. Process.*, vol. 15, no. 8, Nov.
+2007, pp. 2561-2565.  
+*Note: the publisher made a typesetting error in Eqs. (28) and (29). The term "-1" should be included under the square root in both equations. Please refer to the archived version of the paper for the correct equations.*  
+\[[Published](https://doi.org/10.1109/TASL.2007.905180){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/06-177.pdf){:target="_blank"}\]
+
+**Additional files:** MATLAB script to reproduce the design examples in the *Key reference* \[[M (5 KB)](https://ftp.esat.kuleuven.be/pub/SISTA/vanwaterschoot/downloads/software/06-177/pareq_designexamples.m){:target="_blank"} 
+
+**License:** Copyright (c) 2006, Toon van Waterschoot. All rights reserved. Published under [BSD license](bsd_license.md){:target="_blank"}.
+
+### Double-Talk Robust Acoustic Echo Cancellation
+
+MATLAB package containing an implementation of several prediction-error-method(PEM)-based adaptive filtering algorithms for double-talk robust acoustic echo cancellation.
+
+**Software:** MATLAB functions \[[TAR.GZ (5 KB)](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/05-162/algorithms.tar.gz){:target="_blank"}
+
+**Documentation:** Manual \[[PDF (179 KB)](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-162.pdf){:target="_blank"}
+
+**Key reference:** Toon van Waterschoot, Geert Rombouts, Piet Verhoeve, and Marc
+Moonen, **Double-talk-robust prediction error identification
+algorithms for acoustic echo cancellation**,
+*IEEE Trans. Signal Process.*, vol. 55, no. 3, Mar. 2007, pp.
+846-858.
+\[[Published](https://doi.org/10.1109/TSP.2006.887155){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/05-161.pdf){:target="_blank"}\]
+
+**Additional files:** These files can be used to reproduce the results in the *Key reference* using the provided MATLAB functions.  
+* room impulse responses \[[MAT (16 KB)](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/05-162/RIR.mat){:target="_blank"}
+* sound signals \[[TAR.GZ (1218 KB)](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/05-162/signals.tar.gz){:target="_blank"}
+
+**License:** Copyright (c) 2005, Toon van Waterschoot. All rights reserved. Published under [BSD license](bsd_license.md){:target="_blank"}.
