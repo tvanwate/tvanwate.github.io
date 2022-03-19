@@ -2,8 +2,8 @@
 title: "Alamire Analytic Lab"
 date: 2018-05-02
 image: 
-  path: /images/lov_5472x3648.jpeg
-  thumbnail: /images/lov_600x400.jpeg
+  path: /images/aal_5472x3648.jpeg
+  thumbnail: /images/aal_600x400.jpeg
 ---
 
 The Alamire Analytic Lab is a 2D spatial auralization lab specifically targeted at the auralization of multitrack recordings of early vocal music.
@@ -14,7 +14,10 @@ The realisation of the lab has been largely supported by a Large-Scale Research 
 
 **Location:**	Saint Norbert's Gate, Park Abbey, Leuven, Belgium
 
-**Equipment:** 
+**Key equipment:** 
+* 20-speaker 2-D array (Martin Audio 6,5” CDD speakers)
+* Powersoft Ottocanali 4K4 amps
+* TiMax S64 processor
 
 **Partners:** 
 * KU Leuven
