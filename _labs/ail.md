@@ -2,8 +2,8 @@
 title: "Alamire Interactive Lab"
 date: 2018-05-02
 image: 
-  path: /images/lov_5472x3648.jpeg
-  thumbnail: /images/lov_600x400.jpeg
+  path: /images/ail_5472x3648.jpeg
+  thumbnail: /images/ail_600x400.jpeg
 ---
 
 The Alamire Interactive Lab is a 3D interactive spatial auralization lab specifically targeted at the real-time auralization of virtual acoustics in the context of early music performance.
@@ -14,7 +14,11 @@ The realisation of the lab has been largely supported by a Large-Scale Research 
 
 **Location:**	Saint Norbert's Gate, Park Abbey, Leuven, Belgium
 
-**Equipment:** 
+**Key equipment:** 
+* 24-speaker 3-D array (Martin Audio 6,5” CDD speakers)
+* Powersoft Ottocanali 4K4 amps
+* 6 Audio Technica AT4051b cardioid condenser microphones
+* Astro Spatial Audio processor
 
 **Partners:** 
 * KU Leuven
