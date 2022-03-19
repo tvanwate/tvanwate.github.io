@@ -8,7 +8,7 @@ entries_layout: list
 
 ## Software
 
-The software offered on this webpage is subject to the [BSD license](bsd_license.html){:target="_blank"}, unless mentioned otherwise.*  
+The software offered on this webpage is subject to the [BSD license](bsd_license.md){:target="_blank"}, unless mentioned otherwise.*  
 
 If you use this software, or a modified version of it, for generating results that are published in a research paper, it would be highly appreciated if you include the appropriate *Key reference* (indicated with each of the software packages below) in your bibliography.*
 
@@ -67,7 +67,7 @@ France, Sept. 2015, pp. 260-264 (invited paper).
 * room impulse responses \[[MAT (0.5 KB)](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/15-40/distcorr_RIRs.mat){:target="_blank"}
 * figure generation script \[[M (14 KB)](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/downloads/software/15-40/distcorr_figgenscript_eusipco2015.m){:target="_blank"}
 
-**License:** Copyright (c) 2015, Toon van Waterschoot. All rights reserved. Published under [BSD license](bsd_license.html){:target="_blank"}.
+**License:** Copyright (c) 2015, Toon van Waterschoot. All rights reserved. Published under [BSD license](bsd_license.md){:target="_blank"}.
 
 <!---------------------------------------------------------------------------------------------------------------------------->
 <br />
