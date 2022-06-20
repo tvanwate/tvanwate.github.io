@@ -431,7 +431,7 @@ transport**, in *Proc. 29th European Signal Process. Conf. (EUSIPCO
 '21)*, Dublin, Ireland, pp. 1730-1734, Aug. 2021.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2021/pdfs/0001730.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/sista/vanwaterschoot/reports/21-104.pdf){:target="_blank"}\]
 
-5. Elisa Tengan, Thomas Dietzen, and Toon van Waterschoot,
+5. Elisa Tengan, Maja Taseska, Thomas Dietzen, and Toon van Waterschoot,
 **Direction-of-arrival and power spectral density estimation using a
 single directional microphone**, in *Proc. 29th European Signal
 Process. Conf. (EUSIPCO '21)*, Dublin, Ireland, pp. 221-225,
