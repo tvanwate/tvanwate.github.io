@@ -463,13 +463,13 @@ using a nonstationary source model**,
 
 ## Conference Papers
 
-1. Hannes Rosseel, Martin Jälmby, and Toon van Waterschoot, **Low-rank multi-channel fast convolution for real-time auralization of church acoustics**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.
+1. Hannes Rosseel, Martin Jälmby, and Toon van Waterschoot, **Low-rank multi-channel fast convolution for real-time auralization of church acoustics**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001017.pdf){:target="_blank"}\]
 
-2. Bilgesu Çakmak, Thomas Dietzen, Randall Ali, Patrick Naylor, and Toon van Waterschoot, **Microphone pair selection for sound source localization in massive arrays of spatially distributed microphones**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.
+2. Bilgesu Çakmak, Thomas Dietzen, Randall Ali, Patrick Naylor, and Toon van Waterschoot, **Microphone pair selection for sound source localization in massive arrays of spatially distributed microphones**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
 \[[Archived](https://lirias.kuleuven.be/retrieve/770314){:target="_blank"}\]
 
-3. Paul Didier, Toon van Waterschoot, and Marc Moonen, **Topology-independent GEVD-based distributed signal estimation in ad-hoc wireless acoustic sensor networks**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.
+3. Paul Didier, Toon van Waterschoot, and Marc Moonen, **Topology-independent GEVD-based distributed signal estimation in ad-hoc wireless acoustic sensor networks**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
 \[[Archived](https://arxiv.org/abs/2407.14172){:target="_blank"}\]
 
 4. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **Cascaded noise reduction and acoustic echo cancellation based on an extended noise reduction**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
