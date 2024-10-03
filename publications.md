@@ -10,7 +10,7 @@ entries_layout: list
 
 ## Journal Papers
 
-1. Stefano Damiano, Luca Bondi, Andre Guntoro, and Toon van Waterschoot, **A framework for the acoustic simulation of passing vehicles using variable length delay lines**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 49, 19 p., 2024 (Special Issue on Directions of Digital Audio Effects (DAFx)).
+1. Stefano Damiano, Luca Bondi, Andre Guntoro, and Toon van Waterschoot, **A framework for the acoustic simulation of passing vehicles using variable length delay lines**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 49, 19 p., 2024 (Special Issue on Directions of Digital Audio Effects (DAFx)).  
 \[[Published](https://doi.org/10.1186/s13636-024-00372-4){:target="_blank"}\]
 
 2. Martin Jälmby, Filip Elvander, and Toon van Waterschoot, **Compression of room impulse responses for compact storage and fast low-latency convolution**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 45, 23 p., 2024 (Special Issue on Data-driven and Machine Learning-based Room Acoustic Estimation and Modeling).  
