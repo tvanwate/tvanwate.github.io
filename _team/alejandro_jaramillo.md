@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin      
 ---
 
-Alejandro Jaramillo is a **PhD Student** in the [BioacAI](projects/bioacai/) project supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Randall Ali](randall_ali), and [Sylvain Haupert](https://isyeb.mnhn.fr/fr/annuaire/sylvain-haupert-6596){:target="_blank"}. He is working on sound source localization in the context of bioacoustics and biodiversity monitoring.
+Alejandro Jaramillo is a **PhD Student** in the [BioacAI](projects/bioacai/) project supervised by [Toon van Waterschoot](toon_vanwaterschoot), [Randall Ali](randall_ali), and [Sylvain Haupert](https://isyeb.mnhn.fr/fr/annuaire/sylvain-haupert-6596){:target="_blank"}. He is working on sound source localization in the context of biodiversity monitoring.
