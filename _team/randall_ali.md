@@ -7,14 +7,14 @@ image:
 author:
   name: Randall Ali
   picture: /images/randy_circle.png
-  email: randall.ali@esat.kuleuven.be
+  email: r.ali@surrey.ac.uk
   links:
     - title: Email
-      url: mailto:randall.ali@esat.kuleuven.be
+      url: mailto:r.ali@surrey.ac.uk
       icon: fas fa-at    
     - title: LinkedIn
       url: https://linkedin.com/in/randall-ali-0b767b72
       icon: fab fa-linkedin
 ---
 
-Randall Ali is a **Postdoc** working in the [SOUNDS](projects/sounds/) and [SONORA](projects/sonora/) projects, on the intersection of physical/numerical acoustics and signal processing. He holds a PhD from KU Leuven obtained in 2020.
+Randall Ali is a **Voluntary Research Associate** co-supervising the [SOUNDS](projects/sounds/) and [BE*A*STAR](projects/beastar/) projects. He holds a PhD from KU Leuven obtained in 2020 and is currently a Lecturer at [Surrey University](https://www.surrey.ac.uk){:target="_blank"}.
