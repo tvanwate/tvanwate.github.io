@@ -44,12 +44,12 @@ entries_layout: list
 \[[Published](https://doi.org/10.1186/s13636-023-00296-5){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/727340){:target="_blank"}\]
 
 12. Thomas Dietzen, Randall Ali, Maja Taseska, and Toon van Waterschoot, **MYRiAD: a multi-array room acoustic database**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2023, Article No. 17, 14 p., 2023.  
-\[[Published](https://doi.org/10.1156/s13636-023-00284-9){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/714548){:target="_blank"}\] \[[Data repository](https://doi.org/10.5281/zenodo.7389996){:target="_blank"}\]
+\[[Published](https://doi.org/10.1186/s13636-023-00284-9){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/714548){:target="_blank"}\] \[[Data repository](https://doi.org/10.5281/zenodo.7389996){:target="_blank"}\]
 
 13. Giulia Rocco, Giuliano Bernardi, Randall Ali, Toon van Waterschoot, Edoardo Maria Polo, Riccardo Barbieri, and Alessia Paglialonga, **Characterization of the intelligibility of Vowel-Consonant-Vowel (VCV) recordings in five languages for application in speech-in-noise screening in multilingual settings**, *Appl. Sci.*, vol. 13, no. 9, Article No. 5344, 2023.  
 \[[Published](https://doi.org/10.3390/app13095344){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/718147){:target="_blank"}\]
 
-14. Jesper Brunnstr\"om, Toon van Waterschoot, and Marc Moonen, **Signal-to-interference-plus-noise ratio based optimization for sound zone control**, *IEEE Open J. Signal Process.*, vol. 4, pp. 257-266, 2023.  
+14. Jesper Brunnström, Toon van Waterschoot, and Marc Moonen, **Signal-to-interference-plus-noise ratio based optimization for sound zone control**, *IEEE Open J. Signal Process.*, vol. 4, pp. 257-266, 2023.  
 \[[Published](https://doi.org/10.1109/OJSP.2023.3246398){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/711105){:target="_blank"}\]
 
 15. Paul Didier, Toon van Waterschoot, Simon Doclo, and Marc Moonen, **Sampling rate offset estimation and compensation for distributed adaptive node-specific signal estimation in wireless acoustic sensor networks**, *IEEE Open J. Signal Process.*, vol. 4, pp. 71-79, 2023.  
