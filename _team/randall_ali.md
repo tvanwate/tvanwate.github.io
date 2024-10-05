@@ -17,4 +17,4 @@ author:
       icon: fab fa-linkedin
 ---
 
-Randall Ali is a **Voluntary Research Associate** co-supervising the [SOUNDS](projects/sounds/) and [BE*A*STAR](projects/beastar/) projects. He holds a PhD from KU Leuven obtained in 2020 and is currently a Lecturer at [Surrey University](https://www.surrey.ac.uk){:target="_blank"}.
+Randall Ali is a Lecturer at [Surrey University](https://www.surrey.ac.uk){:target="_blank"} and a **Voluntary Research Associate** of the KU Leuven Audio Engineering Lab, co-supervising the [SOUNDS](projects/sounds/) and [BE * A * STAR](projects/beastar/) projects. He holds a PhD from KU Leuven obtained in 2020.
