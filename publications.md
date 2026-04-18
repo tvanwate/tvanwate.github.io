@@ -10,11 +10,20 @@ entries_layout: list
 
 ## Journal Papers
 
+1. Hannes Rosseel and Toon van Waterschoot, **Accelerated interactive auralization of highly reverberant spaces using graphics hardware**, *J. Audio Eng. Soc.*, to appear, 2026.  
+\[[Archived](https://arxiv.org/abs/2509.04390){:target="_blank"}\]
+
 1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Integrated minimum mean squared error algorithms for combined acoustic echo cancellation and noise reduction**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 512-528, 2026.  
 \[[Published](https://doi.org/10.1109/TASLPRO.2025.3648802){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2412.04267){:target="_blank"}\]
 
 1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Identifiability conditions for acoustic feedback cancellation with the two-channel adaptive feedback canceller algorithm**, *IEEE Open J. Signal Process.*, vol. 7, pp. 1-10, 2026.  
 \[[Published](https://doi.org/10.1109/OJSP.2025.3639934){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2512.01466){:target="_blank"}\]
+
+10. Hannes Rosseel and Toon van Waterschoot, **On time delay interpolation for improved acoustic reflector localization**, *J. Acoust. Soc. Amer.*, vol. 158, no. 4, pp. 2795-2812, Oct. 2025.  
+\[[Published](https://doi.org/10.1121/10.0039541){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2509.04629){:target="_blank"}\]
+
+10. Hannes Rosseel and Toon van Waterschoot, **A state-of-the-art review on acoustic preservation of historical worship spaces through auralization**, *Signal Processing*, vol. 234, 25 p., Sep. 2025.  
+\[[Published](https://doi.org/10.1016/j.sigpro.2025.109992){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.18022){:target="_blank"}\]
 
 
 1. Dummy
