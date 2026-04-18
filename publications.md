@@ -1347,6 +1347,10 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 
 ## PhD Theses
 
+1. Eric Grinstein, **Geometry-aware sound source localization using neural networks**, Ph.D. thesis, Department of Electrical and Electronic Engineering, Imperial College London, UK, Jan. 2025.  
+*Supervisors: Patrick Naylor, Mike Brookes, Co-supervisors: Christopher Hicks, Toon van Waterschoot*  
+[[Archived](https://theses.eurasip.org/document/geometry-aware-sound-source-localization-using-neural-networks/){:target="_blank"}\]
+
 1. Martin Jälmby, **Low-rank modeling in room acoustics**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Mar. 2024.  
 *Supervisor: Toon van Waterschoot, Co-supervisors: Filip Elvander*  
 \[[Published](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\]
