@@ -494,10 +494,10 @@ using a nonstationary source model**,
 
 6. Dummy
   
-4. Hannes Rosseel, Martin Jälmby, and Toon van Waterschoot, **Low-rank multi-channel fast convolution for real-time auralization of church acoustics**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
-\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001017.pdf){:target="_blank"}\]
+4. Hannes Rosseel, Martin Jälmby, and Toon van Waterschoot, **Low-rank multi-channel fast convolution for real-time auralization of church acoustics**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 1017-1021, Aug. 2024.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001017.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/e9ad3eb8-9135-4db7-8f37-ae98aaa2f012){:target="_blank"}\]
 
-5. Bilgesu Çakmak, Thomas Dietzen, Randall Ali, Patrick Naylor, and Toon van Waterschoot, **Microphone pair selection for sound source localization in massive arrays of spatially distributed microphones**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 251-255, Aug. 2024.  
+6. Bilgesu Çakmak, Thomas Dietzen, Randall Ali, Patrick Naylor, and Toon van Waterschoot, **Microphone pair selection for sound source localization in massive arrays of spatially distributed microphones**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 251-255, Aug. 2024.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000251.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/bf02a84e-eae1-475c-bdf3-af3fb9e08cc7){:target="_blank"}\]
 
 7. Paul Didier, Toon van Waterschoot, and Marc Moonen, **Topology-independent GEVD-based distributed signal estimation in ad-hoc wireless acoustic sensor networks**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
@@ -1347,6 +1347,10 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 
 ## PhD Theses
 
+1. Hannes Rosseel, **Spatial recording, processing, and auralization of historical worship space acoustics**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Sep. 2025. 
+*Supervisor: Toon van Waterschoot*  
+\[[Published](https://lirias.kuleuven.be/retrieve/4d974c2b-49e6-4b58-88ed-b2e0d4d1a35c){:target="_blank"}\]
+
 1. Eric Grinstein, **Geometry-aware sound source localization using neural networks**, Ph.D. thesis, Department of Electrical and Electronic Engineering, Imperial College London, UK, Jan. 2025.  
 *Supervisors: Patrick Naylor, Mike Brookes, Co-supervisors: Christopher Hicks, Toon van Waterschoot*  
 [[Archived](https://theses.eurasip.org/document/geometry-aware-sound-source-localization-using-neural-networks/){:target="_blank"}\]
@@ -1355,7 +1359,7 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 *Supervisor: Toon van Waterschoot, Co-supervisors: Filip Elvander*  
 \[[Published](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\]
 
-2. Elisa Tengan Pires de Souza, **Spatial audio analysis with constrained microphone setups in adverse acoustic conditions**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Feb. 2024.  
+2. Elisa Tengan Pires de Souza, **Spatial audio analysis with constrained microphone setups in adverse acoustic conditions**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Feb. 2024. 
 *Supervisor: Toon van Waterschoot*  
 \[[Published](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/644100){:target="_blank"}\]
 
