@@ -499,7 +499,7 @@ using a nonstationary source model**,
 \[[Published](https://doi.org/10.61782/fa.2025.0588){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/c33c81fd-d932-4a14-a4ba-3e0f4271a686){:target="_blank"}\]
 
 4. Jesper Brunnström, Martin Bo Møller, Toon van Waterschoot, Marc Moonen, and Jan Østergaard, **Experimental validation of sound field estimation methods using moving microphones**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4111-4118, Jun. 2025.  
-\[[Published](https://doi.org/10.61782/fa.2025.0379){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/7231369a-26ee-4614-87bb-ccda1d5e0d02){:target="_blank"}\]
+\[[Published](https://doi.org/10.61782/fa.2025.0379){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/sista/jbrunnst/2025_moving_microphone_dataset_008_with_cover_sheet.pdf){:target="_blank"}\]
 
 5. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **A comparative analysis of generalised echo and interference cancelling and extended multichannel Wiener filtering for combined noise reduction and acoustic echo cancellation**, in *Proc. 2025 IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP '25)*, Hyderabad, India, Apr. 2025.  
 \[[Published](https://doi.org/10.1109/ICASSP49660.2025.10890146){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.03593){:target="_blank"}\]
