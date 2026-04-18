@@ -495,8 +495,8 @@ using a nonstationary source model**,
 6. Paul Didier, Toon van Waterschoot, and Marc Moonen, **Topology-independent GEVD-based distributed signal estimation in ad-hoc wireless acoustic sensor networks**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
 \[[Archived](https://arxiv.org/abs/2407.14172){:target="_blank"}\]
 
-7. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **Cascaded noise reduction and acoustic echo cancellation based on an extended noise reduction**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
-\[[Archived](https://arxiv.org/abs/2406.08974){:target="_blank"}\]
+7. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **Cascaded noise reduction and acoustic echo cancellation based on an extended noise reduction**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 11-15, Aug. 2024.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000011.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2406.08974){:target="_blank"}\]
 
 8. José Cadavid, Martin Bo Møller, Toon van Waterschoot, Søren Bech, and Jan Østergaard, **Spatial sampling versus acquisition time of room impulse responses for low-frequency sound zones**, in *Preprints AES 156th Conv.*, Madrid, Spain, AES Preprint 10706, Jun. 2024.  
 \[[Published](https://aes2.org/publications/elibrary-page/?id=22519){:target="_blank"}\] \[[Archived](https://vbn.aau.dk/ws/portalfiles/portal/719417053/Spatial_Sampling_versus_Acquisition_Time_of_Room_Impulse_Responses_for_Low-Frequency_Sound_Zones_-_For_VBN.pdf){:target="_blank"}\]
