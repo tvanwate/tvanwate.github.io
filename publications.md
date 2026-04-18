@@ -13,6 +13,9 @@ entries_layout: list
 1. Hannes Rosseel and Toon van Waterschoot, **Accelerated interactive auralization of highly reverberant spaces using graphics hardware**, *J. Audio Eng. Soc.*, to appear, 2026.  
 \[[Archived](https://arxiv.org/abs/2509.04390){:target="_blank"}\]
 
+1. Jesper Brunnström, Martin Bo Møller, Jan Østergaard, Shoichi Koyama, Toon van Waterschoot, and Marc Moonen, **Time-domain sound field estimation using kernel ridge regression**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 1243-1258, 2026.  
+\[[Published](https://doi.org/10.1109/TASLPRO.2026.3662464){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2509.05720){:target="_blank"}\]
+
 1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Integrated minimum mean squared error algorithms for combined acoustic echo cancellation and noise reduction**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 512-528, 2026.  
 \[[Published](https://doi.org/10.1109/TASLPRO.2025.3648802){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2412.04267){:target="_blank"}\]
 
@@ -486,19 +489,25 @@ using a nonstationary source model**,
 2. Manuel Alejandro Jaramillo Rodriguez, Randall Ali, and Toon van Waterschoot, **Direction-of-arrival data association for wildlife acoustic localization**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 211-215, Sept. 2025.
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0000211.pdf){:target="_blank"}\] \[[Archived](https://openresearch.surrey.ac.uk/view/pdfCoverPage?instCode=44SUR_INST&filePid=13222485420002346&download=true){:target="_blank"}\]
 
+2. Jesper Brunnström, Martin Bo Møller, Jan Østergaard, Toon van Waterschoot, Marc Moonen, and Filip Elvander, **Spatial covariance estimation for sound field reproduction using kernel ridge regression**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 86-90, Sept. 2025.
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0000086.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/2f59f8d4-dd08-473f-b549-e6d09f112bec){:target="_blank"}\]
+
 3. Akshara Parul and Toon van Waterschoot, **The role of mathematical competencies in engineering research: Insights from digital signal processing PhD scholars**, in *Proc. 22nd SEFI Special Interest Group Math. Seminar*, Wolfenbüttel, Germany, pp. 127-136, Jun. 2025.
 \[[Published](https://www.sefi.be/wp-content/uploads/2025/12/Proceedings_SEFIMSIG_2025v3.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/sefisig2025_akshara_published.pdf){:target="_blank"}\]
 
-15. Arina Epure, Thomas Dietzen, and Toon van Waterschoot, **Multi-channel processing for patient identification and audio analysis in the context of group music therapy**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4275-4281, Jun. 2025.  
+4. Arina Epure, Thomas Dietzen, and Toon van Waterschoot, **Multi-channel processing for patient identification and audio analysis in the context of group music therapy**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4275-4281, Jun. 2025.  
 \[[Published](https://doi.org/10.61782/fa.2025.0588){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/c33c81fd-d932-4a14-a4ba-3e0f4271a686){:target="_blank"}\]
 
-9. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **A comparative analysis of generalised echo and interference cancelling and extended multichannel Wiener filtering for combined noise reduction and acoustic echo cancellation**, in *Proc. 2025 IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP '25)*, Hyderabad, India, Apr. 2025.  
+4. Jesper Brunnström, Martin Bo Møller, Toon van Waterschoot, Marc Moonen, and Jan Østergaard, **Experimental validation of sound field estimation methods using moving microphones**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4111-4118, Jun. 2025.  
+\[[Published](https://doi.org/10.61782/fa.2025.0379){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/7231369a-26ee-4614-87bb-ccda1d5e0d02){:target="_blank"}\]
+
+5. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **A comparative analysis of generalised echo and interference cancelling and extended multichannel Wiener filtering for combined noise reduction and acoustic echo cancellation**, in *Proc. 2025 IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP '25)*, Hyderabad, India, Apr. 2025.  
 \[[Published](https://doi.org/10.1109/ICASSP49660.2025.10890146){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.03593){:target="_blank"}\]
 
-4. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized $$\ell_p$$ norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
+6. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized $$\ell_p$$ norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
 \[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694577){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2411.03168){:target="_blank"}\]
 
-5. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
+7. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
 \[[Published](https://doi.org/10.5281/zenodo.14254759){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/d6cd8716-405b-44db-a7c3-c41532e3c753){:target="_blank"}\]
 
 6. Dummy
@@ -1356,9 +1365,13 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 
 ## PhD Theses
 
-1. Hannes Rosseel, **Spatial recording, processing, and auralization of historical worship space acoustics**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Sep. 2025. 
+1. Jesper Brunnström, **Sound field estimation and control over continuous regions**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Dec. 2025.  
+*Supervisor: Marc Moonen, Co-supervisors: Jan Østergaard, Toon van Waterschoot*  
+\[[Published](https://lirias.kuleuven.be/retrieve/a48d48c8-2eae-4864-9103-e3f3c88ceaf2){:target="_blank"}\] 
+
+2. Hannes Rosseel, **Spatial recording, processing, and auralization of historical worship space acoustics**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Sep. 2025. 
 *Supervisor: Toon van Waterschoot*  
-\[[Published](https://lirias.kuleuven.be/retrieve/4d974c2b-49e6-4b58-88ed-b2e0d4d1a35c){:target="_blank"}\]
+\[[Published](https://lirias.kuleuven.be/retrieve/4d974c2b-49e6-4b58-88ed-b2e0d4d1a35c){:target="_blank"}\] 
 
 1. Eric Grinstein, **Geometry-aware sound source localization using neural networks**, Ph.D. thesis, Department of Electrical and Electronic Engineering, Imperial College London, UK, Jan. 2025.  
 *Supervisors: Patrick Naylor, Mike Brookes, Co-supervisors: Christopher Hicks, Toon van Waterschoot*  
