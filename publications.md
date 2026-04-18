@@ -466,19 +466,22 @@ using a nonstationary source model**,
 
 ## Conference Papers
 
-3. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
+1. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
 \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/rees2025_akshara_camready.pdf){:target="_blank"}\]
 
-1. Manuel Alejandro Jaramillo Rodriguez, Randall Ali, and Toon van Waterschoot, **Direction-of-arrival data association for wildlife acoustic localization**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 211-215, Sept. 2025.
+2. Manuel Alejandro Jaramillo Rodriguez, Randall Ali, and Toon van Waterschoot, **Direction-of-arrival data association for wildlife acoustic localization**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 211-215, Sept. 2025.
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0000211.pdf){:target="_blank"}\] \[[Archived](https://openresearch.surrey.ac.uk/view/pdfCoverPage?instCode=44SUR_INST&filePid=13222485420002346&download=true){:target="_blank"}\]
 
-1. Akshara Parul and Toon van Waterschoot, **The role of mathematical competencies in engineering research: Insights from digital signal processing PhD scholars**, in *Proc. 22nd SEFI Special Interest Group Math. Seminar*, Wolfenbüttel, Germany, pp. 127-136, Jun. 2025.
+3. Akshara Parul and Toon van Waterschoot, **The role of mathematical competencies in engineering research: Insights from digital signal processing PhD scholars**, in *Proc. 22nd SEFI Special Interest Group Math. Seminar*, Wolfenbüttel, Germany, pp. 127-136, Jun. 2025.
 \[[Published](https://www.sefi.be/wp-content/uploads/2025/12/Proceedings_SEFIMSIG_2025v3.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/sefisig2025_akshara_published.pdf){:target="_blank"}\]
 
-2. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
+4. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized $$\ell_p$$ norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
+\[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694577){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2411.03168){:target="_blank"}\]
+
+5. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
 \[[Published](https://doi.org/10.5281/zenodo.14254759){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/d6cd8716-405b-44db-a7c3-c41532e3c753){:target="_blank"}\]
 
-3. Dummy 
+6. Dummy
   
 4. Hannes Rosseel, Martin Jälmby, and Toon van Waterschoot, **Low-rank multi-channel fast convolution for real-time auralization of church acoustics**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001017.pdf){:target="_blank"}\]
