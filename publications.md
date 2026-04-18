@@ -19,8 +19,7 @@ entries_layout: list
 
 1. Dummy
 
-1. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, to appear, 2024.  
-\[[Archived](https://arxiv.org/abs/2405.02991){:target="_blank"}\]
+1. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 59, 27 p., 2024. \[[Published](https://doi.org/10.1186/s13636-024-00377-z){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2405.02991){:target="_blank"}\]
   
 3. Stefano Damiano, Luca Bondi, Andre Guntoro, and Toon van Waterschoot, **A framework for the acoustic simulation of passing vehicles using variable length delay lines**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 49, 19 p., 2024 (Special Issue on Directions of Digital Audio Effects (DAFx)).  
 \[[Published](https://doi.org/10.1186/s13636-024-00372-4){:target="_blank"}\]
