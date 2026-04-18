@@ -74,15 +74,12 @@ entries_layout: list
 \[[Published](https://doi.org/10.3389/fninf.2022.942978){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/690637){:target="_blank"}\]
 
 20. Mansour Alkmim, João Cardenuto, Elisa Tengan Pires de Souza, Thomas Dietzen, Toon van Waterschoot, Jacques Cuenca, Laurent De Ryck, and Wim Desmet, **Drone noise directivity and psychoacoustic evaluation using a hemispherical microphone array**, *J. Acoust. Soc. Amer.*, vol. 152, no. 5, pp. 2735-2745, Nov. 2022.  
-\[[Published](https://doi.org/10.1121/10.0014957){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/684819){:target="_blank"}\] \[[Scilight](https://ww2.aip.org/scilights/the-droning-of-the-drones)
+\[[Published](https://doi.org/10.1121/10.0014957){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/684819){:target="_blank"}\] \[[Scilight](https://ww2.aip.org/scilights/the-droning-of-the-drones){:target="_blank"}\]
 
 21. Bisrat Derebssa, Eneyew Adugna, Koen Eneman, and Toon van Waterschoot, **Detection and restoration of click degraded audio based on high-order sparse linear prediction**, *Zede Journal*, vol. 40, no. 1, pp. 99-116, 2022.  
 \[[Published](https://www.ajol.info/index.php/zj/article/view/230040){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/731585){:target="_blank"}\]
 
-22. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens,
-Peter Vanbrabant, Luc Geurts, Toon van Waterschoot, and Peter
-Kuppens, **In search of state and trait emotion markers in
-mobile-sensed language: A field study**, *JMIR Mental Health*, vol. 9, no. 2, 22 p., 2022.  
+22. Chiara Carlier, Koen Niemeijer, Merijn Mestdagh, Michael Bauwens, Peter Vanbrabant, Luc Geurts, Toon van Waterschoot, and Peter Kuppens, **In search of state and trait emotion markers in mobile-sensed language: A field study**, *JMIR Mental Health*, vol. 9, no. 2, 22 p., 2022.  
 \[[Published](https://doi.org/10.2196/31724){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/635936){:target="_blank"}\]
 
 23. Gert Dekkers, Fernando Rosas, Toon van Waterschoot, Bart
@@ -1381,7 +1378,7 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 
 8. Bisrat Derebssa Dufera, **The use of high-order sparse linear prediction for the restoration of archived audio**, Ph.D. thesis, School of Electrical and Computer Engineering, Addis Ababa University, Ethiopia, Jun. 2020.  
 *Supervisors: Toon van Waterschoot, Koen Eneman, Eneyew Adugna*  
-\[[Published](http://213.55.95.56/bitstream/handle/123456789/22635/Bisrat%20Derebssa.pdf){:target="_blank"}\] \[[Archived](http://213.55.95.56/bitstream/handle/123456789/22635/Bisrat%20Derebssa.pdf){:target="_blank"}\]
+\[[Archived](https://theses.eurasip.org/document/the-use-of-high-order-sparse-linear-prediction-for-the-restoration-of-archived-audio/){:target="_blank"}\]
 
 9. Thomas Dietzen, **Spatio-temporal speech enhancement in adverse acoustic conditions**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Oct. 2019.  
 *Supervisor: Toon van Waterschoot, Co-supervisors: Marc Moonen, Simon Doclo*  
