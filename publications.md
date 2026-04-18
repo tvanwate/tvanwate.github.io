@@ -13,6 +13,10 @@ entries_layout: list
 1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Integrated minimum mean squared error algorithms for combined acoustic echo cancellation and noise reduction**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 512-528, 2026.  
 \[[Published](https://doi.org/10.1109/TASLPRO.2025.3648802){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2412.04267){:target="_blank"}\]
 
+1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Identifiability conditions for acoustic feedback cancellation with the two-Channel adaptive feedback canceller algorithm**, *IEEE Open J. Signal Process.*, vol. 7, pp. 1-10, 2026.  
+\[[Published](https://doi.org/10.1109/OJSP.2025.3639934){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2512.01466){:target="_blank"}\]
+
+
 1. Dummy
 
 1. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, to appear, 2024.  
