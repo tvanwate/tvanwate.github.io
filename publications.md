@@ -475,6 +475,9 @@ using a nonstationary source model**,
 3. Akshara Parul and Toon van Waterschoot, **The role of mathematical competencies in engineering research: Insights from digital signal processing PhD scholars**, in *Proc. 22nd SEFI Special Interest Group Math. Seminar*, Wolfenbüttel, Germany, pp. 127-136, Jun. 2025.
 \[[Published](https://www.sefi.be/wp-content/uploads/2025/12/Proceedings_SEFIMSIG_2025v3.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/sefisig2025_akshara_published.pdf){:target="_blank"}\]
 
+15. Arina Epure, Thomas Dietzen, and Toon van Waterschoot, **Multi-channel processing for patient identification and audio analysis in the context of group music therapy**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4275-4281, Jun. 2025.  
+\[[Published](https://doi.org/10.61782/fa.2025.0588){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/c33c81fd-d932-4a14-a4ba-3e0f4271a686){:target="_blank"}\]
+
 4. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized $$\ell_p$$ norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
 \[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694577){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2411.03168){:target="_blank"}\]
 
