@@ -466,11 +466,14 @@ using a nonstationary source model**,
 
 ## Conference Papers
 
+1. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
+\[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/rees2025_akshara_camready.pdf){:target="_blank"}\]
+
 1. Akshara Parul and Toon van Waterschoot, **The role of mathematical competencies in engineering
 research: Insights from digital signal processing PhD scholars**, in *Proc. 22nd SEFI Special Interest Group Math. Seminar*, Wolfenbüttel, Germany, pp. 127-136, Jun. 2025.
 \[[Published](https://www.sefi.be/wp-content/uploads/2025/12/Proceedings_SEFIMSIG_2025v3.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/sefisig2025_akshara_published.pdf){:target="_blank"}\]
 
-1. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
+2. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
 \[[Published](https://doi.org/10.5281/zenodo.14254759){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/d6cd8716-405b-44db-a7c3-c41532e3c753){:target="_blank"}\]
 
 3. Dummy 
