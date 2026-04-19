@@ -1399,7 +1399,7 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 
 1. Paul Didier, **Distributed algorithms for noise reduction in wireless acoustic sensor networks**, Ph.D. thesis, Faculty of Engineering Science, KU Leuven, Belgium, Nov. 2025.  
 *Supervisor: Marc Moonen, Co-supervisors: Simon Doclo, Toon van Waterschoot*  
-\[[Published](https://lirias.kuleuven.be/retrieve/a48d48c8-2eae-4864-9103-e3f3c88ceaf2){:target="_blank"}\] 
+\[[Published](https://lirias.kuleuven.be/retrieve/ea6b899c-278f-4ff9-9096-9dfd0aeca341){:target="_blank"}\] 
 
 2. Hannes Rosseel, **Spatial recording, processing, and auralization of historical worship space acoustics**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Sep. 2025. 
 *Supervisor: Toon van Waterschoot*  
