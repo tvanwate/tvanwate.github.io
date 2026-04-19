@@ -33,6 +33,12 @@ entries_layout: list
 10. José Cadavid, Martin Bo Møller, Toon van Waterschoot, Søren Bech, and Jan Østergaard, **Effects of reduced information in the performance of low-frequency sound zones**, *J. Audio Eng. Soc.*, vol. 73, no. 7/8, pp. 429-445, Jul./Aug. 2025.  
 \[[Published](https://doi.org/10.17743/jaes.2022.0207){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/82a517a2-36f7-44bf-a4c8-9b4a4c2220d5){:target="_blank"}\]
 
+27. Mina Mounir, Giuliano Bernardi, and Toon van Waterschoot,
+**Robust and early howling detection based on a sparsity measure**,
+*EURASIP J. Audio, Speech, Music Process.*, vol. 2025, Article No.
+14, 19 p., 2025.  
+\[[Published](https://doi.org/10.1186/s13636-025-00399-1){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/6ed453a2-092c-43cb-bcd7-e1c3e700b92d){:target="_blank"}\]
+
 1. Dummy
 
 1. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 59, 27 p., 2024. \[[Published](https://doi.org/10.1186/s13636-024-00377-z){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2405.02991){:target="_blank"}\]
