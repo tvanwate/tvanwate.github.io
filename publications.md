@@ -1405,6 +1405,10 @@ Hilvarenbeek, The Netherlands, Apr. 2004, pp. 167-170.
 *Supervisor: Toon van Waterschoot*  
 \[[Published](https://lirias.kuleuven.be/retrieve/4d974c2b-49e6-4b58-88ed-b2e0d4d1a35c){:target="_blank"}\] 
 
+2. Stefano Damiano, **Data-efficient machine learning for the analysis of dynamic acoustic scenes**, Ph.D. thesis, Faculty of Engineering Technology, KU Leuven, Belgium, Aug. 2025. 
+*Supervisor: Toon van Waterschoot, Co-supervisor: Andre Guntoro*  
+\[[Published](https://lirias.kuleuven.be/retrieve/a1147352-b17d-4644-ac76-403fe874bdd6){:target="_blank"}\] 
+
 1. Eric Grinstein, **Geometry-aware sound source localization using neural networks**, Ph.D. thesis, Department of Electrical and Electronic Engineering, Imperial College London, UK, Jan. 2025.  
 *Supervisors: Patrick Naylor, Mike Brookes, Co-supervisors: Christopher Hicks, Toon van Waterschoot*  
 [[Archived](https://theses.eurasip.org/document/geometry-aware-sound-source-localization-using-neural-networks/){:target="_blank"}\]
