@@ -24,6 +24,9 @@ entries_layout: list
 1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Integrated minimum mean squared error algorithms for combined acoustic echo cancellation and noise reduction**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 512-528, 2026.  
 \[[Published](https://doi.org/10.1109/TASLPRO.2025.3648802){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2412.04267){:target="_blank"}\]
 
+1. Stefano Damiano, Thomas Dietzen, and Toon van Waterschoot, **Frequency tracking features for domain-robust and data-efficient deep siren identification**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 482-495, 2026.  
+\[[Published](https://doi.org/10.1109/TASLPRO.2025.3646824){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/a2f94e07-f72a-4e8c-9132-7459f6b3dc29){:target="_blank"}\]
+
 1. Arnout Roebben, Toon van Waterschoot, Jan Wouters, and Marc Moonen, **Identifiability conditions for acoustic feedback cancellation with the two-channel adaptive feedback canceller algorithm**, *IEEE Open J. Signal Process.*, vol. 7, pp. 1-10, 2026.  
 \[[Published](https://doi.org/10.1109/OJSP.2025.3639934){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2512.01466){:target="_blank"}\]
 
@@ -42,9 +45,10 @@ entries_layout: list
 14, 19 p., 2025.  
 \[[Published](https://doi.org/10.1186/s13636-025-00399-1){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/6ed453a2-092c-43cb-bcd7-e1c3e700b92d){:target="_blank"}\]
 
-1. Dummy
+1. Thomas Dietzen, Enzo De Sena, and Toon van Waterschoot, **Scalable-complexity steered response power based on low-Rank and sparse interpolation**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 32, pp. 5024-5039, 2024.  
+\[[Published](https://doi.org/10.1109/TASLP.2024.3496317){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2306.08514){:target="_blank"}\]
 
-1. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 59, 27 p., 2024. \[[Published](https://doi.org/10.1186/s13636-024-00377-z){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2405.02991){:target="_blank"}\]
+2. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 59, 27 p., 2024. \[[Published](https://doi.org/10.1186/s13636-024-00377-z){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2405.02991){:target="_blank"}\]
   
 3. Stefano Damiano, Luca Bondi, Andre Guntoro, and Toon van Waterschoot, **A framework for the acoustic simulation of passing vehicles using variable length delay lines**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 49, 19 p., 2024 (Special Issue on Directions of Digital Audio Effects (DAFx)).  
 \[[Published](https://doi.org/10.1186/s13636-024-00372-4){:target="_blank"}\]
@@ -502,6 +506,9 @@ using a nonstationary source model**,
 1. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
 \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/rees2025_akshara_camready.pdf){:target="_blank"}\]
 
+2. Stefano Damiano and Toon van Waterschoot, **Sound field reconstruction using physics-informed boundary integral networks**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 76-80, Sept. 2025.
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0000076.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2506.03917){:target="_blank"}\]
+
 2. Paul Didier, Toon van Waterschoot, Simon Doclo, Jörg Bitzer, and Marc Moonen, **Improved topology-independent distributed adaptive node-specific signal estimation for wireless acoustic sensor networks**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 2402-2406, Sept. 2025.
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0002402.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2506.20001){:target="_blank"}\]
 
@@ -526,8 +533,14 @@ using a nonstationary source model**,
 4. Jesper Brunnström, Martin Bo Møller, Toon van Waterschoot, Marc Moonen, and Jan Østergaard, **Experimental validation of sound field estimation methods using moving microphones**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4111-4118, Jun. 2025.  
 \[[Published](https://doi.org/10.61782/fa.2025.0379){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/sista/jbrunnst/2025_moving_microphone_dataset_008_with_cover_sheet.pdf){:target="_blank"}\]
 
+5. Stefano Damiano, Federico Miotello, Mirco Pezzoli, Alberto Bernardini, Fabio Antonacci, Augusto Sarti, and Toon van Waterschoot, **A zero-shot physics-informed dictionary learning approach for sound field reconstruction**, in *Proc. 2025 IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP '25)*, Hyderabad, India, Apr. 2025.  
+\[[Published](https://doi.org/10.1109/ICASSP49660.2025.10888108){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2412.18348){:target="_blank"}\]
+
 5. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **A comparative analysis of generalised echo and interference cancelling and extended multichannel Wiener filtering for combined noise reduction and acoustic echo cancellation**, in *Proc. 2025 IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP '25)*, Hyderabad, India, Apr. 2025.  
 \[[Published](https://doi.org/10.1109/ICASSP49660.2025.10890146){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.03593){:target="_blank"}\]
+
+63. Stefano Damiano, Thomas Dietzen, and Toon van Waterschoot, **Frequency tracking features for data-efficient deep siren identification**, in *Proc. Detection Classification Acoustic Scenes Events 2024 Workshop (DCASE '24)*, Tokyo, Japan, pp. 36-40, Oct. 2024.  
+\[[Published](https://dcase.community/documents/workshop2024/proceedings/DCASE2024Workshop_Damiano_41.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2409.08587){:target="_blank"}\]
 
 7. Paul Didier, Pourya Behmandpoor, Toon van Waterschoot, and Marc Moonen, **One-shot distributed node-specific signal estimation with non-overlapping latent subspaces in acoustic sensor networks**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 260-264, Sept. 2024.  
 \[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694548){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2408.03752){:target="_blank"}\]
@@ -537,8 +550,6 @@ using a nonstationary source model**,
 
 7. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
 \[[Published](https://doi.org/10.5281/zenodo.14254759){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/d6cd8716-405b-44db-a7c3-c41532e3c753){:target="_blank"}\]
-
-6. Dummy
   
 4. Hannes Rosseel, Martin Jälmby, and Toon van Waterschoot, **Low-rank multi-channel fast convolution for real-time auralization of church acoustics**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 1017-1021, Aug. 2024.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001017.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/e9ad3eb8-9135-4db7-8f37-ae98aaa2f012){:target="_blank"}\]
