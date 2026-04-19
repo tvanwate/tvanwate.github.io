@@ -13,6 +13,9 @@ entries_layout: list
 1. Hannes Rosseel and Toon van Waterschoot, **Accelerated interactive auralization of highly reverberant spaces using graphics hardware**, *J. Audio Eng. Soc.*, to appear, 2026.  
 \[[Archived](https://arxiv.org/abs/2509.04390){:target="_blank"}\]
 
+1. Paul Didier, Toon van Waterschoot, Simon Doclo, Jörg Bitzer, and Marc Moonen, **Fast-converging distributed signal estimation in topology-unconstrained wireless acoustic sensor networks**, *IEEE Trans. Signal Inform. Process. Networks*, to appear, 2026.  
+\[[Published](https://doi.org/10.1109/TSIPN.2026.3674663){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2506.02797){:target="_blank"}\]
+
 1. Stefano Damiano, Kathleen MacWilliam, Valerio Lorenzoni, Thomas Dietzen, and Toon van Waterschoot, **The trajectoRIR database: Room acoustic recordings along a trajectory of moving microphones**, *J. Audio, Speech, Music Process.*, vol. 2026, Article No. 19, 19 p., 2026. \[[Published](https://doi.org/10.1186/s13636-026-00449-2){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.23004){:target="_blank"}\]
 
 1. Jesper Brunnström, Martin Bo Møller, Jan Østergaard, Shoichi Koyama, Toon van Waterschoot, and Marc Moonen, **Time-domain sound field estimation using kernel ridge regression**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 1243-1258, 2026.  
