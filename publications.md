@@ -28,6 +28,8 @@ entries_layout: list
 10. Hannes Rosseel and Toon van Waterschoot, **A state-of-the-art review on acoustic preservation of historical worship spaces through auralization**, *Signal Processing*, vol. 234, 25 p., Sep. 2025.  
 \[[Published](https://doi.org/10.1016/j.sigpro.2025.109992){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.18022){:target="_blank"}\]
 
+10. José Cadavid, Martin Bo Møller, Toon van Waterschoot, Søren Bech, and Jan Østergaard, **Effects of reduced information in the performance of low-frequency sound zones**, *J. Audio Eng. Soc.*, vol. 73, no. 7/8, pp. 429-445, Jul./Aug. 2025.  
+\[[Published](https://doi.org/10.17743/jaes.2022.0207){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/82a517a2-36f7-44bf-a4c8-9b4a4c2220d5){:target="_blank"}\]
 
 1. Dummy
 
