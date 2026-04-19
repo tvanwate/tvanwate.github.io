@@ -499,6 +499,9 @@ using a nonstationary source model**,
 1. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
 \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/rees2025_akshara_camready.pdf){:target="_blank"}\]
 
+2. Paul Didier, Toon van Waterschoot, Simon Doclo, Jörg Bitzer, and Marc Moonen, **Improved topology-independent distributed adaptive node-specific signal estimation for wireless acoustic sensor networks**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 2402-2406, Sept. 2025.
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0002402.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2506.20001){:target="_blank"}\]
+
 2. Manuel Alejandro Jaramillo Rodriguez, Randall Ali, and Toon van Waterschoot, **Direction-of-arrival data association for wildlife acoustic localization**, in *Proc. 33rd European Signal Process. Conf. (EUSIPCO '25)*, Palermo, Sicily, pp. 211-215, Sept. 2025.
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0000211.pdf){:target="_blank"}\] \[[Archived](https://openresearch.surrey.ac.uk/view/pdfCoverPage?instCode=44SUR_INST&filePid=13222485420002346&download=true){:target="_blank"}\]
 
@@ -523,6 +526,9 @@ using a nonstationary source model**,
 5. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **A comparative analysis of generalised echo and interference cancelling and extended multichannel Wiener filtering for combined noise reduction and acoustic echo cancellation**, in *Proc. 2025 IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP '25)*, Hyderabad, India, Apr. 2025.  
 \[[Published](https://doi.org/10.1109/ICASSP49660.2025.10890146){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.03593){:target="_blank"}\]
 
+7. Paul Didier, Pourya Behmandpoor, Toon van Waterschoot, and Marc Moonen, **One-shot distributed node-specific signal estimation with non-overlapping latent subspaces in acoustic sensor networks**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 260-264, Sept. 2024.  
+\[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694548){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2408.03752){:target="_blank"}\]
+
 6. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized $$\ell_p$$ norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
 \[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694577){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2411.03168){:target="_blank"}\]
 
@@ -537,8 +543,8 @@ using a nonstationary source model**,
 6. Bilgesu Çakmak, Thomas Dietzen, Randall Ali, Patrick Naylor, and Toon van Waterschoot, **Microphone pair selection for sound source localization in massive arrays of spatially distributed microphones**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 251-255, Aug. 2024.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000251.pdf){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/bf02a84e-eae1-475c-bdf3-af3fb9e08cc7){:target="_blank"}\]
 
-7. Paul Didier, Toon van Waterschoot, and Marc Moonen, **Topology-independent GEVD-based distributed signal estimation in ad-hoc wireless acoustic sensor networks**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, to appear, Aug. 2024.  
-\[[Archived](https://arxiv.org/abs/2407.14172){:target="_blank"}\]
+7. Paul Didier, Toon van Waterschoot, and Marc Moonen, **Topology-independent GEVD-based distributed signal estimation in ad-hoc wireless acoustic sensor networks**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 2317-2321, Aug. 2024.  
+\[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002317.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2407.14172){:target="_blank"}\]
 
 8. Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **Cascaded noise reduction and acoustic echo cancellation based on an extended noise reduction**, in *Proc. 32nd European Signal Process. Conf. (EUSIPCO '24)*, Lyon, France, pp. 11-15, Aug. 2024.  
 \[[Published](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000011.pdf){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2406.08974){:target="_blank"}\]
