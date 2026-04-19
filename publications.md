@@ -13,6 +13,8 @@ entries_layout: list
 1. Hannes Rosseel and Toon van Waterschoot, **Accelerated interactive auralization of highly reverberant spaces using graphics hardware**, *J. Audio Eng. Soc.*, to appear, 2026.  
 \[[Archived](https://arxiv.org/abs/2509.04390){:target="_blank"}\]
 
+1. Stefano Damiano, Kathleen MacWilliam, Valerio Lorenzoni, Thomas Dietzen, and Toon van Waterschoot, **The trajectoRIR database: Room acoustic recordings along a trajectory of moving microphones**, *J. Audio, Speech, Music Process.*, vol. 2026, Article No. 19, 19 p., 2026. \[[Published](https://doi.org/10.1186/s13636-026-00449-2){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2503.23004){:target="_blank"}\]
+
 1. Jesper Brunnström, Martin Bo Møller, Jan Østergaard, Shoichi Koyama, Toon van Waterschoot, and Marc Moonen, **Time-domain sound field estimation using kernel ridge regression**, *IEEE Trans. Audio Speech Language Process.*, vol. 34, pp. 1243-1258, 2026.  
 \[[Published](https://doi.org/10.1109/TASLPRO.2026.3662464){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2509.05720){:target="_blank"}\]
 
@@ -485,6 +487,9 @@ using a nonstationary source model**,
 
 ## Conference Papers
 
+1. Yousef Masa'd, Giulio Vitolo, Mateo Sakr, Dunia Tornila Jichi, Yusuf Hussein, Valerio Lorenzoni, and Toon van Waterschoot, **A mobile Wi-Fi and IMU head-tracking system for auralization in XR**, in *Proc. 2025 IEEE 6th Int. Symp. Internet of Sounds (IS2 '25)*, L'Aquila, Italy, Oct. 2025.  
+\[[Published](https://doi.org/10.1109/IS264627.2025.11284664){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/pub/stadius/ida/reports/25-199-pub.pdf){:target="_blank"}\]
+
 1. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
 \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/rees2025_akshara_camready.pdf){:target="_blank"}\]
 
@@ -496,6 +501,12 @@ using a nonstationary source model**,
 
 3. Akshara Parul and Toon van Waterschoot, **The role of mathematical competencies in engineering research: Insights from digital signal processing PhD scholars**, in *Proc. 22nd SEFI Special Interest Group Math. Seminar*, Wolfenbüttel, Germany, pp. 127-136, Jun. 2025.
 \[[Published](https://www.sefi.be/wp-content/uploads/2025/12/Proceedings_SEFIMSIG_2025v3.pdf){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/stadius/vanwaterschoot/reports/sefisig2025_akshara_published.pdf){:target="_blank"}\]
+
+4. Toon van Waterschoot, **Deep, data-driven modeling of room acoustics: Literature review and research perspectives**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4065-4072, Jun. 2025.  
+\[[Published](https://doi.org/10.61782/fa.2025.0264){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2504.16289){:target="_blank"}\]
+
+4. Kathleen MacWilliam, Thomas Dietzen, and Toon van Waterschoot, **Tracking of spatially dynamic room impulse responses along locally linearized trajectories**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4103-4110, Jun. 2025.  
+\[[Published](https://doi.org/10.61782/fa.2025.0913){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2506.11703){:target="_blank"}\]
 
 4. Arina Epure, Thomas Dietzen, and Toon van Waterschoot, **Multi-channel processing for patient identification and audio analysis in the context of group music therapy**, in *Proc. 11th Conv. European Acoust. Assoc. (Forum Acusticum / EuroNoise '25)*, Malaga, Spain, pp. 4275-4281, Jun. 2025.  
 \[[Published](https://doi.org/10.61782/fa.2025.0588){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/c33c81fd-d932-4a14-a4ba-3e0f4271a686){:target="_blank"}\]
