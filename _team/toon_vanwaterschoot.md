@@ -26,17 +26,17 @@ Finally, I also enjoy [renovating old houses](https://inventaris.onroerenderfgoe
 - MSc in Electrical Engineering, *KU Leuven, Belgium, Jun. 2001
 
 ### Academic Positions
-- Professor (*hoogleraar*, tenured), *KU Leuven, Belgium* (2022—ongoing)
+- Professor (*hoogleraar*, tenured), *KU Leuven, Belgium* (2022-ongoing)
 - Campus Chair, Group T Leuven & De Nayer Sint-Katelijne-Waver Campus, *KU Leuven, Belgium* (2024-ongoing)
 - Head of Stadius Center for Dynamical Systems, Signal Processing, and Data Analytics, Dept. Electrical Engineering (ESAT), *KU Leuven, Belgium* (2021-2024)
-- Associate Professor, *KU Leuven, Belgium* (2018—2022)
-- Assistant Professor (tenure-track), *KU Leuven, Belgium* (2013–2018)
-- Visiting Lecturer, *University of Lugano, Switzerland* (2005–2016)
-- Postdoctoral Research Fellow of the Research Foundation Flanders (FWO-Vlaanderen), *KU Leuven, Belgium* (2011–2014)
-- Postdoctoral Research Fellow, *Delft University of Technology, The Netherlands* (2010–2011)
-- Postdoctoral Research Fellow, *KU Leuven, Belgium* (2009–2010)
-- PhD Fellow of the Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), *KU Leuven, Belgium* (2004–2007)
-- Research Assistant, *KU Leuven, Belgium* (2002–2009)
+- Associate Professor, *KU Leuven, Belgium* (2018-2022)
+- Assistant Professor (tenure-track), *KU Leuven, Belgium* (2013-2018)
+- Visiting Lecturer, *University of Lugano, Switzerland* (2005-2016)
+- Postdoctoral Research Fellow of the Research Foundation Flanders (FWO-Vlaanderen), *KU Leuven, Belgium* (2011-2014)
+- Postdoctoral Research Fellow, *Delft University of Technology, The Netherlands* (2010-2011)
+- Postdoctoral Research Fellow, *KU Leuven, Belgium* (2009-2010)
+- PhD Fellow of the Institute for the Promotion of Innovation through Science and Technology in Flanders (IWT-Vlaanderen), *KU Leuven, Belgium* (2004-2007)
+- Research Assistant, *KU Leuven, Belgium* (2002-2009)
 - Teaching Assistant, *Antwerp Maritime Academy, Belgium* (2002)
 
 ### Awards
