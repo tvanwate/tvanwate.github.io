@@ -500,7 +500,15 @@ using a nonstationary source model**,
 
 ## Conference Papers
 
-1. Yousef Masa'd, Giulio Vitolo, Mateo Sakr, Dunia Tornila Jichi, Yusuf Hussein, Valerio Lorenzoni, and Toon van Waterschoot, **A mobile Wi-Fi and IMU head-tracking system for auralization in XR**, in *Proc. 2025 IEEE 6th Int. Symp. Internet of Sounds (IS2 '25)*, L'Aquila, Italy, Oct. 2025.  
+1. Stefano Damiano and Toon van Waterschoot, **Sound field reconstruction with an attention-based deep operator network**, in *Proc. 34th European Signal Process. Conf. (EUSIPCO '26)*, Bruges, Belgium, Sept. 2026, to appear.
+   
+3. Matthias Blochberger, Jan Østergaard, Filip Elvander, Marc Moonen, and Toon van Waterschoot, **Physics-informed coding for sound field estimation in wireless acoustic sensor networks**, in *Proc. 34th European Signal Process. Conf. (EUSIPCO '26)*, Bruges, Belgium, Sept. 2026, to appear.
+  
+5. Manuel Alejandro Jaramillo Rodriguez, Randall Ali, and Toon van Waterschoot, **Localizing multiple sound sources by associating sub-band TDOA features for biodiversity monitoring**, in *Proc. 34th European Signal Process. Conf. (EUSIPCO '26)*, Bruges, Belgium, Sept. 2026, to appear.
+  
+7. Basil Liekens, Arnout Roebben, Toon van Waterschoot, and Marc Moonen, **On the use of dereverberation for acoustic feedback cancellation**, in *Proc. 34th European Signal Process. Conf. (EUSIPCO '26)*, Bruges, Belgium, Sept. 2026, to appear.
+
+8. Yousef Masa'd, Giulio Vitolo, Mateo Sakr, Dunia Tornila Jichi, Yusuf Hussein, Valerio Lorenzoni, and Toon van Waterschoot, **A mobile Wi-Fi and IMU head-tracking system for auralization in XR**, in *Proc. 2025 IEEE 6th Int. Symp. Internet of Sounds (IS2 '25)*, L'Aquila, Italy, Oct. 2025.  
 \[[Published](https://doi.org/10.1109/IS264627.2025.11284664){:target="_blank"}\] \[[Archived](https://ftp.esat.kuleuven.be/pub/pub/stadius/ida/reports/25-199-pub.pdf){:target="_blank"}\]
 
 1. Akshara Parul and Toon van Waterschoot, **Thematic analysis of fundamental conceptual errors in first-year engineering mathematics**, in *Proc. 2025 Research Eng. Educ. Symp. (REES '25)*, Johor Bahru, Malaysia, Oct. 2025.
