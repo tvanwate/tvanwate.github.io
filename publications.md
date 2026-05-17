@@ -45,7 +45,7 @@ entries_layout: list
 14, 19 p., 2025.  
 \[[Published](https://doi.org/10.1186/s13636-025-00399-1){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/6ed453a2-092c-43cb-bcd7-e1c3e700b92d){:target="_blank"}\]
 
-1. Thomas Dietzen, Enzo De Sena, and Toon van Waterschoot, **Scalable-complexity steered response power based on low-Rank and sparse interpolation**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 32, pp. 5024-5039, 2024.  
+1. Thomas Dietzen, Enzo De Sena, and Toon van Waterschoot, **Scalable-complexity steered response power based on low-rank and sparse interpolation**, *IEEE/ACM Trans. Audio Speech Language Process.*, vol. 32, pp. 5024-5039, 2024.  
 \[[Published](https://doi.org/10.1109/TASLP.2024.3496317){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2306.08514){:target="_blank"}\]
 
 2. Eric Grinstein, Elisa Tengan, Bilgesu Çakmak, Thomas Dietzen, Leonardo Nunes, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **Steered response power for sound source localization: A tutorial review**, *EURASIP J. Audio, Speech, Music Process.*, vol. 2024, Article No. 59, 27 p., 2024. \[[Published](https://doi.org/10.1186/s13636-024-00377-z){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2405.02991){:target="_blank"}\]
