@@ -586,7 +586,7 @@ using a nonstationary source model**,
 13. Jesper Brunnström, Martin Jälmby, Toon van Waterschoot, and Marc Moonen, **Fast low-rank filtered-x least mean squares for multichannel active noise control**, in *Proc. 57th Asilomar Conf. Signal Syst. Comput. (Asilomar '23)*, Pacific Grove, CA, USA, Oct. 2023.  
 \[[Published](https://doi.org/10.1109/IEEECONF59524.2023.10477017){:target="_blank"}\] \[[Archived](https://lirias.kuleuven.be/retrieve/758389){:target="_blank"}\]
 
-14. Eric Grinstein, Toon van Waterschoot}, Mike Brookes, and Patrick A. Naylor, **The Neural-SRP method for positional sound source localization**, in *Proc. 57th Asilomar Conf. Signal Syst. Comput. (Asilomar '23)*, Pacific Grove, CA, USA, Oct. 2023.  
+14. Eric Grinstein, Toon van Waterschoot, Mike Brookes, and Patrick A. Naylor, **The Neural-SRP method for positional sound source localization**, in *Proc. 57th Asilomar Conf. Signal Syst. Comput. (Asilomar '23)*, Pacific Grove, CA, USA, Oct. 2023.  
 \[[Published](https://doi.org/10.1109/IEEECONF59524.2023.10476973){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2403.09455){:target="_blank"}\]
 
 15. Elisa Tengan, Thomas Dietzen, Filip Elvander, and Toon van Waterschoot, **Multi-source direction-of-arrival estimation using group-sparse fitting of steered response power maps**, in *Proc. 2023 IEEE Workshop Appls. Signal Process. Audio Acoust. (WASPAA '23)*, New Paltz, NY, USA, Oct. 2023.  
