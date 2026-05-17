@@ -553,7 +553,7 @@ using a nonstationary source model**,
 7. Paul Didier, Pourya Behmandpoor, Toon van Waterschoot, and Marc Moonen, **One-shot distributed node-specific signal estimation with non-overlapping latent subspaces in acoustic sensor networks**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 260-264, Sept. 2024.  
 \[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694548){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2408.03752){:target="_blank"}\]
 
-6. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized $$\ell_p$$ norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
+6. Anselm Lohmann, Toon van Waterschoot, Joerg Bitzer, and Simon Doclo, **Reference microphone selection for the weighted prediction error algorithm using the normalized *l~p~* norm**, in *Proc. 2024 Int. Workshop Acoustic Signal Enhancement (IWAENC '24)*, Aalborg, Denmark, pp. 125-129, Sept. 2024.  
 \[[Published](https://doi.org/10.1109/IWAENC61483.2024.10694577){:target="_blank"}\] \[[Archived](https://arxiv.org/abs/2411.03168){:target="_blank"}\]
 
 7. Akshara Parul and Toon van Waterschoot, **Correlation among courses in mathematics trajectory of engineering technology**, in *Proc. 52nd Ann. Conf. Eur. Soc. Eng. Educ. (SEFI '24)*, Lausanne, Switzerland, Sept. 2024.
